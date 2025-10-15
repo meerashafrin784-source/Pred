@@ -1,0 +1,1001 @@
+student_id,student_name,mentor_id,age,gender,study_hours_per_day,social_media_hours,netflix_hours,part_time_job,attendance_percentage,sleep_hours,diet_quality,exercise_frequency,parental_education_level,internet_quality,mental_health_rating,extracurricular_participation,exam_score,Mentor_ID,Assignment_Score,Final_Score,Risk_Level,Learning_Pattern,part_time_job_encoded
+S1521,Vivaan Sharma,M1,23,Male,3.5,2.1,1.4,No,82.2,7.7,Fair,1,High School,Good,3,No,64.2,M053,19,66.88082967049287,Moderate Risk,,0
+S1737,Ishaan Das,M1,21,Male,5.9,4.6,2.6,Yes,100.0,6.6,Fair,0,High School,Average,1,Yes,72.7,M074,7,85.50901083784574,No Risk,,1
+S1740,Rohan Nair,M1,23,Female,4.5,2.4,1.2,Yes,86.8,6.5,Poor,3,,Average,4,Yes,79.0,M075,13,76.22347693218056,No Risk,,1
+S1660,Vivaan Verma,M1,24,Female,3.3,2.2,1.4,No,89.1,5.9,Good,2,High School,Good,9,Yes,79.5,M067,15,73.78849693555111,No Risk,,0
+S1411,Aditya Kapoor,M1,24,Male,1.6,0.8,3.2,Yes,63.0,8.0,Good,3,High School,Good,10,No,58.2,M042,18,60.27107044752806,Moderate Risk,,1
+S1678,Pari Patel,M1,18,Female,3.5,5.2,0.7,Yes,79.9,7.4,Good,0,Master,Good,2,Yes,53.4,M068,1,63.415925042819595,Moderate Risk,,1
+S1626,Aarav Mehta,M1,21,Male,3.0,1.6,2.1,No,78.8,6.3,Good,6,Bachelor,Good,9,Yes,70.8,M063,3,70.09103782075194,No Risk,,0
+S1513,Krishna Das,M1,22,Male,2.1,1.9,2.7,Yes,70.9,6.9,Good,3,High School,Good,6,No,62.5,M052,9,55.86168580121724,Moderate Risk,,1
+S1859,Mira Iyer,M1,23,Female,1.6,3.2,1.7,No,83.9,8.2,Good,1,High School,Good,1,No,36.8,M086,8,45.82686158178439,High Risk,,0
+S1136,Aarav Verma,M1,17,Female,4.9,3.0,3.6,No,91.1,6.7,Good,1,Bachelor,Good,4,No,67.6,M014,10,81.08314439625477,No Risk,,0
+S1811,Krishna Verma,M2,19,Female,0.0,2.4,0.6,Yes,87.0,7.1,Good,4,High School,Average,5,No,53.0,M082,11,36.43465160553939,High Risk,,1
+S1076,Pari Das,M2,20,Male,6.0,2.5,2.9,No,85.1,6.7,Poor,5,Bachelor,Average,10,Yes,100.0,M008,19,100.0,No Risk,,0
+S1636,Sara Kapoor,M2,17,Female,3.0,3.2,1.6,No,81.6,9.1,Fair,2,Bachelor,Average,1,Yes,58.4,M064,3,60.558375785309224,Moderate Risk,,0
+S1973,Ishaan Sharma,M2,19,Male,4.4,4.3,3.2,No,76.0,5.4,Good,4,Master,Good,8,No,74.6,M098,13,79.58612788918862,No Risk,,0
+S1938,Sai Ghosh,M2,22,Male,1.2,2.3,1.7,No,97.7,4.9,Fair,1,High School,Poor,1,No,28.0,M094,0,36.965639072721686,High Risk,,0
+S1899,Ananya Gupta,M2,19,Female,3.8,2.0,1.5,No,80.8,5.1,Poor,0,,Average,1,No,55.7,M090,8,60.17621472684553,Moderate Risk,,0
+S1280,Arjun Kumar,M2,20,Female,4.5,4.6,2.0,No,87.9,6.5,Fair,2,Bachelor,Good,6,No,73.8,M029,0,80.07702853237276,No Risk,,0
+S1883,Ananya Reddy,M2,24,Male,3.7,2.8,2.1,No,82.3,5.8,Good,6,High School,Average,4,No,75.5,M089,11,66.71950443225921,Moderate Risk,,0
+S1761,Aditya Pillai,M2,18,Female,4.6,3.4,2.0,No,77.5,7.9,Good,0,Bachelor,Good,1,Yes,71.8,M077,4,72.89923949991592,No Risk,,0
+S1319,Vivaan Joshi,M2,22,Male,2.8,3.3,3.3,No,73.7,3.9,Good,4,Master,Average,5,Yes,59.4,M032,19,55.35271035554025,Moderate Risk,,0
+S1549,Diya Iyer,M3,23,Male,2.0,4.4,1.8,No,92.5,9.5,Good,4,Bachelor,Average,4,No,51.5,M055,8,59.185264374129616,Moderate Risk,,0
+S1174,Ishaan Patel,M3,24,Male,3.7,3.6,3.3,Yes,80.2,7.7,Good,5,High School,Poor,2,No,69.3,M018,17,66.37388629702518,Moderate Risk,,1
+S1371,Sara Verma,M3,24,Male,0.8,1.4,3.8,Yes,76.5,7.5,Good,2,Bachelor,Average,10,No,36.0,M038,10,53.181253174359455,Moderate Risk,,1
+S1527,Vivaan Pillai,M3,18,Female,3.8,0.7,2.1,No,77.5,7.2,Good,5,Bachelor,Good,10,No,81.8,M053,10,81.47786901645725,No Risk,,0
+S1210,Aditya Verma,M3,23,Female,3.2,2.3,1.7,Yes,83.8,6.6,Poor,0,Master,Good,9,No,66.3,M022,6,73.1606888472883,No Risk,,1
+S1235,Rudra Iyer,M3,20,Female,3.8,0.8,0.3,No,72.3,6.7,Fair,1,High School,Poor,3,No,71.5,M024,20,66.47682598234833,Moderate Risk,,0
+S1101,Diya Kapoor,M3,18,Male,3.6,3.0,1.9,No,78.1,4.5,Good,6,Bachelor,Average,6,No,74.0,M011,2,66.26055319278444,Moderate Risk,,0
+S1986,Krishna Mehta,M3,20,Male,1.1,1.7,2.2,No,91.4,7.0,Poor,5,Master,Poor,8,No,59.6,M099,19,53.48063886482473,Moderate Risk,,0
+S1902,Vihaan Das,M3,22,Male,4.1,2.4,0.8,No,72.7,5.8,Fair,3,Master,Good,3,No,66.7,M091,20,67.5813570203709,Moderate Risk,,0
+S1947,Rudra Mehta,M3,24,Female,4.5,3.2,3.3,Yes,70.0,6.3,Good,0,High School,Good,6,Yes,59.9,M095,6,77.34782380998459,No Risk,,1
+S1346,Rohan Reddy,M4,19,Male,4.5,6.0,2.2,Yes,95.3,7.6,Poor,3,High School,Good,2,Yes,73.7,M035,18,75.78139872010894,No Risk,,1
+S1139,Aadhya Gupta,M4,17,Male,4.0,0.7,3.1,No,86.0,5.6,Good,6,High School,Poor,6,No,83.5,M014,6,73.40918324854188,No Risk,,0
+S1621,Sara Joshi,M4,18,Female,3.4,1.7,1.4,No,95.5,7.8,Good,0,Master,Good,2,No,70.7,M063,20,65.93541863097934,Moderate Risk,,0
+S1499,Sai Joshi,M4,20,Male,5.2,3.2,4.2,Yes,78.9,6.1,Poor,0,Bachelor,Poor,10,No,83.3,M050,6,92.53252755856536,No Risk,,1
+S1370,Diya Kumar,M4,20,Male,3.7,3.1,3.4,Yes,83.7,5.5,Fair,1,High School,Average,5,Yes,59.8,M038,12,68.09964102597154,Moderate Risk,,1
+S1198,Ishaan Mehta,M4,21,Male,1.3,0.4,2.3,Yes,69.2,5.5,Good,1,High School,Good,8,Yes,42.2,M020,16,49.26025626393408,High Risk,,1
+S1687,Priya Singh,M4,21,Male,2.2,1.5,1.3,Yes,89.8,6.5,Poor,5,Master,Average,9,No,71.6,M069,7,64.22680429026332,Moderate Risk,,1
+S1584,Saanvi Das,M4,22,Female,2.1,0.0,0.7,No,77.5,6.1,Good,0,Bachelor,Average,5,No,52.5,M059,13,53.43548431867727,Moderate Risk,,0
+S1901,Sai Pandey,M4,20,Male,3.3,2.1,2.1,No,99.4,4.4,Fair,6,High School,Good,3,Yes,71.4,M091,14,60.44353902357098,Moderate Risk,,0
+S1059,Aadhya Gupta,M4,21,Female,6.7,2.2,2.6,No,84.5,6.7,Good,3,Master,Average,5,Yes,97.1,M006,10,99.3322255440458,No Risk,,0
+S1328,Saanvi Das,M5,24,Female,1.2,2.5,0.8,Yes,96.9,5.8,Good,4,Master,Good,5,No,50.3,M033,20,46.77746947814363,High Risk,,1
+S1096,Ananya Patel,M5,18,Female,6.0,3.6,0.8,No,92.3,7.1,Good,0,High School,Good,3,No,87.9,M010,1,90.3604843214189,No Risk,,0
+S1312,Rohan Patel,M5,20,Male,3.3,1.6,1.9,No,93.2,4.5,Good,6,Master,Average,4,No,70.1,M032,11,61.705020458049326,Moderate Risk,,0
+S1974,Ananya Pillai,M5,20,Male,3.0,2.5,1.7,No,90.1,4.0,Fair,3,Bachelor,Poor,7,No,70.9,M098,8,63.18183957382608,Moderate Risk,,0
+S1299,Ishaan Mehta,M5,24,Female,4.5,3.1,0.5,No,100.0,7.7,Fair,3,Bachelor,Average,10,No,93.8,M030,20,92.32527138148953,No Risk,,0
+S1277,Krishna Kapoor,M5,22,Female,5.9,3.5,0.4,No,89.0,4.9,Good,1,,Good,3,No,71.4,M028,14,84.89336461530635,No Risk,,0
+S1924,Ananya Kumar,M5,17,Other,2.7,2.3,3.2,Yes,97.4,5.5,Poor,5,Bachelor,Average,1,Yes,57.4,M093,2,52.32210158569091,Moderate Risk,,1
+S1601,Ira Pillai,M5,24,Other,4.6,1.5,1.8,No,81.5,7.3,Fair,0,High School,Good,5,Yes,80.2,M061,5,79.99710645876662,No Risk,,0
+S1439,Sara Nair,M5,19,Female,2.4,1.9,1.5,No,92.4,7.8,Good,6,High School,Good,3,No,63.8,M044,18,57.887632440658585,Moderate Risk,,0
+S1837,Ishaan Nair,M5,21,Female,2.2,1.0,1.4,No,76.6,5.1,Poor,2,High School,Poor,10,No,62.6,M084,12,61.93787889978478,Moderate Risk,,0
+S1570,Rohan Verma,M6,22,Male,3.2,4.0,2.7,No,74.5,8.0,Good,6,Master,Good,6,Yes,61.8,M058,2,69.01088403346208,Moderate Risk,,0
+S1879,Saanvi Gupta,M6,21,Female,0.8,2.3,1.0,No,91.8,6.7,Fair,2,High School,Poor,6,No,44.3,M088,7,45.882267317953655,High Risk,,0
+S1261,Navya Ghosh,M6,22,Male,5.1,3.9,1.7,Yes,81.6,5.9,Fair,0,,Poor,3,Yes,65.1,M027,19,78.27993702145598,No Risk,,1
+S1578,Navya Pillai,M6,18,Male,4.9,4.4,1.4,Yes,97.0,6.7,Fair,4,High School,Average,3,No,77.2,M058,3,79.56378519095345,No Risk,,1
+S1023,Diya Das,M6,24,Female,1.1,4.1,1.4,Yes,90.0,9.0,Fair,6,Bachelor,Good,1,No,43.7,M003,1,43.11264554237983,High Risk,,1
+S1030,Arjun Bose,M6,21,Female,3.7,0.6,1.3,No,75.6,7.5,Fair,2,Master,Average,5,No,70.6,M004,14,71.28372522832932,No Risk,,0
+S1617,Ira Mehta,M6,24,Female,3.4,2.2,0.4,No,91.4,5.6,Fair,5,High School,Poor,5,No,71.3,M062,4,66.39590153446171,Moderate Risk,,0
+S1010,Vihaan Reddy,M6,19,Female,4.6,3.7,0.8,No,77.6,5.8,Fair,1,,Good,3,No,63.3,M002,1,72.49701239920088,No Risk,,0
+S1221,Arjun Singh,M6,19,Male,2.8,1.4,3.1,No,100.0,5.4,Poor,4,High School,Good,6,Yes,63.7,M023,1,63.24936597037619,Moderate Risk,,0
+S1820,Pari Iyer,M6,23,Male,2.0,2.8,3.3,No,90.7,6.9,Fair,1,Master,Poor,5,No,50.7,M083,11,55.74636984955916,Moderate Risk,,0
+S1296,Aditya Pillai,M7,22,Female,4.6,1.8,3.0,No,74.4,6.3,Fair,6,High School,Average,8,No,86.2,M030,3,82.83797915667989,No Risk,,0
+S1054,Aadhya Iyer,M7,23,Female,3.1,1.9,2.6,Yes,64.0,7.1,Fair,5,High School,Good,10,No,68.1,M006,10,72.690846777235,No Risk,,1
+S1542,Sara Bose,M7,19,Male,4.5,4.9,0.8,No,80.2,6.2,Good,1,Bachelor,Poor,8,No,72.2,M055,20,82.86940959030483,No Risk,,0
+S1209,Ishaan Verma,M7,21,Female,2.2,4.0,1.9,No,86.2,6.2,Poor,0,High School,Average,5,Yes,47.1,M021,9,55.613662036584685,Moderate Risk,,0
+S1604,Aarav Reddy,M7,23,Other,3.1,2.8,2.0,No,100.0,6.8,Poor,4,Master,Good,8,Yes,72.8,M061,19,73.26262818126969,No Risk,,0
+S1692,Saanvi Gupta,M7,21,Male,1.7,1.2,3.2,No,76.9,5.8,Good,4,High School,Average,5,Yes,37.4,M070,11,48.88992258947992,High Risk,,0
+S1662,Ananya Reddy,M7,21,Male,3.2,2.4,1.8,No,86.1,4.4,Fair,4,,Average,8,Yes,76.3,M067,1,67.135387796718,Moderate Risk,,0
+S1866,Rudra Ghosh,M7,21,Female,6.2,2.7,0.9,No,80.9,3.7,Fair,3,Bachelor,Good,4,Yes,87.9,M087,16,86.28614074361873,No Risk,,0
+S1070,Sai Pandey,M7,18,Female,2.7,1.7,1.3,No,95.5,6.1,Poor,2,Bachelor,Good,2,Yes,59.7,M008,7,55.5132632992257,Moderate Risk,,0
+S1543,Aarav Gupta,M7,18,Female,5.2,3.7,0.9,No,96.0,6.9,Good,0,High School,Poor,2,No,77.1,M055,11,81.12546045427125,No Risk,,0
+S1107,Mira Singh,M8,20,Male,2.1,2.9,1.4,No,76.9,6.1,Fair,4,,Average,7,No,60.4,M011,8,57.1097209445767,Moderate Risk,,0
+S1493,Mira Reddy,M8,22,Female,3.0,3.7,0.9,No,67.3,5.9,Poor,5,Bachelor,Average,10,No,73.9,M050,8,69.86686148580836,Moderate Risk,,0
+S1590,Rudra Bose,M8,17,Female,0.0,4.6,1.2,No,96.2,6.1,Poor,6,Bachelor,Average,7,No,42.0,M060,17,39.814236506305434,High Risk,,0
+S1741,Priya Kumar,M8,22,Female,3.0,2.0,1.7,No,98.5,5.4,Poor,1,Bachelor,Good,3,No,51.3,M075,8,59.321605616249165,Moderate Risk,,0
+S1292,Arjun Joshi,M8,17,Female,3.9,2.4,1.7,Yes,91.0,7.5,Good,4,Master,Average,6,Yes,74.2,M030,5,76.72979884006361,No Risk,,1
+S1289,Sai Verma,M8,24,Female,3.5,1.7,1.3,No,74.3,6.1,Good,1,High School,Good,7,Yes,73.5,M029,10,70.17372029686375,No Risk,,0
+S1652,Mira Sharma,M8,23,Female,5.9,4.6,0.9,No,96.9,5.4,Good,4,Bachelor,Average,10,No,100.0,M066,8,100.0,No Risk,,0
+S1039,Priya Bhat,M8,19,Male,5.5,3.1,2.3,No,71.3,5.7,Good,1,High School,Average,3,No,82.3,M004,4,80.13916633228848,No Risk,,0
+S1589,Ira Sharma,M8,21,Male,5.0,2.3,0.2,No,78.9,6.8,Poor,6,Bachelor,Good,1,No,75.4,M059,12,74.88973441291874,No Risk,,0
+S1307,Vivaan Joshi,M8,18,Female,4.1,2.5,1.9,Yes,91.5,7.6,Fair,2,,Good,5,No,75.4,M031,14,77.19283711040529,No Risk,,1
+S1679,Rudra Das,M9,18,Female,3.2,2.3,1.5,No,59.5,6.5,Good,2,Bachelor,Good,7,No,64.2,M068,3,66.02172898892952,Moderate Risk,,0
+S1066,Vihaan Das,M9,20,Male,3.6,4.2,0.9,No,67.0,5.4,Good,4,Bachelor,Average,8,No,66.5,M007,4,70.56261091603778,No Risk,,0
+S1275,Navya Mehta,M9,20,Male,3.9,2.1,2.8,No,74.2,6.7,Fair,5,Bachelor,Average,6,No,77.8,M028,20,73.4960840620685,No Risk,,0
+S1067,Aditya Yadav,M9,17,Male,3.3,1.8,3.2,No,81.7,5.8,Poor,0,Master,Good,2,No,62.2,M007,17,59.10142401393462,Moderate Risk,,0
+S1318,Aditya Verma,M9,23,Male,2.2,0.9,3.1,No,76.8,6.0,Fair,6,High School,Poor,7,No,64.1,M032,10,57.90061698795959,Moderate Risk,,0
+S1548,Arjun Nair,M9,18,Female,3.3,2.1,2.3,No,61.2,7.3,Poor,6,High School,Poor,3,No,67.1,M055,11,61.24727462736078,Moderate Risk,,0
+S1998,Ira Verma,M9,24,Male,5.4,4.1,1.1,Yes,100.0,7.6,Fair,0,Bachelor,Average,1,No,69.7,M100,9,82.80125735120757,No Risk,,1
+S1714,Sai Gupta,M9,24,Female,5.5,2.5,1.0,No,83.2,6.8,Fair,0,Bachelor,Good,1,Yes,80.6,M072,20,80.41870170959419,No Risk,,0
+S1753,Mira Iyer,M9,18,Male,4.3,3.4,0.9,No,83.3,5.7,Fair,1,Master,Good,2,No,59.2,M076,14,68.56614882735529,Moderate Risk,,0
+S1327,Pari Kumar,M9,23,Male,0.9,2.4,2.5,No,89.2,6.9,Fair,0,High School,Poor,1,No,23.1,M033,11,37.303696756932524,High Risk,,0
+S1382,Saanvi Kumar,M10,20,Male,6.0,2.2,2.8,Yes,83.1,7.6,Good,0,Bachelor,Average,6,No,96.8,M039,7,95.98330574322341,No Risk,,1
+S1451,Rudra Pillai,M10,22,Female,1.2,1.1,1.9,No,69.9,4.8,Poor,4,Master,Poor,7,No,58.6,M046,20,45.317687624670526,High Risk,,0
+S1522,Diya Pandey,M10,22,Female,2.1,2.1,2.0,No,74.6,5.7,Fair,0,High School,Good,6,Yes,44.1,M053,0,53.863861356577345,Moderate Risk,,0
+S1218,Mira Pandey,M10,24,Male,2.6,2.0,2.4,No,76.3,7.4,Fair,1,Bachelor,Good,3,No,48.5,M022,11,56.72804171709685,Moderate Risk,,0
+S1787,Vivaan Das,M10,24,Male,3.5,0.0,2.3,No,79.0,3.5,Fair,3,Bachelor,Good,5,Yes,64.4,M079,13,61.75641032040872,Moderate Risk,,0
+S1436,Rohan Mehta,M10,24,Male,4.4,1.8,0.7,No,74.0,7.8,Good,4,High School,Good,2,Yes,78.4,M044,1,72.20142444700457,No Risk,,0
+S1764,Ananya Sharma,M10,21,Male,6.6,2.6,1.5,No,84.7,7.9,Fair,1,Master,Poor,2,No,96.6,M077,15,95.12318789490914,No Risk,,0
+S1088,Navya Verma,M10,20,Male,3.9,2.3,2.1,No,100.0,6.1,Poor,6,Bachelor,Good,4,No,73.4,M009,5,71.36674548706665,No Risk,,0
+S1063,Rohan Kapoor,M10,17,Male,4.1,2.3,2.6,Yes,76.5,5.1,Fair,3,Bachelor,Average,9,No,77.6,M007,12,77.93800431282669,No Risk,,1
+S1826,Rohan Sharma,M10,19,Male,4.6,2.4,2.4,No,75.2,6.9,Poor,4,High School,Good,4,No,87.8,M083,6,76.4638029154945,No Risk,,0
+S1716,Aditya Patel,M11,19,Male,2.7,1.4,2.8,No,83.7,5.6,Good,2,High School,Average,7,Yes,63.5,M072,13,62.83469833434628,Moderate Risk,,0
+S1351,Rohan Mehta,M11,17,Female,3.2,3.2,0.8,No,98.6,7.3,Good,0,High School,Good,6,No,70.4,M036,14,71.03146217952072,No Risk,,0
+S1936,Vihaan Bhat,M11,22,Male,4.5,3.8,2.5,No,88.6,4.9,Good,5,Bachelor,Average,2,Yes,66.1,M094,7,69.37314874627906,Moderate Risk,,0
+S1256,Aditya Bose,M11,23,Female,3.6,3.2,2.7,No,90.6,5.7,Good,0,Bachelor,Good,6,No,64.5,M026,1,70.26342444094746,No Risk,,0
+S1635,Rohan Gupta,M11,18,Male,2.4,1.5,1.4,No,79.7,4.9,Poor,1,Master,Poor,3,No,45.8,M064,17,50.39290976596659,Moderate Risk,,0
+S1644,Ira Kumar,M11,24,Male,0.8,2.4,0.8,No,100.0,6.2,Fair,3,Bachelor,Average,2,Yes,35.3,M065,14,38.35876897082237,High Risk,,0
+S1554,Saanvi Nair,M11,17,Other,2.7,2.9,2.9,No,80.9,6.6,Fair,0,,Poor,6,No,53.4,M056,14,62.56661461599249,Moderate Risk,,0
+S1959,Navya Kapoor,M11,23,Female,3.2,4.5,0.7,No,95.1,5.9,Fair,2,Master,Good,1,No,45.7,M096,18,58.16895721813746,Moderate Risk,,0
+S1168,Ira Das,M11,23,Male,1.7,3.3,0.6,No,89.0,5.4,Fair,5,Bachelor,Good,4,Yes,50.1,M017,9,47.66158462555562,High Risk,,0
+S1917,Ira Ghosh,M11,20,Male,5.3,3.2,0.0,No,75.2,4.4,Good,5,High School,Good,3,No,77.2,M092,6,76.17682111889899,No Risk,,0
+S1528,Krishna Reddy,M12,18,Male,3.9,3.4,3.2,No,65.3,5.1,Fair,6,High School,Average,9,Yes,77.0,M053,6,74.59164304602616,No Risk,,0
+S1823,Vivaan Ghosh,M12,23,Male,4.8,2.8,0.6,No,93.5,6.7,Fair,4,High School,Good,1,No,85.4,M083,13,74.69726406079799,No Risk,,0
+S1985,Diya Ghosh,M12,18,Male,5.7,3.1,0.0,Yes,86.6,5.7,Fair,2,Master,Good,3,Yes,80.9,M099,3,83.83709930771842,No Risk,,1
+S1816,Pari Pandey,M12,17,Female,5.2,4.0,2.4,No,98.9,6.2,Fair,1,High School,Average,9,No,80.6,M082,5,93.52072036374514,No Risk,,0
+S1086,Vihaan Reddy,M12,22,Male,3.6,1.4,2.3,No,83.1,9.5,Good,5,Bachelor,Poor,6,No,79.2,M009,17,77.33511061106859,No Risk,,0
+S1432,Vihaan Pillai,M12,21,Other,4.2,2.4,4.3,No,80.1,5.5,Fair,0,Master,Good,9,No,70.7,M044,12,80.32499762476661,No Risk,,0
+S1184,Ananya Reddy,M12,17,Female,4.9,0.0,0.7,No,71.2,6.4,Fair,5,Master,Poor,5,No,96.2,M019,17,80.02370447698144,No Risk,,0
+S1978,Rohan Kumar,M12,24,Female,1.6,3.1,2.8,No,82.7,7.8,Fair,0,Bachelor,Good,5,Yes,43.5,M098,15,52.8069171527123,Moderate Risk,,0
+S1534,Krishna Verma,M12,19,Male,3.7,2.9,2.8,No,100.0,6.5,Good,6,Bachelor,Average,8,No,82.5,M054,2,77.94611714869123,No Risk,,0
+S1294,Sara Nair,M12,18,Male,4.3,3.3,0.0,No,100.0,6.8,Fair,6,High School,Average,9,No,94.9,M030,10,86.4145466869849,No Risk,,0
+S1892,Pari Singh,M13,17,Male,2.5,2.2,2.3,No,86.6,6.3,Fair,0,High School,Good,2,No,46.8,M090,0,52.67676976981174,Moderate Risk,,0
+S1425,Ishaan Pandey,M13,21,Male,4.5,1.7,0.4,No,86.1,7.8,Poor,4,Bachelor,Poor,2,Yes,71.1,M043,2,74.74679584716522,No Risk,,0
+S1713,Rohan Mehta,M13,20,Female,4.7,1.8,0.2,Yes,94.4,6.7,Fair,1,Bachelor,Good,8,No,83.3,M072,9,87.17338522767005,No Risk,,1
+S1260,Sara Verma,M13,17,Male,4.3,3.8,1.1,No,95.3,4.8,Fair,1,High School,Average,8,No,70.9,M027,19,80.07917503048272,No Risk,,0
+S1237,Vivaan Patel,M13,22,Female,2.0,1.3,3.4,Yes,75.0,4.9,Fair,1,High School,Average,9,No,53.8,M024,17,57.446011405867715,Moderate Risk,,1
+S1559,Saanvi Sharma,M13,22,Female,2.8,2.6,1.7,No,72.2,7.0,Fair,6,High School,Good,4,No,70.3,M056,14,59.3176082188474,Moderate Risk,,0
+S1583,Aditya Das,M13,18,Female,5.2,3.2,2.0,No,70.0,6.9,Fair,2,Bachelor,Poor,1,Yes,70.5,M059,1,75.56410910867007,No Risk,,0
+S1445,Sai Ghosh,M13,19,Male,2.1,2.3,0.9,No,78.8,4.8,Good,3,Bachelor,Poor,10,No,63.1,M045,12,60.66651797127229,Moderate Risk,,0
+S1867,Ira Yadav,M13,22,Female,5.4,3.0,1.5,No,100.0,8.5,Poor,6,Bachelor,Good,2,No,94.5,M087,13,86.81537607514274,No Risk,,0
+S1800,Krishna Pillai,M13,17,Male,3.4,1.5,1.0,No,90.8,7.5,Good,4,Bachelor,Poor,7,Yes,86.1,M081,8,74.11698213960493,No Risk,,0
+S1599,Vihaan Singh,M14,22,Male,5.5,3.2,1.8,No,100.0,7.5,Fair,0,High School,Poor,6,No,77.3,M060,9,93.41756315408789,No Risk,,0
+S1849,Aadhya Sharma,M14,22,Male,4.9,1.9,2.5,No,90.9,6.0,Fair,3,Bachelor,Average,10,No,98.7,M085,1,91.06042705491235,No Risk,,0
+S1265,Aadhya Gupta,M14,18,Female,0.6,3.1,3.0,No,79.9,5.2,Good,1,Bachelor,Good,4,No,18.4,M027,13,35.695498997956754,High Risk,,0
+S1995,Sara Chopra,M14,21,Female,2.6,0.5,1.6,No,77.0,7.5,Fair,2,High School,Good,6,Yes,76.1,M100,2,62.60898630138067,Moderate Risk,,0
+S1529,Pari Verma,M14,18,Female,3.1,3.2,1.6,No,84.8,7.5,Fair,6,Master,Good,1,No,65.7,M053,14,58.99371699166341,Moderate Risk,,0
+S1055,Ira Nair,M14,20,Male,5.4,2.8,3.8,No,91.8,6.9,Good,2,High School,Good,8,No,87.2,M006,16,94.25639589050435,No Risk,,0
+S1120,Krishna Chopra,M14,24,Male,3.7,0.4,0.9,No,92.1,6.6,Fair,6,Bachelor,Average,6,No,87.9,M013,4,73.29571392064503,No Risk,,0
+S1215,Krishna Patel,M14,21,Female,3.2,4.2,0.7,No,76.5,5.4,Good,6,High School,Good,5,Yes,67.5,M022,12,62.36315219155563,Moderate Risk,,0
+S1025,Navya Verma,M14,22,Male,4.9,4.3,3.3,No,74.7,9.0,Fair,1,High School,Average,2,Yes,69.9,M003,11,79.72601501797125,No Risk,,0
+S1072,Vihaan Bhat,M14,17,Male,3.4,0.1,0.6,No,77.7,7.9,Fair,1,High School,Average,4,Yes,77.1,M008,8,67.40497243212911,Moderate Risk,,0
+S1044,Vihaan Patel,M15,20,Female,3.6,1.4,0.8,No,73.0,5.3,Good,4,High School,Poor,9,No,78.5,M005,3,73.0527348371444,No Risk,,0
+S1247,Navya Yadav,M15,17,Female,5.8,3.5,1.9,No,88.7,8.8,Fair,1,Bachelor,Good,8,Yes,90.0,M025,8,100.0,No Risk,,0
+S1721,Mira Bose,M15,19,Male,5.9,0.0,2.0,Yes,84.6,8.3,Poor,3,High School,Good,8,No,100.0,M073,3,100.0,No Risk,,1
+S1281,Sai Patel,M15,20,Female,5.3,4.2,1.1,Yes,79.9,5.1,Good,2,High School,Average,9,No,83.3,M029,20,90.02515650569092,No Risk,,1
+S1893,Mira Mehta,M15,21,Female,3.0,1.6,2.0,No,98.6,6.0,Good,5,Bachelor,Good,2,No,67.7,M090,6,58.54865218839592,Moderate Risk,,0
+S1914,Sai Mehta,M15,20,Female,2.6,1.6,1.3,Yes,87.4,5.2,Good,6,Bachelor,Poor,10,No,72.9,M092,11,67.16124259750683,Moderate Risk,,1
+S1810,Priya Mehta,M15,19,Male,4.4,0.2,1.4,No,81.2,5.4,Good,1,High School,Average,10,No,80.7,M082,17,84.24145644401747,No Risk,,0
+S1244,Rohan Pillai,M15,23,Male,5.0,4.5,2.3,No,87.2,7.7,Good,6,High School,Average,8,No,98.0,M025,5,91.17230177950808,No Risk,,0
+S1822,Vivaan Kapoor,M15,22,Female,2.6,3.4,5.3,No,79.8,9.0,Poor,0,Bachelor,Good,2,No,49.1,M083,3,58.25033582871163,Moderate Risk,,0
+S1321,Rohan Kapoor,M15,21,Male,2.9,4.6,0.0,Yes,77.6,4.9,Good,3,Bachelor,Good,9,Yes,67.8,M033,5,66.0571960856117,Moderate Risk,,1
+S1643,Priya Patel,M16,17,Female,1.2,1.3,2.0,No,85.2,4.3,Fair,6,High School,Good,4,No,49.4,M065,17,40.397243464347795,High Risk,,0
+S1158,Priya Mehta,M16,17,Female,2.6,1.8,3.0,No,83.8,6.6,Fair,4,Bachelor,Good,5,Yes,62.3,M016,8,59.89499056803446,Moderate Risk,,0
+S1977,Pari Kapoor,M16,24,Female,5.8,1.3,2.2,Yes,89.1,7.9,Good,5,High School,Average,1,Yes,99.0,M098,3,85.65349701446371,No Risk,,1
+S1429,Navya Bose,M16,20,Male,3.6,2.4,1.4,No,70.0,8.6,Fair,2,Bachelor,Average,7,No,67.6,M043,13,75.6691536922658,No Risk,,0
+S1941,Ananya Gupta,M16,21,Male,2.1,3.5,0.9,No,88.8,5.6,Fair,6,High School,Good,6,No,63.4,M095,2,55.55225809573587,Moderate Risk,,0
+S1462,Krishna Bhat,M16,22,Male,4.9,2.6,0.0,Yes,66.1,7.6,Poor,3,Bachelor,Good,4,No,80.9,M047,8,79.43972749168098,No Risk,,1
+S1309,Rohan Gupta,M16,22,Male,4.2,2.2,1.6,No,84.9,7.1,Fair,5,High School,Good,3,Yes,73.3,M031,10,72.46946527786928,No Risk,,0
+S1697,Aadhya Nair,M16,18,Other,3.1,2.2,2.5,No,88.0,5.6,Good,4,High School,Good,9,No,66.9,M070,5,70.88053226053552,No Risk,,0
+S1060,Rudra Pandey,M16,19,Female,1.7,2.1,0.6,Yes,92.1,7.9,Fair,1,High School,Average,4,No,61.2,M007,6,52.843818501708505,Moderate Risk,,1
+S1884,Ananya Mehta,M16,24,Female,2.3,3.4,2.8,No,85.3,8.9,Good,0,Master,Good,3,No,40.9,M089,8,57.96871059317045,Moderate Risk,,0
+S1595,Aarav Pandey,M17,20,Male,5.6,2.0,0.0,No,77.5,7.1,Fair,4,Bachelor,Average,7,No,100.0,M060,9,92.59508739190754,No Risk,,0
+S1767,Priya Kapoor,M17,24,Male,3.1,2.8,2.3,No,79.0,4.8,Poor,0,Bachelor,Average,10,No,63.7,M077,15,70.30444327978815,No Risk,,0
+S1649,Vivaan Mehta,M17,21,Female,4.8,1.8,2.7,No,77.8,6.6,Fair,6,Bachelor,Average,5,No,88.0,M065,18,80.3518289178249,No Risk,,0
+S1650,Saanvi Kumar,M17,23,Female,2.8,2.4,0.7,No,78.6,8.2,Fair,0,Bachelor,Good,5,No,61.5,M066,14,64.49640278628236,Moderate Risk,,0
+S1865,Mira Gupta,M17,17,Male,3.8,2.0,1.4,No,82.6,5.4,Good,2,Master,Good,2,No,65.9,M087,19,63.23325898252023,Moderate Risk,,0
+S1668,Arjun Joshi,M17,21,Male,3.4,3.6,3.1,No,89.2,6.4,Good,2,Bachelor,Good,10,No,76.4,M067,13,77.64806114745504,No Risk,,0
+S1298,Aditya Das,M17,21,Female,5.4,3.1,1.8,No,88.1,6.2,Poor,3,High School,Average,4,Yes,91.3,M030,4,84.30455044313841,No Risk,,0
+S1689,Diya Chopra,M17,18,Female,4.1,1.9,0.2,No,84.0,4.0,Fair,6,,Good,2,No,72.4,M069,0,62.97664222510733,Moderate Risk,,0
+S1314,Sai Pandey,M17,19,Female,2.3,2.9,1.0,No,75.3,5.8,Good,2,Bachelor,Good,5,Yes,48.9,M032,4,54.22482934025107,Moderate Risk,,0
+S1310,Saanvi Chopra,M17,24,Other,5.3,3.8,1.7,No,79.0,7.1,Good,6,Master,Average,8,No,96.3,M032,20,92.15011231483649,No Risk,,0
+S1361,Priya Bose,M18,17,Male,4.4,6.1,0.0,No,92.6,5.1,Poor,4,Bachelor,Average,9,Yes,84.9,M037,8,82.9442358685411,No Risk,,0
+S1479,Aarav Verma,M18,20,Female,1.9,3.0,2.3,No,91.4,5.7,Good,5,Bachelor,Good,4,No,43.3,M048,1,50.277172882121384,Moderate Risk,,0
+S1110,Rudra Reddy,M18,24,Male,5.1,2.9,1.6,No,64.3,6.5,Fair,3,Bachelor,Average,9,Yes,86.5,M012,6,88.71668577165609,No Risk,,0
+S1989,Arjun Gupta,M18,24,Male,1.0,1.4,2.1,Yes,76.4,4.9,Fair,3,High School,Average,6,No,47.6,M099,6,41.99066866480511,High Risk,,1
+S1486,Vivaan Reddy,M18,19,Female,3.2,2.1,2.1,No,94.3,8.1,Fair,0,,Good,3,No,69.4,M049,16,66.31320694153706,Moderate Risk,,0
+S1363,Saanvi Nair,M18,18,Male,2.1,2.1,3.6,No,87.8,5.8,Fair,5,Master,Poor,4,No,56.9,M037,4,51.995877062321064,Moderate Risk,,0
+S1254,Ishaan Chopra,M18,17,Male,2.5,3.7,1.2,Yes,78.6,7.8,Good,6,Bachelor,Average,9,No,78.8,M026,6,68.22333762284175,Moderate Risk,,1
+S1259,Priya Kumar,M18,19,Female,4.3,0.9,1.2,No,80.7,6.3,Fair,4,Master,Good,1,No,72.6,M026,10,67.39251730952034,Moderate Risk,,0
+S1802,Ananya Kumar,M18,17,Male,4.3,1.9,1.9,No,78.7,10.0,Fair,4,,Good,2,No,82.9,M081,15,76.63368863396501,No Risk,,0
+S1677,Ishaan Bose,M18,24,Male,3.7,4.5,2.2,No,85.9,9.1,Good,3,,Good,5,No,73.8,M068,3,75.54938307934452,No Risk,,0
+S1494,Ira Gupta,M19,21,Male,4.0,1.7,2.0,No,78.1,5.7,Fair,3,High School,Good,5,No,66.5,M050,1,70.51956816790386,No Risk,,0
+S1670,Vihaan Mehta,M19,17,Female,4.6,0.5,1.6,No,72.3,5.5,Good,2,Master,Good,10,Yes,88.9,M068,13,85.09497342350971,No Risk,,0
+S1377,Pari Gupta,M19,17,Female,2.7,3.6,0.9,No,86.9,7.2,Good,2,High School,Poor,6,Yes,67.9,M038,15,64.57407726301332,Moderate Risk,,0
+S1526,Vihaan Sharma,M19,19,Female,2.8,3.1,4.5,No,95.9,6.3,Fair,2,,Good,3,No,40.7,M053,15,59.0649696558701,Moderate Risk,,0
+S1845,Ananya Nair,M19,21,Male,3.8,0.9,2.5,No,78.2,6.5,Poor,6,High School,Average,4,Yes,78.1,M085,18,68.72754452671516,Moderate Risk,,0
+S1137,Ishaan Singh,M19,17,Male,3.1,4.2,0.8,No,69.4,7.0,Good,6,Bachelor,Poor,2,No,64.7,M014,6,57.73115296091722,Moderate Risk,,0
+S1355,Sara Verma,M19,23,Male,3.3,2.9,2.3,Yes,89.6,8.3,Good,2,High School,Average,10,No,81.1,M036,5,80.19409924428379,No Risk,,1
+S1365,Pari Verma,M19,23,Female,5.1,3.1,0.5,Yes,81.9,4.8,Good,1,,Poor,3,No,76.0,M037,20,76.13479834718892,No Risk,,1
+S1942,Aarav Reddy,M19,24,Female,2.2,4.5,3.3,No,76.8,6.1,Poor,3,High School,Good,7,No,50.2,M095,18,58.30622040472394,Moderate Risk,,0
+S1749,Aditya Nair,M19,18,Female,3.7,4.0,1.0,No,70.1,6.7,Good,0,Bachelor,Poor,9,Yes,77.2,M075,14,76.72455852290013,No Risk,,0
+S1948,Saanvi Patel,M20,22,Female,3.0,3.0,1.6,No,70.2,6.7,Fair,2,Master,Good,7,No,63.2,M095,10,66.08059179540183,Moderate Risk,,0
+S1829,Diya Kapoor,M20,24,Female,4.1,5.4,0.9,No,81.8,7.0,Poor,3,,Good,8,Yes,73.2,M083,12,80.66463385418258,No Risk,,0
+S1656,Saanvi Nair,M20,23,Male,0.3,3.1,1.4,Yes,77.5,8.3,Good,3,Bachelor,Good,5,No,36.1,M066,9,40.424775948272334,High Risk,,1
+S1199,Pari Nair,M20,19,Female,3.8,3.0,0.7,No,85.5,5.1,Fair,2,Bachelor,Good,4,No,61.6,M020,0,66.39965143640015,Moderate Risk,,0
+S1213,Vihaan Chopra,M20,23,Male,1.1,3.1,3.8,No,88.3,6.8,Good,6,Bachelor,Poor,6,No,45.5,M022,20,48.823359445733274,High Risk,,0
+S1408,Diya Patel,M20,20,Male,1.2,3.5,2.0,No,81.7,6.5,Poor,4,Bachelor,Good,1,No,34.3,M041,8,38.3132041679196,High Risk,,0
+S1332,Diya Kumar,M20,20,Male,2.7,1.9,2.3,No,71.6,7.7,Fair,3,High School,Poor,8,No,71.2,M034,6,67.24748993434538,Moderate Risk,,0
+S1208,Rohan Reddy,M20,22,Male,2.8,1.2,2.2,Yes,94.1,7.2,Fair,3,High School,Average,10,No,75.8,M021,1,73.69702925369135,No Risk,,1
+S1613,Diya Verma,M20,18,Female,3.8,0.6,1.0,No,98.3,7.2,Fair,3,Bachelor,Average,9,No,85.7,M062,5,82.10238250420812,No Risk,,0
+S1078,Pari Iyer,M20,23,Female,4.4,2.0,2.0,Yes,85.8,7.1,Good,4,Master,Good,5,No,77.3,M008,13,78.28565503972364,No Risk,,1
+S1029,Arjun Das,M21,20,Female,2.0,3.2,3.8,Yes,82.6,6.7,Poor,6,High School,Poor,10,Yes,75.7,M003,12,63.85739439301797,Moderate Risk,,1
+S1535,Sai Singh,M21,22,Female,6.4,4.2,1.5,Yes,88.8,6.1,Fair,0,High School,Good,6,No,85.0,M054,1,97.36864105573422,No Risk,,1
+S1695,Pari Sharma,M21,20,Female,2.5,1.9,1.6,No,93.6,7.0,Good,4,Bachelor,Good,8,No,68.5,M070,15,67.01241138657575,Moderate Risk,,0
+S1557,Sai Bhat,M21,22,Male,3.8,3.6,4.3,No,100.0,7.3,Poor,1,Bachelor,Poor,7,Yes,69.9,M056,17,78.95054422113274,No Risk,,0
+S1836,Pari Das,M21,19,Male,3.5,2.8,0.0,No,92.0,3.8,Fair,5,,Poor,5,Yes,58.7,M084,2,63.76026083512253,Moderate Risk,,0
+S1596,Ishaan Singh,M21,21,Male,3.3,2.7,1.9,No,98.2,8.3,Fair,3,Bachelor,Poor,1,No,66.1,M060,20,64.39580351552588,Moderate Risk,,0
+S1165,Vivaan Pillai,M21,17,Male,0.5,3.3,2.3,No,90.0,6.8,Fair,4,High School,Good,5,No,39.0,M017,1,40.89608088220596,High Risk,,0
+S1918,Vihaan Yadav,M21,20,Male,3.3,2.8,1.4,Yes,71.2,6.5,Poor,5,Bachelor,Average,7,No,71.9,M092,3,68.32573478972873,Moderate Risk,,1
+S1495,Rohan Kumar,M21,23,Male,3.1,3.5,2.2,No,78.8,3.4,Fair,0,Master,Good,7,No,49.9,M050,13,61.5954086944218,Moderate Risk,,0
+S1824,Sara Joshi,M21,24,Other,4.9,0.5,2.1,No,85.3,7.5,Poor,0,,Average,4,No,83.9,M083,9,81.91374153151274,No Risk,,0
+S1065,Rudra Das,M22,18,Female,3.3,4.1,0.7,No,80.5,5.7,Poor,0,Master,Good,8,No,69.6,M007,9,70.18007225946862,No Risk,,0
+S1141,Rohan Sharma,M22,17,Male,5.0,1.3,0.8,No,95.4,5.4,Good,6,Bachelor,Good,7,No,96.2,M015,4,85.64821187960369,No Risk,,0
+S1925,Krishna Pillai,M22,19,Other,1.7,2.9,1.6,Yes,97.3,8.7,Good,1,,Good,7,No,53.6,M093,14,61.14839953259334,Moderate Risk,,1
+S1827,Ananya Gupta,M22,18,Female,4.3,2.6,1.2,No,71.0,8.5,Good,5,Bachelor,Average,9,No,87.5,M083,3,85.89635315495877,No Risk,,0
+S1655,Aditya Gupta,M22,21,Female,2.2,3.5,0.0,No,82.5,5.1,Poor,0,Bachelor,Average,7,No,57.6,M066,5,56.702655701861175,Moderate Risk,,0
+S1331,Diya Bose,M22,17,Male,7.3,1.7,1.6,No,79.5,7.7,Fair,6,,Average,2,Yes,100.0,M034,14,100.0,No Risk,,0
+S1664,Aadhya Verma,M22,17,Male,3.8,2.4,1.1,No,83.1,5.0,Fair,4,High School,Good,4,No,64.4,M067,0,65.88812020900447,Moderate Risk,,0
+S1249,Ananya Sharma,M22,19,Female,3.1,1.1,4.1,No,65.4,5.6,Good,3,High School,Good,10,Yes,58.4,M025,10,70.02302238589037,No Risk,,0
+S1907,Vivaan Gupta,M22,19,Female,3.3,2.5,2.1,No,63.8,5.5,Fair,1,High School,Average,3,No,55.4,M091,7,57.865809137046035,Moderate Risk,,0
+S1708,Sai Kapoor,M22,24,Male,1.9,3.1,2.0,No,92.6,5.3,Good,4,,Poor,6,No,53.2,M071,16,53.89276347850455,Moderate Risk,,0
+S1305,Ishaan Patel,M23,21,Female,4.4,3.6,0.3,No,76.6,5.4,Fair,2,High School,Good,5,Yes,87.5,M031,10,73.76722679357903,No Risk,,0
+S1734,Vivaan Iyer,M23,18,Female,3.4,3.1,1.4,No,100.0,6.8,Poor,4,Bachelor,Good,5,No,75.2,M074,2,69.86835552286702,Moderate Risk,,0
+S1975,Pari Joshi,M23,18,Female,2.6,3.0,1.4,No,84.1,8.1,Fair,6,Bachelor,Average,3,No,66.7,M098,20,59.374104167776316,Moderate Risk,,0
+S1049,Ananya Ghosh,M23,22,Female,6.1,2.5,2.3,No,100.0,5.8,Poor,5,High School,Average,1,No,96.5,M005,16,86.20343078660102,No Risk,,0
+S1896,Priya Bose,M23,22,Male,2.8,1.8,3.4,Yes,74.0,5.1,Good,6,High School,Average,5,No,58.4,M090,14,57.510019981352265,Moderate Risk,,1
+S1002,Vivaan Pillai,M23,21,Male,1.4,3.1,1.3,No,94.8,8.0,Poor,1,High School,Poor,1,No,34.3,M001,1,44.74985079539437,High Risk,,0
+S1544,Navya Kumar,M23,17,Female,4.1,2.8,1.6,No,100.0,7.3,Poor,6,Bachelor,Average,7,No,87.9,M055,5,81.504021630278,No Risk,,0
+S1350,Ishaan Patel,M23,20,Male,1.8,3.1,3.1,No,72.8,5.3,Good,3,High School,Average,8,No,54.0,M036,4,53.949036871461765,Moderate Risk,,0
+S1904,Pari Sharma,M23,19,Female,3.9,0.7,0.7,Yes,88.6,5.7,Poor,1,High School,Poor,1,Yes,73.0,M091,0,62.97587725336584,Moderate Risk,,1
+S1536,Mira Verma,M23,24,Male,2.0,3.8,1.2,No,81.3,6.7,Good,1,Bachelor,Good,7,Yes,40.4,M054,20,58.238058839495125,Moderate Risk,,0
+S1344,Krishna Joshi,M24,19,Male,3.2,1.2,1.2,No,78.6,6.6,Fair,2,High School,Poor,10,Yes,81.7,M035,5,74.56592372004302,No Risk,,0
+S1994,Pari Mehta,M24,20,Female,1.6,1.3,2.9,No,75.3,5.6,Good,0,High School,Average,5,No,41.7,M100,15,47.42991679722999,High Risk,,0
+S1481,Ananya Iyer,M24,22,Female,5.6,2.2,1.6,No,65.2,8.3,Good,0,Master,Poor,7,No,84.6,M049,4,93.28541917913549,No Risk,,0
+S1575,Ananya Reddy,M24,22,Male,1.1,1.9,1.7,No,92.3,7.6,Fair,4,Master,Good,3,Yes,48.3,M058,1,44.642049584983816,High Risk,,0
+S1033,Rudra Bose,M24,18,Female,4.0,0.9,1.1,No,99.5,5.8,Poor,2,,Average,5,No,70.7,M004,6,73.61846447550651,No Risk,,0
+S1031,Rudra Ghosh,M24,17,Other,1.5,3.1,2.6,Yes,96.2,8.0,Fair,4,Bachelor,Average,3,Yes,51.3,M004,18,50.03552018765004,Moderate Risk,,1
+S1231,Ananya Pillai,M24,20,Female,2.5,1.4,0.9,No,83.5,6.3,Good,6,Bachelor,Good,8,No,73.1,M024,0,63.91508080149946,Moderate Risk,,0
+S1963,Rudra Verma,M24,23,Female,3.1,2.1,2.0,No,95.9,4.7,Poor,0,High School,Good,2,No,53.3,M097,14,56.74611588563501,Moderate Risk,,0
+S1192,Arjun Kumar,M24,17,Female,4.3,3.3,2.3,No,86.5,5.5,Poor,4,Master,Good,6,No,69.4,M020,18,76.44071461374874,No Risk,,0
+S1333,Pari Pillai,M24,19,Male,3.8,4.2,1.2,No,92.2,7.1,Good,1,High School,Good,10,No,72.3,M034,6,83.07743644527675,No Risk,,0
+S1003,Sai Iyer,M25,23,Female,1.0,3.9,1.0,No,71.0,9.2,Poor,4,Master,Good,1,Yes,26.8,M001,20,40.751692048276226,High Risk,,0
+S1204,Navya Chopra,M25,20,Male,5.3,1.7,1.0,No,79.3,5.9,Fair,0,Bachelor,Good,3,Yes,78.4,M021,11,79.84853455841937,No Risk,,0
+S1514,Aadhya Verma,M25,18,Female,5.9,1.3,1.7,No,80.6,6.2,Fair,5,High School,Good,1,Yes,87.1,M052,0,82.17920462999582,No Risk,,0
+S1799,Aarav Chopra,M25,19,Female,3.8,1.2,2.0,No,82.2,7.1,Good,2,Bachelor,Average,2,Yes,66.3,M080,15,66.4938944178303,Moderate Risk,,0
+S1306,Rudra Kumar,M25,20,Female,6.0,1.6,1.3,No,92.5,8.1,Fair,5,Bachelor,Average,9,No,100.0,M031,13,100.0,No Risk,,0
+S1109,Pari Kapoor,M25,23,Female,5.4,2.4,2.5,No,95.7,6.0,Fair,2,High School,Good,2,No,77.5,M011,0,80.90434632759565,No Risk,,0
+S1430,Priya Bhat,M25,17,Male,1.9,4.0,3.0,No,98.6,6.2,Poor,0,Bachelor,Average,7,Yes,35.7,M044,15,58.3915811816441,Moderate Risk,,0
+S1077,Sara Pandey,M25,20,Female,2.7,1.4,0.4,No,82.6,7.8,Fair,1,Bachelor,Poor,1,No,57.2,M008,18,55.59981416114504,Moderate Risk,,0
+S1084,Sara Kumar,M25,23,Female,2.5,4.4,1.6,No,84.4,6.8,Fair,5,Bachelor,Average,4,No,51.3,M009,1,57.301795916186855,Moderate Risk,,0
+S1286,Mira Yadav,M25,17,Female,2.7,2.9,1.7,No,82.8,6.4,Fair,4,Master,Average,1,No,46.6,M029,9,52.58320556035042,Moderate Risk,,0
+S1082,Sai Mehta,M26,21,Female,2.6,4.9,0.0,Yes,86.6,6.3,Fair,6,High School,Poor,4,No,60.2,M009,4,57.448526937376826,Moderate Risk,,1
+S1991,Rudra Bose,M26,20,Male,6.0,2.1,3.0,No,86.7,5.1,Good,2,High School,Good,3,No,85.3,M100,18,86.0532789411797,No Risk,,0
+S1789,Priya Bhat,M26,23,Male,3.4,0.5,0.4,No,72.9,7.9,Fair,4,Bachelor,Good,4,No,78.0,M079,14,66.93719926266516,Moderate Risk,,0
+S1894,Aditya Das,M26,20,Male,1.5,4.6,0.7,Yes,82.6,7.0,Good,1,Bachelor,Good,4,Yes,45.4,M090,4,47.84805512386088,High Risk,,1
+S1398,Rudra Das,M26,24,Male,5.7,2.9,1.7,No,77.3,6.4,Good,0,Master,Good,2,Yes,69.1,M040,2,82.23784497322771,No Risk,,0
+S1323,Krishna Nair,M26,18,Male,2.9,1.6,1.7,No,100.0,6.1,Good,0,Bachelor,Good,10,No,70.2,M033,13,73.67580055589947,No Risk,,0
+S1519,Aarav Patel,M26,18,Male,2.9,2.2,1.7,Yes,99.0,5.3,Good,2,Bachelor,Average,7,No,71.2,M052,9,65.85324791070592,Moderate Risk,,1
+S1916,Rohan Yadav,M26,18,Male,4.4,3.4,1.4,No,91.1,6.5,Good,1,High School,Good,7,No,69.1,M092,16,81.88711668390486,No Risk,,0
+S1922,Priya Mehta,M26,17,Male,1.3,0.1,3.6,No,82.0,5.8,Poor,5,Master,Average,2,Yes,44.3,M093,0,39.6346737998959,High Risk,,0
+S1005,Sara Ghosh,M26,24,Male,7.2,1.3,0.0,No,82.9,7.4,Fair,1,Master,Average,4,No,100.0,M001,10,100.0,No Risk,,0
+S1731,Navya Kumar,M27,17,Male,3.5,0.0,2.4,No,92.2,6.2,Good,4,Master,Poor,1,No,63.6,M074,11,61.07761846821912,Moderate Risk,,0
+S1465,Aadhya Yadav,M27,23,Male,5.1,1.5,0.8,No,81.0,5.5,Fair,6,,Good,4,No,83.2,M047,20,79.52831310198985,No Risk,,0
+S1097,Aadhya Das,M27,20,Male,4.1,2.0,1.0,No,90.4,5.4,Good,5,Bachelor,Average,6,No,80.9,M010,16,74.78643491951826,No Risk,,0
+S1266,Arjun Sharma,M27,20,Female,6.6,3.2,2.1,No,86.5,9.3,Fair,5,Master,Average,4,Yes,100.0,M027,15,100.0,No Risk,,0
+S1357,Vivaan Ghosh,M27,24,Male,4.4,0.0,2.3,No,75.8,7.0,Fair,2,Bachelor,Average,1,No,81.9,M036,11,69.14345292532474,Moderate Risk,,0
+S1868,Rohan Singh,M27,23,Male,3.8,1.9,3.6,No,96.8,5.5,Fair,6,Master,Good,2,No,77.8,M087,11,65.06747692988404,Moderate Risk,,0
+S1798,Mira Pandey,M27,17,Female,5.1,3.9,3.0,No,79.3,7.2,Good,1,Bachelor,Average,10,No,90.6,M080,16,94.26025595588193,No Risk,,0
+S1380,Vihaan Verma,M27,24,Male,3.5,1.6,2.2,No,69.9,9.3,Good,0,Bachelor,Average,6,No,67.7,M039,9,74.06647148988058,No Risk,,0
+S1631,Rohan Reddy,M27,20,Female,3.7,1.8,1.3,No,91.9,6.3,Fair,6,Master,Good,10,No,80.9,M064,8,80.52930604247933,No Risk,,0
+S1381,Sara Nair,M27,22,Female,6.2,1.0,3.4,No,82.8,5.9,Poor,4,Bachelor,Good,10,No,100.0,M039,3,100.0,No Risk,,0
+S1490,Sara Bose,M28,24,Female,4.4,1.4,2.2,No,94.6,5.5,Good,3,Master,Good,2,Yes,63.6,M050,0,70.22235119907658,No Risk,,0
+S1118,Saanvi Iyer,M28,24,Female,3.8,3.3,1.9,No,72.8,6.9,Poor,3,Bachelor,Good,2,Yes,58.3,M012,13,64.82421324244666,Moderate Risk,,0
+S1900,Ananya Pandey,M28,21,Male,4.8,2.9,2.6,No,66.0,7.6,Poor,0,Master,Average,6,Yes,82.1,M091,18,82.77303237247774,No Risk,,0
+S1250,Priya Bose,M28,22,Male,5.5,3.5,1.1,Yes,81.3,7.0,Good,2,High School,Average,10,No,100.0,M026,7,97.53718403339434,No Risk,,1
+S1523,Pari Verma,M28,23,Other,4.0,3.4,3.2,No,83.0,6.6,Good,5,High School,Average,1,No,61.7,M053,7,65.35548931815903,Moderate Risk,,0
+S1009,Sara Singh,M28,18,Female,4.8,3.1,1.3,No,95.4,7.5,Good,5,Bachelor,Good,10,Yes,100.0,M001,20,94.18867588111772,No Risk,,0
+S1196,Ira Pandey,M28,18,Male,2.7,2.1,1.9,No,88.9,8.7,Good,4,High School,Poor,5,No,64.5,M020,11,65.8037053599601,Moderate Risk,,0
+S1603,Ishaan Das,M28,22,Female,1.1,1.7,2.7,No,94.5,5.3,Fair,3,,Average,3,No,35.8,M061,15,40.665111815549565,High Risk,,0
+S1081,Ishaan Bose,M28,20,Other,3.2,3.2,5.0,No,100.0,6.7,Good,5,High School,Poor,2,No,57.6,M009,18,62.350110617014,Moderate Risk,,0
+S1783,Ira Das,M28,20,Male,3.0,2.3,0.0,No,66.0,7.5,Good,2,High School,Good,9,No,77.9,M079,7,70.9469741827793,No Risk,,0
+S1587,Ishaan Pandey,M29,19,Male,4.3,1.1,2.0,No,78.9,7.5,Good,4,Master,Average,5,No,71.4,M059,17,77.50881746940289,No Risk,,0
+S1797,Aditya Chopra,M29,23,Male,8.2,2.2,1.5,No,83.1,5.7,Poor,2,Master,Good,5,Yes,100.0,M080,2,100.0,No Risk,,0
+S1239,Rohan Gupta,M29,24,Male,2.5,2.6,1.4,No,100.0,6.2,Poor,0,Master,Poor,6,No,52.5,M024,16,62.37961885131768,Moderate Risk,,0
+S1290,Ananya Bhat,M29,17,Male,4.0,1.4,1.3,No,80.7,4.8,Fair,2,,Poor,8,No,75.9,M030,9,75.0728194327076,No Risk,,0
+S1211,Saanvi Mehta,M29,23,Female,6.1,1.8,0.5,No,82.9,6.1,Good,6,Bachelor,Good,3,Yes,98.3,M022,18,88.52361761765364,No Risk,,0
+S1717,Arjun Nair,M29,20,Female,3.2,1.7,2.1,Yes,96.3,6.9,Good,1,Master,Average,4,Yes,66.3,M072,15,65.91200108407756,Moderate Risk,,1
+S1359,Rohan Pillai,M29,19,Male,6.3,1.5,0.0,No,83.3,7.3,Good,5,Bachelor,Good,2,Yes,100.0,M036,13,90.82499023703339,No Risk,,0
+S1449,Arjun Kumar,M29,22,Female,3.1,4.0,1.3,No,85.2,8.0,Fair,6,High School,Good,8,Yes,74.0,M045,5,73.39902808220772,No Risk,,0
+S1227,Aditya Ghosh,M29,22,Female,5.8,1.4,1.9,No,85.2,4.7,Good,4,Bachelor,Average,8,Yes,96.6,M023,3,92.46436129474021,No Risk,,0
+S1950,Pari Bhat,M29,19,Female,2.7,1.1,3.1,No,77.6,4.7,Fair,5,High School,Average,2,No,50.8,M096,17,50.63998992735442,Moderate Risk,,0
+S1946,Saanvi Pandey,M30,21,Female,2.1,0.9,1.5,No,91.7,5.6,Fair,3,Bachelor,Good,1,Yes,55.0,M095,14,46.53509006560614,High Risk,,0
+S1796,Pari Patel,M30,21,Male,0.3,3.6,1.7,No,95.2,6.7,Poor,3,Bachelor,Average,4,Yes,33.6,M080,16,37.90520575708114,High Risk,,0
+S1501,Krishna Ghosh,M30,21,Female,3.3,1.4,1.0,No,96.8,6.2,Good,0,Bachelor,Poor,5,No,74.9,M051,2,67.2953972990618,Moderate Risk,,0
+S1464,Aadhya Kapoor,M30,20,Male,6.3,3.0,3.9,Yes,73.1,6.9,Fair,2,Master,Average,5,No,85.3,M047,17,94.4593613082045,No Risk,,1
+S1362,Aarav Kapoor,M30,17,Female,3.2,2.9,0.7,No,92.0,6.1,Fair,5,Master,Poor,5,No,67.9,M037,0,65.46849455717121,Moderate Risk,,0
+S1468,Aadhya Yadav,M30,21,Female,3.6,2.0,0.1,No,76.5,7.1,Good,0,Bachelor,Good,2,Yes,66.8,M047,20,63.97697898877453,Moderate Risk,,0
+S1935,Aarav Joshi,M30,17,Male,3.4,4.0,0.7,Yes,87.1,7.3,Poor,1,Master,Good,2,No,62.0,M094,15,63.55179962401299,Moderate Risk,,1
+S1428,Rudra Pillai,M30,17,Female,2.3,1.5,3.2,No,83.1,8.2,Good,1,High School,Average,3,No,52.4,M043,4,56.17548456470718,Moderate Risk,,0
+S1007,Pari Verma,M30,21,Female,4.3,1.0,2.0,Yes,77.7,4.6,Fair,0,Bachelor,Average,8,No,72.6,M001,18,77.20966075550265,No Risk,,1
+S1155,Saanvi Iyer,M30,18,Male,1.5,3.0,2.3,No,77.9,6.6,Fair,3,High School,Good,10,No,57.3,M016,0,58.137410593669216,Moderate Risk,,0
+S1541,Rohan Yadav,M31,18,Female,4.2,3.8,3.4,Yes,84.8,5.4,Good,2,High School,Good,5,No,67.4,M055,13,72.8343808617796,No Risk,,1
+S1440,Rohan Gupta,M31,17,Male,3.2,0.2,0.9,No,100.0,6.9,Fair,4,Bachelor,Good,5,No,76.1,M045,13,68.44368189276722,Moderate Risk,,0
+S1482,Pari Yadav,M31,21,Male,3.4,1.5,0.7,No,79.3,7.1,Fair,1,,Poor,1,No,67.0,M049,11,60.26210927697747,Moderate Risk,,0
+S1422,Aarav Pillai,M31,22,Female,2.0,2.4,3.9,No,66.9,4.1,Fair,3,High School,Good,2,Yes,29.5,M043,12,41.247097716748705,High Risk,,0
+S1778,Ananya Pillai,M31,24,Male,5.1,0.5,1.4,No,88.9,4.1,Good,4,Bachelor,Average,8,No,100.0,M078,13,85.31931650159075,No Risk,,0
+S1949,Sai Pandey,M31,21,Female,4.4,0.3,2.1,No,100.0,5.5,Fair,4,Bachelor,Good,4,No,84.5,M095,10,75.05711877025891,No Risk,,0
+S1334,Arjun Iyer,M31,22,Female,5.8,1.0,2.4,No,97.9,6.1,Fair,4,,Average,9,No,100.0,M034,11,99.0651160112728,No Risk,,0
+S1576,Saanvi Sharma,M31,21,Male,1.9,2.1,1.3,No,91.4,5.6,Fair,3,High School,Good,10,No,61.7,M058,19,62.17653767757499,Moderate Risk,,0
+S1934,Aadhya Kapoor,M31,24,Male,5.1,1.5,3.2,No,78.6,7.0,Poor,5,High School,Poor,8,Yes,89.3,M094,12,89.78567961188219,No Risk,,0
+S1567,Navya Sharma,M31,24,Male,4.7,4.1,3.0,No,71.2,4.9,Good,3,Bachelor,Poor,10,Yes,93.1,M057,18,84.82885540317305,No Risk,,0
+S1594,Aditya Ghosh,M32,20,Male,4.3,2.4,1.0,Yes,97.9,7.2,Good,3,High School,Average,6,No,88.0,M060,7,80.88563165417119,No Risk,,1
+S1530,Arjun Pandey,M32,17,Male,4.4,1.3,2.4,No,87.9,5.5,Good,2,Master,Good,8,Yes,80.9,M054,7,81.17381174071664,No Risk,,0
+S1581,Sai Patel,M32,17,Male,3.2,3.1,2.4,No,91.3,6.7,Fair,3,High School,Average,3,No,68.5,M059,5,62.83119903217901,Moderate Risk,,0
+S1707,Ishaan Pillai,M32,24,Male,5.2,1.4,3.6,No,98.6,5.7,Good,4,Bachelor,Average,6,No,92.0,M071,5,86.65774944813235,No Risk,,0
+S1448,Ananya Kumar,M32,23,Female,4.0,3.6,0.3,No,93.4,7.0,Good,6,High School,Good,10,Yes,91.9,M045,10,85.04131732227472,No Risk,,0
+S1453,Sara Bhat,M32,22,Female,3.4,2.5,2.2,No,63.2,7.4,Poor,1,Master,Good,4,No,63.4,M046,4,64.42134318296151,Moderate Risk,,0
+S1228,Ananya Pillai,M32,17,Male,3.5,3.6,2.7,No,92.9,8.4,Fair,3,High School,Average,8,Yes,72.6,M023,19,79.37160155131072,No Risk,,0
+S1352,Ishaan Ghosh,M32,17,Male,2.4,3.2,3.7,No,78.9,8.2,Good,5,Bachelor,Good,4,Yes,47.0,M036,16,58.83238397327347,Moderate Risk,,0
+S1728,Ishaan Mehta,M32,21,Other,2.8,2.0,2.0,No,80.1,5.6,Fair,2,,Average,3,Yes,59.9,M073,0,55.22981717896191,Moderate Risk,,0
+S1212,Ira Sharma,M32,21,Male,1.4,2.7,3.4,No,92.5,4.7,Poor,1,Bachelor,Average,2,Yes,29.7,M022,2,39.78896589517885,High Risk,,0
+S1079,Saanvi Patel,M33,20,Male,5.9,3.3,2.8,Yes,79.9,5.5,Good,3,Master,Average,7,No,91.6,M008,13,92.49078780643868,No Risk,,1
+S1148,Diya Das,M33,17,Female,5.1,3.1,3.7,No,94.6,6.4,Fair,1,Master,Good,7,No,85.2,M015,5,88.53246962238826,No Risk,,0
+S1302,Aditya Patel,M33,19,Female,3.2,3.1,2.0,No,86.8,5.6,Fair,5,High School,Poor,9,No,74.5,M031,15,71.93464503980292,No Risk,,0
+S1628,Aarav Das,M33,23,Male,4.0,2.0,2.0,No,85.3,6.5,Fair,4,Master,Good,2,Yes,70.7,M063,5,67.3410844669406,Moderate Risk,,0
+S1777,Krishna Sharma,M33,24,Other,4.2,2.2,0.3,Yes,89.0,6.8,Poor,3,High School,Good,10,Yes,87.5,M078,0,85.55716973579611,No Risk,,1
+S1506,Priya Nair,M33,24,Female,2.0,3.5,2.6,No,76.5,4.8,Good,6,Master,Good,5,No,53.2,M051,2,49.45970450618722,High Risk,,0
+S1342,Rohan Nair,M33,19,Male,2.3,2.1,1.8,No,77.2,5.0,Fair,5,High School,Average,3,No,54.7,M035,5,49.009545837757294,High Risk,,0
+S1485,Ira Reddy,M33,22,Female,4.1,1.6,0.6,No,73.1,5.5,Fair,5,High School,Good,1,No,77.5,M049,18,63.09948148868798,Moderate Risk,,0
+S1711,Navya Kumar,M33,18,Male,3.2,3.1,2.0,No,100.0,5.4,Good,4,High School,Average,7,No,70.9,M072,15,69.36168559165623,Moderate Risk,,0
+S1133,Sara Gupta,M33,21,Female,4.8,1.5,2.2,No,87.9,5.9,Fair,4,Bachelor,Poor,2,Yes,78.4,M014,4,74.07503602482399,No Risk,,0
+S1703,Diya Singh,M34,24,Male,0.9,3.3,1.6,Yes,87.3,6.5,Poor,6,Bachelor,Good,5,No,37.9,M071,12,43.87559522324929,High Risk,,1
+S1311,Priya Iyer,M34,23,Female,2.6,5.3,1.7,Yes,69.4,7.3,Good,5,Bachelor,Average,10,No,67.0,M032,8,68.9727604063728,Moderate Risk,,1
+S1722,Vivaan Singh,M34,20,Male,1.6,1.8,0.0,No,98.8,6.4,Good,3,Bachelor,Good,5,No,58.6,M073,18,52.15554436065878,Moderate Risk,,0
+S1629,Rudra Reddy,M34,23,Male,5.5,2.7,3.2,Yes,91.9,7.3,Fair,6,High School,Good,1,No,82.6,M063,14,82.23165040533632,No Risk,,1
+S1000,Navya Sharma,M34,23,Female,0.0,1.2,1.1,No,85.0,8.0,Fair,6,Master,Average,8,Yes,56.2,M001,4,43.78823701442432,High Risk,,0
+S1316,Rudra Kapoor,M34,19,Female,3.3,2.2,2.9,Yes,80.3,9.7,Good,0,High School,Poor,9,No,76.1,M032,11,80.01607597128114,No Risk,,1
+S1706,Aadhya Pillai,M34,20,Female,5.0,1.5,2.2,No,56.7,5.5,Poor,2,Master,Average,4,No,83.6,M071,14,75.27578519433396,No Risk,,0
+S1547,Krishna Mehta,M34,20,Male,6.3,2.5,3.3,No,85.4,6.1,Fair,6,High School,Good,5,No,95.6,M055,9,94.40381109080393,No Risk,,0
+S1872,Navya Das,M34,18,Female,4.2,3.0,0.5,No,100.0,6.0,Fair,3,,Average,4,No,78.4,M088,13,74.23118861441124,No Risk,,0
+S1532,Vivaan Chopra,M34,17,Male,4.8,2.5,3.1,Yes,81.7,7.1,Fair,5,High School,Good,5,Yes,83.0,M054,20,81.74818795374335,No Risk,,1
+S1477,Priya Reddy,M35,24,Male,4.1,3.6,2.2,No,93.8,6.9,Poor,5,High School,Poor,8,No,84.0,M048,1,81.73556441891972,No Risk,,0
+S1404,Navya Patel,M35,24,Male,4.6,1.4,2.9,Yes,74.5,5.4,Good,6,Bachelor,Average,7,Yes,85.6,M041,4,78.96476345056173,No Risk,,1
+S1172,Diya Verma,M35,19,Male,3.2,0.7,3.5,No,74.3,7.1,Good,5,High School,Good,5,No,68.3,M018,2,65.23724071105065,Moderate Risk,,0
+S1125,Pari Joshi,M35,24,Male,1.5,3.1,3.5,No,95.5,7.4,Fair,0,High School,Average,3,No,44.0,M013,16,48.85250757245148,High Risk,,0
+S1394,Aditya Bose,M35,19,Female,3.2,1.5,0.0,No,79.6,8.1,Good,5,Bachelor,Good,10,No,92.0,M040,5,77.70840683025592,No Risk,,0
+S1420,Ananya Sharma,M35,18,Female,3.8,2.9,4.1,Yes,68.7,9.1,Fair,4,Master,Good,3,No,70.8,M043,0,70.15586631936027,No Risk,,1
+S1552,Pari Yadav,M35,21,Female,0.2,3.1,2.1,Yes,77.9,7.0,Good,5,Master,Good,4,Yes,31.5,M056,20,35.253303722704985,High Risk,,1
+S1903,Vivaan Ghosh,M35,23,Female,3.3,1.9,2.2,No,79.1,6.2,Fair,4,High School,Average,7,No,70.9,M091,6,68.98649404284672,Moderate Risk,,0
+S1090,Diya Pandey,M35,24,Male,4.0,2.3,2.5,No,74.7,7.8,Fair,6,Bachelor,Good,1,No,77.8,M010,6,66.66595787332147,Moderate Risk,,0
+S1939,Arjun Ghosh,M35,18,Female,4.7,3.2,1.9,No,75.2,5.4,Good,3,,Good,6,No,71.0,M094,5,78.25855750558542,No Risk,,0
+S1181,Sai Bose,M36,23,Male,3.5,3.0,1.5,Yes,79.1,5.5,Good,0,Bachelor,Average,9,No,67.4,M019,20,73.56160926685233,No Risk,,1
+S1274,Ishaan Iyer,M36,17,Female,3.2,2.8,4.3,No,86.1,7.7,Fair,4,High School,Average,4,Yes,58.6,M028,11,66.26027310103169,Moderate Risk,,0
+S1895,Saanvi Yadav,M36,20,Female,2.3,1.5,2.0,No,83.8,5.6,Fair,3,Bachelor,Average,6,No,57.0,M090,12,57.06801576944429,Moderate Risk,,0
+S1069,Sara Ghosh,M36,22,Male,6.8,3.7,1.8,No,72.3,7.5,Poor,6,Master,Average,5,No,100.0,M007,9,100.0,No Risk,,0
+S1291,Navya Gupta,M36,19,Female,6.1,1.5,0.4,No,89.2,7.0,Poor,1,Bachelor,Average,9,No,100.0,M030,4,100.0,No Risk,,0
+S1131,Ananya Das,M36,21,Female,7.2,3.7,0.0,No,100.0,7.8,Good,6,High School,Good,9,No,100.0,M014,18,100.0,No Risk,,0
+S1300,Aditya Gupta,M36,17,Female,3.3,2.6,3.7,No,71.0,5.7,Poor,6,High School,Good,4,Yes,61.6,M031,14,61.31860615591977,Moderate Risk,,0
+S1424,Sara Das,M36,24,Male,4.1,3.8,1.9,Yes,84.5,7.6,Fair,1,Bachelor,Poor,10,No,73.0,M043,12,85.93520869636606,No Risk,,1
+S1326,Sara Kapoor,M36,19,Male,1.4,2.0,3.5,No,87.7,6.3,Fair,1,Bachelor,Good,8,No,41.7,M033,10,54.2258688735024,Moderate Risk,,0
+S1144,Priya Pillai,M36,24,Male,4.3,4.9,3.0,No,75.1,8.4,Fair,5,Master,Good,9,Yes,74.0,M015,3,86.22619776912579,No Risk,,0
+S1423,Ananya Sharma,M37,19,Female,3.6,4.0,0.5,No,82.3,4.7,Good,1,High School,Poor,1,No,53.2,M043,4,57.55748153917251,Moderate Risk,,0
+S1580,Ira Bhat,M37,22,Female,3.3,3.0,1.0,No,90.0,8.5,Good,5,Master,Average,4,No,73.0,M059,16,69.4535385613586,Moderate Risk,,0
+S1135,Sai Yadav,M37,21,Male,3.4,3.1,0.6,No,82.8,4.7,Fair,4,Bachelor,Good,8,No,74.3,M014,6,69.34584697411358,Moderate Risk,,0
+S1450,Krishna Joshi,M37,22,Female,3.1,3.3,1.8,No,98.5,6.5,Fair,2,Bachelor,Average,8,No,62.7,M046,7,72.15875533307297,No Risk,,0
+S1164,Ishaan Bhat,M37,18,Male,3.6,2.5,3.0,No,95.3,5.8,Poor,3,High School,Average,2,Yes,63.1,M017,10,63.54327734260401,Moderate Risk,,0
+S1028,Ishaan Iyer,M37,24,Male,4.3,2.0,2.8,Yes,78.4,8.1,Good,5,High School,Poor,3,Yes,82.8,M003,6,74.32394548504539,No Risk,,1
+S1773,Ishaan Verma,M37,20,Male,3.3,3.6,2.6,No,100.0,6.2,Fair,2,High School,Poor,2,Yes,57.1,M078,16,62.24810637201954,Moderate Risk,,0
+S1193,Aarav Bose,M37,23,Male,4.6,0.9,1.9,No,86.0,4.8,Good,4,Master,Good,6,No,81.3,M020,18,77.83048621473075,No Risk,,0
+S1388,Krishna Mehta,M37,17,Male,4.6,3.7,0.6,No,87.0,5.9,Good,3,High School,Average,4,Yes,73.2,M039,14,76.1872639305518,No Risk,,0
+S1852,Rohan Ghosh,M37,21,Male,2.3,1.0,0.7,No,67.5,5.2,Good,6,Bachelor,Good,9,No,72.5,M086,14,60.02560133395376,Moderate Risk,,0
+S1169,Ira Verma,M38,22,Male,4.4,3.5,2.7,Yes,87.0,7.8,Fair,2,Bachelor,Good,1,No,62.4,M017,18,72.21530866124719,No Risk,,1
+S1705,Rohan Yadav,M38,21,Female,1.0,2.1,1.0,No,79.4,8.7,Fair,1,Bachelor,Average,8,Yes,52.6,M071,6,54.05589007999485,Moderate Risk,,0
+S1140,Ira Pandey,M38,24,Male,2.5,3.8,2.2,No,85.4,5.0,Good,6,High School,Good,8,No,63.4,M015,3,61.62649477992766,Moderate Risk,,0
+S1173,Aarav Mehta,M38,20,Female,5.7,2.1,2.4,No,85.8,5.6,Fair,3,Master,Good,4,Yes,83.8,M018,20,86.07166311255156,No Risk,,0
+S1006,Rudra Das,M38,21,Female,5.6,1.5,1.4,Yes,85.8,6.5,Good,2,Master,Poor,4,No,89.8,M001,7,86.42927167838131,No Risk,,1
+S1745,Aadhya Das,M38,18,Female,4.2,3.4,1.4,No,81.6,6.8,Good,2,Master,Average,4,No,74.0,M075,6,73.27726051248844,No Risk,,0
+S1478,Rudra Kapoor,M38,17,Female,6.6,1.3,1.7,No,77.9,6.9,Good,5,High School,Good,3,Yes,97.7,M048,15,94.17421597131356,No Risk,,0
+S1073,Diya Yadav,M38,18,Female,7.4,3.6,3.9,No,83.6,5.5,Fair,3,High School,Average,7,Yes,97.7,M008,2,100.0,No Risk,,0
+S1910,Saanvi Bose,M38,19,Male,4.9,1.0,2.4,No,100.0,6.6,Fair,1,,Average,10,No,89.2,M092,0,93.41797774749976,No Risk,,0
+S1813,Diya Ghosh,M38,20,Female,3.8,4.9,1.9,No,75.2,6.3,Poor,5,High School,Average,6,No,65.5,M082,18,71.81733932111626,No Risk,,0
+S1238,Saanvi Bhat,M39,19,Male,5.3,2.7,4.3,No,90.5,6.9,Fair,1,Bachelor,Poor,4,Yes,74.2,M024,0,84.96540476481105,No Risk,,0
+S1145,Diya Pandey,M39,23,Female,2.2,6.2,3.0,No,86.4,6.9,Good,1,,Good,4,No,46.7,M015,2,54.92656345655043,Moderate Risk,,0
+S1792,Ishaan Chopra,M39,21,Female,2.1,3.1,4.2,No,86.4,5.2,Fair,1,Bachelor,Poor,9,Yes,50.1,M080,5,60.33468529163799,Moderate Risk,,0
+S1234,Ishaan Das,M39,20,Male,3.0,2.4,4.0,No,88.1,5.4,Poor,5,High School,Good,5,No,62.9,M024,8,61.855265132047045,Moderate Risk,,0
+S1220,Vivaan Kumar,M39,19,Female,4.5,1.3,4.2,No,86.4,6.3,Fair,0,High School,Average,10,No,82.1,M023,8,87.44558188337835,No Risk,,0
+S1923,Ananya Reddy,M39,23,Male,0.1,1.2,0.0,No,78.7,7.6,Poor,5,High School,Good,9,No,53.4,M093,13,45.293054527673696,High Risk,,0
+S1500,Saanvi Singh,M39,23,Male,5.5,1.1,1.4,No,84.4,4.9,Fair,0,Bachelor,Good,6,No,84.5,M051,19,86.43157484925311,No Risk,,0
+S1132,Krishna Kumar,M39,17,Female,3.5,2.6,3.2,Yes,84.8,7.5,Fair,5,Bachelor,Average,5,Yes,74.0,M014,19,70.53150524333363,No Risk,,1
+S1990,Ira Gupta,M39,18,Male,3.2,3.5,1.7,No,91.7,6.5,Good,1,Master,Good,5,No,63.6,M100,9,66.46346513221653,Moderate Risk,,0
+S1774,Navya Bose,M39,18,Female,7.5,3.6,1.9,Yes,85.9,7.8,Fair,6,Bachelor,Average,3,No,100.0,M078,2,100.0,No Risk,,1
+S1185,Priya Chopra,M40,21,Female,1.3,3.8,3.6,Yes,80.6,6.7,Fair,5,Bachelor,Good,5,No,40.4,M019,11,47.19858251848948,High Risk,,1
+S1041,Vivaan Kumar,M40,23,Female,2.9,2.3,2.3,No,86.2,7.2,Good,6,Bachelor,Average,1,No,66.0,M005,15,56.69086771257799,Moderate Risk,,0
+S1696,Rudra Das,M40,23,Other,5.6,1.6,0.3,No,86.5,6.0,Fair,5,Master,Good,6,No,100.0,M070,10,89.63616748981374,No Risk,,0
+S1108,Diya Singh,M40,22,Female,2.4,1.9,2.1,No,93.3,6.6,Poor,4,High School,Average,9,Yes,60.0,M011,9,67.00295488917955,Moderate Risk,,0
+S1588,Rudra Sharma,M40,20,Other,3.8,3.0,3.4,No,76.4,7.8,Fair,1,High School,Average,2,No,61.5,M059,8,66.97007164596421,Moderate Risk,,0
+S1056,Saanvi Nair,M40,24,Male,2.5,2.0,0.0,No,83.9,5.3,Good,6,Bachelor,Average,8,No,66.7,M006,5,62.08612276843257,Moderate Risk,,0
+S1405,Ishaan Patel,M40,20,Female,3.1,2.0,1.9,No,89.3,6.4,Good,2,High School,Good,10,Yes,65.4,M041,10,74.72365165972414,No Risk,,0
+S1442,Vihaan Verma,M40,17,Female,2.5,1.7,4.1,No,91.1,7.6,Poor,5,,Average,7,No,65.0,M045,20,66.08204990583836,Moderate Risk,,0
+S1757,Rudra Nair,M40,19,Female,2.6,3.3,2.4,No,74.5,7.1,Fair,0,Master,Good,3,Yes,44.5,M076,16,56.02039596969333,Moderate Risk,,0
+S1997,Ira Reddy,M40,20,Male,3.0,2.6,1.3,No,61.9,6.5,Good,5,Bachelor,Good,9,Yes,64.4,M100,10,68.48434167283645,Moderate Risk,,0
+S1024,Aarav Kapoor,M41,20,Female,2.0,0.0,0.9,Yes,81.8,5.5,Fair,4,Bachelor,Average,2,No,54.9,M003,8,45.7215974363744,High Risk,,1
+S1467,Rudra Yadav,M41,17,Male,5.4,3.3,2.6,No,85.9,7.1,Fair,6,High School,Good,8,No,98.1,M047,18,93.9456077772866,No Risk,,0
+S1539,Ira Pandey,M41,18,Male,3.8,4.1,1.6,No,100.0,7.2,Good,4,,Good,6,Yes,81.0,M054,13,76.70737739249984,No Risk,,0
+S1531,Ananya Singh,M41,24,Female,2.8,2.2,2.7,No,87.5,5.9,Good,0,,Good,1,Yes,47.4,M054,19,53.396681827865955,Moderate Risk,,0
+S1618,Vihaan Gupta,M41,23,Male,2.9,2.4,0.0,No,84.4,6.2,Good,0,Bachelor,Average,1,Yes,61.4,M062,11,54.34681052437024,Moderate Risk,,0
+S1694,Ira Reddy,M41,18,Male,5.0,4.0,1.4,No,77.6,4.6,Fair,6,High School,Poor,10,No,88.6,M070,9,87.68493154001514,No Risk,,0
+S1926,Aditya Pillai,M41,21,Male,2.7,2.4,2.7,No,81.7,8.8,Fair,5,High School,Good,4,Yes,58.8,M093,4,62.95351647569627,Moderate Risk,,0
+S1338,Ira Mehta,M41,20,Female,5.0,3.4,1.6,Yes,80.9,6.0,Good,2,Bachelor,Average,1,Yes,67.7,M034,4,73.17293335338242,No Risk,,1
+S1051,Navya Patel,M41,22,Female,2.5,3.2,0.5,No,85.7,6.5,Poor,0,High School,Average,5,No,59.7,M006,7,58.96094390995938,Moderate Risk,,0
+S1507,Arjun Nair,M41,19,Female,2.7,1.0,2.4,No,79.6,7.6,Fair,1,,Poor,1,No,57.3,M051,4,54.45146352576614,Moderate Risk,,0
+S1516,Navya Chopra,M42,24,Male,5.3,2.9,1.9,No,100.0,5.2,Good,3,Bachelor,Poor,5,Yes,80.9,M052,19,85.2065022611398,No Risk,,0
+S1920,Aditya Das,M42,21,Male,3.5,3.9,2.5,Yes,62.8,6.7,Good,3,,Good,10,No,74.5,M093,8,75.49495945283448,No Risk,,1
+S1781,Vivaan Verma,M42,19,Female,2.9,1.9,3.2,No,82.4,6.4,Fair,4,Bachelor,Good,6,No,66.9,M079,9,64.13813305255503,Moderate Risk,,0
+S1264,Pari Iyer,M42,19,Male,1.9,0.7,0.0,No,81.7,5.8,Good,1,Master,Poor,4,No,51.5,M027,2,49.24804237465895,High Risk,,0
+S1817,Priya Iyer,M42,19,Female,4.9,1.5,3.4,No,71.4,6.9,Good,6,High School,Good,7,Yes,88.2,M082,5,84.62669965988721,No Risk,,0
+S1710,Rohan Bose,M42,23,Male,1.8,1.7,0.3,No,78.9,7.2,Fair,5,High School,Good,1,No,58.1,M072,12,45.180374944539075,High Risk,,0
+S1682,Aadhya Pandey,M42,23,Female,2.7,4.3,2.9,No,88.9,4.8,Poor,4,,Average,8,No,53.4,M069,6,63.66163212937823,Moderate Risk,,0
+S1832,Sara Chopra,M42,19,Male,5.3,2.6,0.0,Yes,87.1,8.5,Fair,5,High School,Average,9,Yes,98.4,M084,9,97.50519160915863,No Risk,,1
+S1518,Navya Ghosh,M42,24,Female,5.0,2.6,3.1,No,94.8,4.7,Poor,0,Bachelor,Good,5,No,79.6,M052,19,80.66847622988635,No Risk,,0
+S1447,Rudra Kapoor,M42,22,Female,5.9,0.0,3.0,No,100.0,6.3,Fair,2,High School,Good,1,Yes,93.6,M045,4,84.99362430845136,No Risk,,0
+S1018,Priya Patel,M43,24,Other,2.0,4.9,2.9,Yes,88.3,7.1,Good,2,High School,Good,5,No,43.9,M002,7,55.57108286781694,Moderate Risk,,1
+S1715,Priya Reddy,M43,24,Male,5.6,1.4,3.1,No,85.8,6.1,Good,0,Master,Good,10,No,91.3,M072,9,97.48055713177884,No Risk,,0
+S1483,Krishna Kumar,M43,22,Male,4.2,1.7,1.8,No,73.2,6.2,Fair,3,Bachelor,Poor,2,No,76.0,M049,10,67.2072339280777,Moderate Risk,,0
+S1568,Ishaan Mehta,M43,23,Male,4.1,1.6,0.5,No,80.2,7.8,Poor,5,High School,Poor,7,Yes,89.8,M057,20,80.32928458775933,No Risk,,0
+S1433,Sai Das,M43,24,Female,4.9,2.6,0.2,No,100.0,6.0,Good,1,Bachelor,Average,3,Yes,89.3,M044,9,78.86357425361754,No Risk,,0
+S1367,Sai Verma,M43,18,Male,5.8,3.2,4.1,No,90.5,7.9,Poor,6,Bachelor,Good,8,No,99.3,M037,10,99.75736859795305,No Risk,,0
+S1083,Aditya Singh,M43,24,Male,2.0,0.6,3.0,No,89.0,7.7,Poor,6,High School,Good,2,Yes,50.5,M009,7,51.21111441927979,Moderate Risk,,0
+S1061,Aarav Ghosh,M43,23,Male,4.0,1.7,2.6,No,100.0,5.0,Fair,4,Bachelor,Good,5,No,75.0,M007,10,72.17859768774241,No Risk,,0
+S1638,Sara Iyer,M43,18,Female,5.1,2.1,0.7,Yes,75.2,6.7,Fair,1,Master,Good,10,Yes,99.4,M064,8,92.35646416425818,No Risk,,1
+S1272,Ira Chopra,M43,24,Male,4.8,2.5,2.4,Yes,74.7,6.4,Good,6,High School,Good,1,No,76.2,M028,12,71.47154948301845,No Risk,,1
+S1285,Vihaan Das,M44,19,Female,2.5,2.8,0.5,Yes,85.1,6.5,Poor,0,,Poor,6,Yes,60.6,M029,14,60.83835429287539,Moderate Risk,,1
+S1360,Rudra Chopra,M44,20,Female,5.3,2.7,2.4,Yes,85.8,5.4,Good,4,High School,Good,6,No,81.0,M037,17,85.49490846165773,No Risk,,1
+S1354,Sara Mehta,M44,24,Male,3.4,2.3,2.3,No,100.0,6.2,Good,1,High School,Good,1,No,47.6,M036,8,61.05696805797167,Moderate Risk,,0
+S1456,Rohan Gupta,M44,22,Female,3.9,1.6,0.7,Yes,86.0,4.6,Good,5,Master,Poor,1,No,68.7,M046,11,60.71127305952597,Moderate Risk,,1
+S1278,Navya Kumar,M44,17,Female,4.2,2.0,0.4,No,88.6,5.4,Fair,2,Master,Good,8,Yes,93.9,M028,19,79.46360081504483,No Risk,,0
+S1012,Pari Reddy,M44,19,Female,3.7,2.1,0.4,Yes,81.1,4.5,Fair,1,Bachelor,Good,9,No,76.9,M002,19,73.6932609156508,No Risk,,1
+S1182,Saanvi Das,M44,22,Male,4.2,3.1,0.7,No,69.2,7.2,Good,1,Master,Poor,10,No,79.9,M019,6,84.11523439136887,No Risk,,0
+S1368,Arjun Gupta,M44,19,Female,2.8,5.0,0.0,Yes,82.4,4.2,Fair,3,Bachelor,Good,8,No,71.0,M037,13,62.58371158832308,Moderate Risk,,1
+S1881,Arjun Mehta,M44,22,Male,2.9,2.7,2.6,Yes,86.8,4.7,Fair,3,Master,Average,1,No,45.5,M089,9,51.42925132119703,Moderate Risk,,1
+S1615,Vihaan Singh,M44,19,Female,1.5,2.2,2.3,No,89.1,7.9,Fair,0,Bachelor,Average,1,No,43.7,M062,20,45.25092902260396,High Risk,,0
+S1223,Rudra Iyer,M45,20,Female,2.6,2.4,2.9,No,73.7,4.6,Fair,4,Master,Average,1,No,41.9,M023,5,46.73373739956056,High Risk,,0
+S1572,Navya Chopra,M45,17,Male,3.5,3.2,0.0,No,82.7,5.0,Good,4,High School,Good,3,No,60.4,M058,18,61.49648592276554,Moderate Risk,,0
+S1970,Sara Reddy,M45,24,Female,4.2,2.4,1.5,No,83.2,5.1,Fair,3,Bachelor,Average,9,Yes,85.9,M098,6,79.76924113823947,No Risk,,0
+S1653,Sara Chopra,M45,21,Female,4.8,2.1,1.9,No,100.0,6.8,Fair,1,High School,Good,8,No,82.6,M066,14,89.34461405342773,No Risk,,0
+S1545,Aadhya Gupta,M45,24,Female,3.1,3.8,2.1,No,89.5,4.1,Fair,5,Master,Average,4,Yes,54.1,M055,5,58.36200308748589,Moderate Risk,,0
+S1582,Mira Verma,M45,20,Male,3.6,2.6,2.2,No,72.6,3.3,Fair,1,High School,Good,8,No,61.0,M059,9,67.1971903959848,Moderate Risk,,0
+S1633,Ira Pandey,M45,17,Male,4.5,1.4,1.5,No,75.0,8.0,Good,2,Master,Good,2,Yes,83.7,M064,9,73.89086583479798,No Risk,,0
+S1176,Aditya Iyer,M45,19,Male,2.6,3.1,0.3,No,84.6,7.1,Good,6,High School,Average,5,Yes,77.5,M018,12,61.10525842806224,Moderate Risk,,0
+S1665,Vihaan Ghosh,M45,21,Female,4.2,4.5,3.1,No,84.0,6.6,Good,2,High School,Average,9,No,75.3,M067,7,82.9114275158398,No Risk,,0
+S1673,Ananya Iyer,M45,22,Male,3.9,2.2,0.2,No,85.4,6.7,Poor,3,Master,Average,6,Yes,84.9,M068,18,74.89465584865933,No Risk,,0
+S1585,Ishaan Sharma,M46,23,Male,3.9,2.1,1.6,No,78.4,6.4,Good,3,High School,Good,1,No,62.8,M059,12,63.532747969238784,Moderate Risk,,0
+S1873,Aditya Das,M46,17,Female,4.3,1.3,0.0,No,82.7,4.9,Fair,1,High School,Good,7,No,84.9,M088,10,76.47881347589575,No Risk,,0
+S1393,Navya Kapoor,M46,24,Male,2.3,3.0,4.6,No,67.5,6.6,Fair,3,Bachelor,Average,9,No,51.8,M040,3,62.55626332577843,Moderate Risk,,0
+S1163,Aarav Gupta,M46,20,Male,4.2,4.5,2.1,No,85.7,5.6,Poor,2,Master,Good,5,No,70.6,M017,1,73.20951362346764,No Risk,,0
+S1248,Navya Patel,M46,17,Female,3.0,3.5,1.6,No,95.4,6.4,Fair,3,High School,Good,3,No,54.1,M025,13,61.056986617175944,Moderate Risk,,0
+S1634,Sai Yadav,M46,18,Female,3.8,2.5,1.8,No,85.0,6.3,Poor,5,High School,Average,8,No,76.8,M064,20,77.01691957725693,No Risk,,0
+S1885,Mira Pandey,M46,21,Male,5.2,0.0,1.3,No,87.7,8.7,Fair,6,High School,Poor,8,No,100.0,M089,12,95.33191137518823,No Risk,,0
+S1669,Ishaan Singh,M46,23,Male,3.5,2.1,2.3,No,87.2,4.5,Good,1,Bachelor,Good,9,No,69.9,M067,19,72.73980434069945,No Risk,,0
+S1375,Navya Ghosh,M46,20,Male,1.1,2.1,3.6,Yes,97.3,8.0,Fair,6,Bachelor,Average,1,Yes,50.3,M038,18,42.4839413835826,High Risk,,1
+S1412,Ira Mehta,M46,22,Female,3.9,2.1,2.2,No,65.0,5.1,Good,2,High School,Average,9,No,73.7,M042,14,74.75754435343816,No Risk,,0
+S1074,Ira Joshi,M47,21,Female,2.3,1.0,0.4,No,100.0,6.4,Fair,6,,Good,1,No,66.9,M008,3,50.84196032799257,Moderate Risk,,0
+S1113,Pari Bhat,M47,22,Male,3.0,2.5,2.6,No,83.1,5.5,Fair,0,Bachelor,Average,4,No,51.3,M012,15,59.648134177024716,Moderate Risk,,0
+S1598,Ananya Reddy,M47,20,Female,5.9,1.1,2.1,Yes,83.4,5.7,Poor,2,Master,Average,2,Yes,86.4,M060,9,83.54355591789151,No Risk,,1
+S1961,Sai Bhat,M47,17,Female,4.7,1.8,1.6,No,95.8,5.1,Good,2,Master,Good,10,No,81.1,M097,3,88.03100179149952,No Risk,,0
+S1390,Pari Yadav,M47,19,Female,3.3,0.6,1.2,Yes,79.8,5.9,Good,2,High School,Good,10,No,73.0,M040,5,74.10469828320251,No Risk,,1
+S1104,Rudra Pillai,M47,18,Male,3.8,3.3,2.5,No,90.0,7.6,Good,5,Bachelor,Good,7,No,74.3,M011,10,78.07958570036679,No Risk,,0
+S1114,Saanvi Patel,M47,23,Female,5.3,1.2,0.8,No,92.3,8.2,Fair,2,High School,Average,1,No,83.3,M012,19,82.4761551164834,No Risk,,0
+S1417,Sara Mehta,M47,18,Female,5.2,3.7,1.1,No,96.6,7.4,Fair,2,Bachelor,Average,9,Yes,100.0,M042,13,95.83816933526971,No Risk,,0
+S1525,Ananya Gupta,M47,23,Male,5.3,2.9,0.9,No,91.6,5.0,Good,4,High School,Poor,4,No,84.1,M053,10,81.5471908080296,No Risk,,0
+S1457,Ananya Reddy,M47,24,Male,2.4,2.6,1.5,No,86.5,5.7,Good,3,High School,Good,4,No,58.9,M046,1,54.410535718331666,Moderate Risk,,0
+S1409,Aadhya Bose,M48,22,Male,2.7,2.2,2.8,No,100.0,6.6,Fair,2,High School,Average,3,No,53.0,M041,4,58.96325632416657,Moderate Risk,,0
+S1092,Aarav Verma,M48,18,Male,0.5,0.8,2.5,Yes,97.9,4.1,Poor,4,High School,Good,3,No,43.9,M010,17,32.86081326945661,High Risk,,1
+S1930,Sara Ghosh,M48,23,Male,4.0,0.3,0.6,No,78.4,7.8,Good,1,Master,Good,7,No,89.5,M094,13,78.96361976146186,No Risk,,0
+S1089,Vihaan Kumar,M48,18,Male,1.2,3.6,0.0,No,72.7,6.6,Poor,4,High School,Average,4,Yes,41.1,M009,12,43.271249924379276,High Risk,,0
+S1336,Mira Joshi,M48,21,Female,6.6,2.2,2.7,No,73.0,6.4,Good,2,Bachelor,Poor,8,Yes,100.0,M034,7,100.0,No Risk,,0
+S1988,Priya Yadav,M48,18,Male,3.3,2.4,1.2,No,67.5,4.1,Fair,4,Bachelor,Average,8,Yes,72.5,M099,6,65.20663526063014,Moderate Risk,,0
+S1921,Sara Patel,M48,23,Female,4.4,2.7,1.0,No,79.8,6.1,Fair,6,,Average,3,No,85.4,M093,16,71.86121790654788,No Risk,,0
+S1933,Krishna Gupta,M48,17,Female,1.8,3.0,2.0,No,81.1,4.9,Good,1,High School,Average,10,No,47.5,M094,8,58.202159468684265,Moderate Risk,,0
+S1605,Saanvi Nair,M48,19,Male,2.2,3.5,1.8,No,100.0,3.3,Good,6,Bachelor,Good,8,No,67.6,M061,6,57.317771730532186,Moderate Risk,,0
+S1593,Rudra Pandey,M48,20,Female,0.8,2.3,1.3,Yes,83.9,5.5,Poor,3,Bachelor,Good,6,No,34.7,M060,1,42.13169212732585,High Risk,,1
+S1611,Ira Reddy,M49,18,Male,6.0,1.6,1.3,No,89.7,5.5,Fair,6,High School,Poor,7,No,100.0,M062,5,94.672112677418,No Risk,,0
+S1094,Aarav Iyer,M49,22,Female,5.3,1.0,2.2,No,72.6,4.5,Fair,0,High School,Average,8,No,81.3,M010,3,85.66401705176226,No Risk,,0
+S1011,Rohan Singh,M49,23,Male,3.9,2.4,2.5,No,71.7,7.9,Fair,2,Bachelor,Average,1,No,74.4,M002,0,65.37142325545123,Moderate Risk,,0
+S1396,Rudra Verma,M49,24,Male,4.9,0.0,2.5,Yes,87.6,6.0,Fair,5,Master,Average,1,No,97.2,M040,0,72.98430450743498,No Risk,,1
+S1533,Aarav Verma,M49,17,Male,1.5,2.3,3.0,No,86.2,5.7,Fair,1,High School,Good,10,No,54.2,M054,14,57.762242985778386,Moderate Risk,,0
+S1043,Pari Mehta,M49,24,Female,4.3,0.9,3.2,No,62.8,7.1,Poor,0,Bachelor,Good,2,No,65.7,M005,1,68.39205734768814,Moderate Risk,,0
+S1042,Rohan Reddy,M49,18,Male,3.7,3.4,2.0,No,88.9,6.8,Fair,3,High School,Poor,1,Yes,63.5,M005,12,63.78831876094405,Moderate Risk,,0
+S1329,Sara Reddy,M49,24,Male,5.4,0.2,0.0,No,76.8,6.7,Fair,4,Bachelor,Average,8,No,100.0,M033,7,91.6826947832642,No Risk,,0
+S1167,Arjun Yadav,M49,23,Male,3.3,2.0,1.2,Yes,85.8,6.9,Poor,0,High School,Good,7,No,72.2,M017,18,71.40294820743085,No Risk,,1
+S1497,Rudra Bose,M49,20,Male,5.5,3.6,0.0,No,81.5,4.9,Fair,1,,Average,5,No,80.3,M050,17,84.06507784068964,No Risk,,0
+S1876,Ishaan Ghosh,M50,18,Male,4.1,2.1,2.4,No,87.2,5.5,Fair,4,High School,Good,10,No,83.1,M088,12,82.2304432041142,No Risk,,0
+S1597,Ira Yadav,M50,23,Male,4.9,1.6,4.0,No,87.1,8.0,Fair,5,Bachelor,Poor,7,No,95.5,M060,10,88.99646785769089,No Risk,,0
+S1756,Rohan Pandey,M50,18,Male,2.3,2.3,1.7,No,88.3,6.2,Good,4,Bachelor,Good,4,No,58.5,M076,14,55.027045653241856,Moderate Risk,,0
+S1100,Saanvi Nair,M50,23,Male,4.3,3.0,1.5,No,100.0,7.5,Good,5,,Average,10,Yes,93.2,M011,14,89.86292978483759,No Risk,,0
+S1426,Aadhya Kumar,M50,17,Male,3.8,0.9,1.0,No,85.6,5.9,Good,5,Bachelor,Good,8,No,80.9,M043,3,75.8560476947996,No Risk,,0
+S1178,Priya Bose,M50,17,Other,2.9,2.5,2.4,Yes,83.7,6.3,Poor,5,,Good,9,No,65.2,M018,11,69.8125167760759,Moderate Risk,,1
+S1444,Arjun Mehta,M50,20,Male,2.8,1.8,2.7,No,79.1,9.0,Poor,4,Master,Average,1,Yes,64.9,M045,4,58.15243975769278,Moderate Risk,,0
+S1416,Ishaan Ghosh,M50,21,Male,1.1,4.3,0.9,No,86.7,4.9,Fair,3,High School,Average,9,No,49.9,M042,8,50.31242359601479,Moderate Risk,,0
+S1870,Ananya Bose,M50,21,Other,4.7,0.0,2.7,Yes,62.0,5.4,Good,1,High School,Good,3,No,67.5,M088,14,70.79645496528535,No Risk,,1
+S1882,Ishaan Sharma,M50,19,Other,2.7,1.8,0.0,No,72.5,6.5,Fair,4,Bachelor,Poor,7,No,68.2,M089,8,63.064808667844176,Moderate Risk,,0
+S1680,Rudra Chopra,M51,24,Other,3.3,2.9,1.1,No,83.3,7.8,Poor,6,,Good,4,No,70.4,M069,5,66.89867928191869,Moderate Risk,,0
+S1177,Navya Kapoor,M51,19,Male,3.0,2.6,1.6,No,71.0,5.5,Fair,0,Master,Average,7,Yes,55.0,M018,0,63.51779565849178,Moderate Risk,,0
+S1395,Ira Nair,M51,20,Male,4.1,3.1,1.8,No,82.5,4.9,Fair,4,High School,Good,8,No,77.8,M040,2,76.28106906972654,No Risk,,0
+S1911,Sara Verma,M51,21,Male,5.4,4.5,1.0,No,75.1,7.1,Fair,2,,Good,4,No,83.9,M092,12,84.63435720240375,No Risk,,0
+S1793,Ira Joshi,M51,20,Female,2.5,4.3,2.4,No,84.5,8.6,Fair,3,Master,Good,3,No,49.4,M080,12,59.27196783943485,Moderate Risk,,0
+S1960,Ananya Verma,M51,17,Male,7.1,1.9,1.1,Yes,69.3,5.6,Good,6,High School,Average,6,No,100.0,M097,15,100.0,No Risk,,1
+S1684,Saanvi Pillai,M51,17,Male,3.7,2.8,3.6,No,81.8,3.6,Fair,3,Bachelor,Good,4,Yes,59.8,M069,13,62.28684040284526,Moderate Risk,,0
+S1383,Sara Bhat,M51,21,Male,2.8,2.1,0.6,No,90.4,6.4,Good,2,High School,Poor,9,Yes,71.0,M039,9,70.03993768764795,No Risk,,0
+S1956,Krishna Das,M51,20,Female,3.2,2.3,1.5,No,71.0,5.0,Good,6,High School,Good,3,No,59.6,M096,10,56.916696902404816,Moderate Risk,,0
+S1751,Navya Pillai,M51,21,Female,6.8,2.9,2.0,No,80.0,5.4,Fair,0,High School,Average,7,No,96.2,M076,13,100.0,No Risk,,0
+S1257,Rohan Ghosh,M52,22,Female,3.9,2.9,2.0,No,79.1,7.6,Fair,3,Master,Good,7,No,71.0,M026,6,77.51982227166651,No Risk,,0
+S1538,Vihaan Bhat,M52,21,Male,4.3,3.2,2.8,No,83.3,4.3,Poor,2,High School,Poor,6,No,67.5,M054,0,73.15541468962367,No Risk,,0
+S1335,Ira Pillai,M52,24,Male,6.5,3.5,3.9,No,100.0,7.4,Poor,5,High School,Average,7,Yes,100.0,M034,13,100.0,No Risk,,0
+S1015,Aadhya Nair,M52,21,Male,3.1,5.0,1.0,No,97.5,6.5,Good,6,High School,Average,7,No,74.0,M002,3,69.98701544547988,Moderate Risk,,0
+S1324,Ira Patel,M52,22,Female,3.8,1.8,0.7,No,97.5,8.2,Fair,5,Bachelor,Average,2,No,84.2,M033,11,70.58155984738744,No Risk,,0
+S1758,Arjun Bose,M52,17,Male,3.2,2.6,2.8,No,100.0,7.1,Fair,1,High School,Good,10,Yes,75.4,M076,20,78.72421508866016,No Risk,,0
+S1222,Navya Bhat,M52,22,Male,6.7,2.9,2.0,No,83.2,6.6,Good,6,Bachelor,Average,5,No,100.0,M023,0,98.70716344932866,No Risk,,0
+S1179,Vivaan Pandey,M52,19,Female,3.8,1.7,3.8,No,90.2,5.3,Good,2,High School,Average,4,No,58.1,M018,9,67.64009544085633,Moderate Risk,,0
+S1983,Vivaan Bose,M52,21,Male,3.9,1.8,2.1,No,74.0,6.5,Poor,2,Master,Average,2,No,64.4,M099,20,65.30873509363286,Moderate Risk,,0
+S1022,Sara Sharma,M52,18,Other,4.9,2.3,0.6,No,84.5,6.0,Fair,3,High School,Average,7,No,98.7,M003,8,84.59134644735968,No Risk,,0
+S1356,Arjun Ghosh,M53,18,Male,5.8,2.6,0.9,Yes,70.0,7.1,Good,6,High School,Average,8,No,100.0,M036,20,95.58876428900055,No Risk,,1
+S1666,Arjun Mehta,M53,22,Female,1.9,4.0,0.5,Yes,82.9,7.6,Good,2,,Average,9,Yes,50.4,M067,18,62.96414547010609,Moderate Risk,,1
+S1861,Ira Gupta,M53,17,Male,3.9,1.9,0.2,No,82.4,8.4,Fair,4,Bachelor,Poor,9,Yes,93.5,M087,5,83.40820644741044,No Risk,,0
+S1340,Ananya Iyer,M53,19,Male,4.7,3.2,3.1,Yes,70.3,7.6,Fair,5,Bachelor,Good,2,No,80.3,M035,10,74.24765606378519,No Risk,,1
+S1431,Aadhya Mehta,M53,22,Female,0.0,2.0,2.5,No,82.0,3.7,Poor,4,Bachelor,Average,2,No,29.9,M044,10,23.27649438221844,High Risk,,0
+S1551,Ananya Verma,M53,20,Female,3.3,4.3,0.4,Yes,89.3,4.8,Poor,1,High School,Average,5,No,67.0,M056,12,63.60432840401491,Moderate Risk,,1
+S1833,Aadhya Bhat,M53,20,Other,4.6,2.2,2.6,No,68.8,5.7,Poor,6,Bachelor,Good,2,No,78.5,M084,12,69.49862844583123,Moderate Risk,,0
+S1203,Ira Verma,M53,17,Male,2.0,3.8,0.3,No,78.4,7.6,Fair,6,Master,Poor,5,No,58.5,M021,13,55.61149702951155,Moderate Risk,,0
+S1630,Vihaan Iyer,M53,17,Female,0.7,3.2,2.4,No,95.9,8.3,Good,1,Master,Average,10,Yes,50.3,M064,19,56.74018798835234,Moderate Risk,,0
+S1093,Aditya Das,M53,22,Male,4.1,2.5,3.0,No,85.1,5.8,Good,4,,Good,5,No,70.2,M010,18,73.0151205938561,No Risk,,0
+S1558,Rudra Das,M54,24,Male,4.6,1.8,1.6,No,89.3,5.3,Fair,0,High School,Average,1,Yes,60.1,M056,19,69.58793274746144,Moderate Risk,,0
+S1068,Aditya Ghosh,M54,20,Female,4.9,0.3,2.7,Yes,92.3,6.2,Good,0,Bachelor,Poor,6,No,82.1,M007,5,83.8220336483561,No Risk,,1
+S1622,Vivaan Reddy,M54,23,Female,1.2,1.1,0.7,No,84.7,7.3,Fair,0,Bachelor,Average,2,Yes,35.6,M063,3,42.12045816208486,High Risk,,0
+S1284,Sara Singh,M54,18,Male,4.1,1.9,2.6,No,100.0,7.9,Fair,6,Bachelor,Good,8,No,91.9,M029,20,85.03304465294882,No Risk,,0
+S1844,Rudra Sharma,M54,21,Female,0.7,3.2,0.3,Yes,72.7,7.9,Fair,2,High School,Good,7,Yes,47.2,M085,9,46.69394022202169,High Risk,,1
+S1434,Vihaan Bhat,M54,20,Male,0.0,3.5,3.2,No,72.6,6.2,Fair,3,High School,Good,2,No,26.2,M044,10,27.08146992796399,High Risk,,0
+S1153,Vihaan Chopra,M54,19,Female,4.3,3.1,0.7,No,77.9,6.5,Good,0,,Average,6,No,81.4,M016,3,76.9523271138737,No Risk,,0
+S1075,Diya Joshi,M54,18,Female,6.0,3.4,2.0,Yes,92.3,7.0,Fair,0,Bachelor,Good,9,Yes,99.9,M008,0,100.0,No Risk,,1
+S1730,Pari Nair,M54,19,Female,4.3,2.7,2.6,Yes,91.9,5.0,Good,3,Bachelor,Good,1,No,58.4,M074,11,66.09256557425284,Moderate Risk,,1
+S1446,Rohan Bose,M54,19,Male,3.7,1.8,0.9,Yes,75.9,5.9,Fair,1,High School,Average,1,No,56.3,M045,14,60.18492931395339,Moderate Risk,,1
+S1188,Pari Kapoor,M55,23,Female,1.4,3.3,2.5,No,91.9,8.3,Fair,3,High School,Poor,4,Yes,46.5,M019,4,50.8736424201378,Moderate Risk,,0
+S1271,Sai Singh,M55,24,Female,4.7,1.3,3.3,Yes,79.9,6.7,Good,1,Master,Good,1,No,73.6,M028,8,71.69136511593568,No Risk,,1
+S1236,Sai Mehta,M55,22,Male,1.5,1.4,2.4,No,80.9,6.0,Good,3,High School,Good,5,No,46.2,M024,4,47.723236499475,High Risk,,0
+S1487,Priya Pillai,M55,20,Male,5.0,0.8,2.0,No,84.1,6.7,Fair,6,Bachelor,Average,6,Yes,94.6,M049,12,85.06161786371105,No Risk,,0
+S1117,Priya Das,M55,22,Male,4.1,1.1,1.9,No,82.3,7.5,Good,1,,Good,8,No,80.8,M012,19,81.91284424752173,No Risk,,0
+S1943,Ira Kapoor,M55,21,Male,5.2,3.8,2.8,No,88.2,4.5,Good,2,High School,Poor,3,No,72.0,M095,4,77.05573251492511,No Risk,,0
+S1512,Arjun Das,M55,23,Female,2.9,2.8,0.5,No,88.2,3.8,Good,5,,Poor,2,Yes,61.6,M052,17,52.11130766878232,Moderate Risk,,0
+S1825,Sara Gupta,M55,20,Male,4.3,1.3,0.0,Yes,90.2,6.3,Good,0,High School,Average,7,No,90.4,M083,2,79.8930721412311,No Risk,,1
+S1591,Sara Gupta,M55,24,Female,4.5,4.4,2.2,No,85.1,6.5,Fair,4,High School,Good,1,No,64.0,M060,6,70.16848808149032,No Risk,,0
+S1126,Aarav Pandey,M55,18,Male,0.7,3.4,1.4,Yes,81.6,6.1,Poor,1,High School,Poor,8,No,42.4,M013,19,46.42617708446785,High Risk,,1
+S1116,Rudra Verma,M56,17,Male,7.0,3.3,3.1,No,88.4,6.1,Good,5,,Average,6,Yes,94.8,M012,5,100.0,No Risk,,0
+S1473,Sai Mehta,M56,20,Male,5.0,2.9,2.6,No,96.2,6.7,Poor,6,High School,Average,5,No,80.6,M048,8,84.58557390295967,No Risk,,0
+S1693,Sara Joshi,M56,20,Female,4.9,2.8,0.6,No,88.7,7.0,Fair,5,High School,Average,6,No,88.7,M070,9,85.22935978915031,No Risk,,0
+S1057,Navya Chopra,M56,17,Male,3.9,2.4,1.2,No,90.7,7.1,Good,1,Bachelor,Average,7,Yes,75.2,M006,16,78.27292519994785,No Risk,,0
+S1863,Pari Gupta,M56,18,Female,1.5,3.9,2.7,No,78.5,8.0,Good,0,High School,Poor,8,Yes,42.3,M087,7,57.326528772256175,Moderate Risk,,0
+S1912,Sara Chopra,M56,21,Male,3.6,2.7,0.1,No,75.8,9.5,Poor,6,High School,Average,9,No,89.1,M092,17,82.20997211322239,No Risk,,0
+S1369,Krishna Pillai,M56,23,Female,1.8,1.1,0.6,Yes,95.8,7.7,Poor,6,Bachelor,Average,5,No,70.9,M037,0,55.66092282069741,Moderate Risk,,1
+S1268,Ira Reddy,M56,23,Male,3.2,3.8,2.3,No,100.0,5.1,Fair,3,Bachelor,Poor,9,No,76.1,M027,6,72.40861252596333,No Risk,,0
+S1046,Rohan Pillai,M56,24,Male,2.4,4.3,1.0,No,87.9,8.9,Poor,5,High School,Average,9,Yes,71.0,M005,1,70.71922738861142,No Risk,,0
+S1349,Navya Joshi,M56,23,Female,5.7,0.9,1.2,No,89.2,5.8,Poor,5,Bachelor,Average,7,No,100.0,M035,16,92.63093042948076,No Risk,,0
+S1195,Navya Chopra,M57,18,Female,0.0,2.8,1.6,No,93.4,5.8,Fair,0,Bachelor,Good,5,No,26.7,M020,0,34.534268853397364,High Risk,,0
+S1999,Rudra Sharma,M57,19,Female,4.3,2.9,1.9,No,89.4,7.1,Good,2,Bachelor,Average,8,No,74.9,M100,19,83.9354603498939,No Risk,,0
+S1834,Aadhya Gupta,M57,17,Other,4.0,1.4,0.0,Yes,100.0,6.5,Fair,2,High School,Poor,6,Yes,81.1,M084,0,76.7116543740637,No Risk,,1
+S1736,Aarav Kapoor,M57,20,Female,3.1,0.0,3.3,No,78.6,6.9,Fair,0,Bachelor,Average,6,No,72.8,M074,17,66.76238503223584,Moderate Risk,,0
+S1263,Vihaan Iyer,M57,17,Female,2.2,2.4,2.3,Yes,94.3,6.1,Poor,5,Bachelor,Average,6,No,62.7,M027,16,58.416352244619766,Moderate Risk,,1
+S1443,Ira Chopra,M57,24,Female,2.3,1.1,1.8,Yes,79.4,6.6,Fair,3,Master,Good,6,No,66.8,M045,18,58.496716487202754,Moderate Risk,,1
+S1675,Rohan Iyer,M57,21,Female,4.0,2.1,1.4,No,100.0,7.7,Fair,1,Bachelor,Good,6,No,82.2,M068,18,79.74673536894151,No Risk,,0
+S1304,Diya Das,M57,18,Male,2.6,3.5,2.0,No,84.0,6.2,Good,0,Bachelor,Average,1,No,39.6,M031,17,51.5880056114388,Moderate Risk,,0
+S1341,Krishna Iyer,M57,20,Female,2.7,3.7,1.1,No,72.4,6.3,Fair,0,High School,Average,3,No,44.3,M035,16,55.09513798168593,Moderate Risk,,0
+S1966,Ishaan Nair,M57,21,Other,1.7,0.2,0.8,No,83.5,7.0,Poor,1,High School,Good,8,Yes,56.4,M097,1,57.71854895844445,Moderate Risk,,0
+S1149,Vivaan Patel,M58,24,Female,4.2,3.6,1.8,Yes,100.0,6.1,Fair,3,,Poor,5,No,75.4,M015,13,76.20799155408771,No Risk,,1
+S1124,Rudra Pandey,M58,21,Female,2.3,1.9,0.1,No,81.9,6.6,Fair,2,Bachelor,Average,4,No,61.7,M013,20,55.15564209712948,Moderate Risk,,0
+S1786,Vihaan Kapoor,M58,23,Male,4.1,2.6,2.4,No,77.3,6.9,Good,2,Bachelor,Average,9,No,85.3,M079,11,81.79561218507256,No Risk,,0
+S1050,Diya Nair,M58,23,Female,1.6,1.0,3.1,No,82.8,5.5,Fair,4,Master,Good,10,Yes,62.0,M006,9,57.745967324577535,Moderate Risk,,0
+S1353,Aditya Chopra,M58,24,Female,0.7,2.2,0.0,No,94.1,6.1,Fair,2,High School,Good,6,No,48.7,M036,17,44.27716004674895,High Risk,,0
+S1927,Ananya Ghosh,M58,20,Female,3.3,4.0,1.9,No,67.1,6.8,Good,0,Bachelor,Good,2,No,43.5,M093,3,58.86197364589876,Moderate Risk,,0
+S1142,Sai Kumar,M58,20,Male,3.2,2.0,2.0,No,88.3,4.9,Fair,4,Bachelor,Poor,4,Yes,65.4,M015,3,60.71596983453807,Moderate Risk,,0
+S1470,Arjun Verma,M58,21,Female,4.2,2.9,2.5,No,69.7,6.4,Fair,1,High School,Good,1,No,60.4,M048,11,65.24158547808311,Moderate Risk,,0
+S1399,Diya Bose,M58,17,Male,3.1,3.6,0.4,No,80.0,6.6,Poor,3,Bachelor,Good,3,Yes,59.6,M040,2,60.137328693905594,Moderate Risk,,0
+S1625,Mira Gupta,M58,18,Female,1.3,2.1,1.2,No,84.7,8.1,Poor,5,High School,Good,2,Yes,46.6,M063,13,44.936856891574806,High Risk,,0
+S1320,Sai Gupta,M59,24,Female,4.6,1.8,1.5,No,80.9,8.2,Fair,5,,Poor,9,Yes,94.2,M033,14,89.71731291827572,No Risk,,0
+S1019,Ira Chopra,M59,19,Male,1.8,2.5,2.4,No,71.1,7.5,Fair,1,High School,Average,2,No,45.3,M002,12,46.71326250042282,High Risk,,0
+S1809,Ananya Reddy,M59,21,Female,5.2,2.8,3.2,No,88.7,5.4,Good,0,Bachelor,Good,7,Yes,89.5,M081,14,86.94391741013419,No Risk,,0
+S1790,Sara Mehta,M59,22,Male,0.8,3.9,2.4,No,62.9,5.5,Fair,0,Master,Good,5,No,31.5,M080,10,37.86779317880055,High Risk,,0
+S1808,Arjun Das,M59,22,Male,3.2,0.3,4.0,Yes,67.3,5.3,Good,3,High School,Good,1,No,43.9,M081,7,52.919735023075305,Moderate Risk,,1
+S1407,Aadhya Verma,M59,24,Male,4.3,3.3,3.0,No,79.4,6.3,Fair,5,High School,Poor,6,Yes,67.3,M041,8,76.872710787313,No Risk,,0
+S1537,Diya Mehta,M59,23,Female,2.5,0.9,2.2,Yes,80.0,3.6,Good,5,Bachelor,Average,8,No,58.9,M054,15,58.25843851256436,Moderate Risk,,1
+S1620,Aadhya Sharma,M59,20,Female,1.4,3.5,1.6,No,85.8,6.4,Fair,2,,Average,1,No,39.8,M063,13,40.67805986751183,High Risk,,0
+S1038,Ishaan Verma,M59,17,Male,3.8,1.7,1.4,No,70.3,7.0,Poor,0,Bachelor,Good,1,No,58.1,M004,8,62.633587322491465,Moderate Risk,,0
+S1175,Vivaan Pandey,M59,22,Other,3.0,3.2,0.3,No,100.0,5.0,Good,3,Master,Good,7,No,65.3,M018,12,66.5743805030581,Moderate Risk,,0
+S1245,Diya Gupta,M60,22,Female,2.4,4.1,0.0,No,80.5,6.1,Fair,1,Bachelor,Average,3,Yes,47.9,M025,8,52.67657046075573,Moderate Risk,,0
+S1828,Navya Pillai,M60,23,Female,2.5,1.1,3.9,No,86.1,4.0,Fair,6,Bachelor,Good,8,No,58.2,M083,7,59.81077772318969,Moderate Risk,,0
+S1667,Diya Reddy,M60,20,Female,5.6,2.4,2.3,No,94.7,7.0,Fair,6,High School,Average,10,Yes,100.0,M067,7,100.0,No Risk,,0
+S1754,Rohan Yadav,M60,18,Female,0.8,3.3,0.2,No,85.7,7.1,Good,4,Bachelor,Poor,9,No,51.8,M076,10,51.7927125219772,Moderate Risk,,0
+S1858,Aarav Iyer,M60,18,Male,4.5,2.0,1.2,Yes,82.2,6.3,Fair,5,High School,Good,5,Yes,84.4,M086,7,77.0126828670502,No Risk,,1
+S1154,Saanvi Bhat,M60,21,Male,3.5,3.3,1.4,No,66.8,7.4,Fair,1,Bachelor,Good,3,No,65.0,M016,17,64.23362449392496,Moderate Risk,,0
+S1287,Priya Das,M60,21,Male,4.4,2.2,0.9,No,75.7,8.8,Good,6,High School,Poor,4,Yes,84.2,M029,10,78.54035702789481,No Risk,,0
+S1602,Aditya Pandey,M60,20,Female,3.6,3.6,0.9,No,72.7,5.9,Poor,2,,Average,10,Yes,72.9,M061,8,76.28700758046487,No Risk,,0
+S1569,Rudra Ghosh,M60,23,Male,6.3,1.9,0.0,No,93.4,6.2,Fair,6,,Good,3,Yes,100.0,M057,15,91.91390963293776,No Risk,,0
+S1743,Vivaan Nair,M60,21,Female,4.1,2.9,0.8,Yes,80.0,5.8,Good,6,High School,Good,2,Yes,76.4,M075,16,66.31999249155886,Moderate Risk,,1
+S1017,Vihaan Patel,M61,24,Female,3.4,2.7,1.2,No,94.7,7.5,Poor,0,High School,Average,1,Yes,70.8,M002,6,62.93104154800774,Moderate Risk,,0
+S1127,Rudra Yadav,M61,17,Female,4.3,2.2,1.6,No,71.6,9.4,Good,5,Bachelor,Good,7,No,88.0,M013,11,84.1067161973494,No Risk,,0
+S1322,Vivaan Reddy,M61,20,Male,6.1,4.9,1.4,No,68.7,5.3,Good,0,Bachelor,Good,10,No,96.1,M033,18,98.65809300234936,No Risk,,0
+S1255,Rohan Verma,M61,19,Female,4.9,2.8,1.6,No,84.6,5.2,Good,4,High School,Average,7,No,85.0,M026,13,83.12529443955033,No Risk,,0
+S1657,Arjun Pillai,M61,19,Female,2.4,2.9,1.7,No,88.8,5.8,Fair,1,Bachelor,Average,9,Yes,67.4,M066,17,65.01824293487854,Moderate Risk,,0
+S1964,Sara Joshi,M61,23,Other,3.5,2.3,2.1,No,84.3,7.6,Good,5,High School,Poor,10,Yes,89.1,M097,11,80.32656838981548,No Risk,,0
+S1190,Saanvi Ghosh,M61,23,Male,1.7,3.8,1.2,No,82.3,7.9,Poor,6,Master,Good,5,No,55.4,M020,11,53.80716869243196,Moderate Risk,,0
+S1115,Navya Nair,M61,20,Female,3.7,1.2,3.3,No,88.5,7.7,Poor,5,,Good,9,No,82.7,M012,16,81.16617665838156,No Risk,,0
+S1616,Pari Reddy,M61,17,Male,2.6,2.2,0.0,No,83.3,7.0,Fair,1,Bachelor,Good,10,No,79.3,M062,4,70.2310319987308,No Risk,,0
+S1606,Ira Iyer,M61,23,Male,6.8,2.5,0.7,No,97.2,4.4,Good,1,Bachelor,Poor,4,No,93.1,M061,12,95.4209280314998,No Risk,,0
+S1180,Pari Gupta,M62,21,Female,3.7,3.3,2.6,Yes,100.0,7.5,Fair,5,,Good,5,No,69.2,M019,14,74.27812382544258,No Risk,,1
+S1301,Vihaan Joshi,M62,17,Male,1.7,3.4,3.9,Yes,97.0,6.6,Good,3,High School,Average,6,No,41.7,M031,9,54.82342065392535,Moderate Risk,,1
+S1759,Krishna Pandey,M62,23,Female,2.8,4.1,1.7,Yes,90.2,5.2,Fair,1,Bachelor,Average,6,Yes,54.9,M076,12,61.696603763112925,Moderate Risk,,1
+S1712,Sara Das,M62,17,Male,3.0,0.0,0.6,Yes,99.5,7.8,Fair,4,Bachelor,Average,10,No,98.7,M072,14,77.84097980758023,No Risk,,1
+S1723,Diya Reddy,M62,17,Female,2.6,3.0,0.8,No,78.3,6.9,Good,4,Bachelor,Average,2,No,53.2,M073,7,53.94028224997775,Moderate Risk,,0
+S1685,Diya Verma,M62,22,Female,2.0,1.2,2.7,No,67.2,6.7,Poor,6,Bachelor,Average,8,No,55.4,M069,18,58.301667396998745,Moderate Risk,,0
+S1979,Diya Patel,M62,22,Male,1.3,2.2,1.8,No,76.1,5.0,Good,6,High School,Poor,10,No,53.4,M098,19,53.26969518578017,Moderate Risk,,0
+S1517,Aadhya Gupta,M62,22,Female,5.8,0.6,1.6,No,73.9,5.8,Fair,6,Bachelor,Good,6,No,100.0,M052,0,89.25458878827044,No Risk,,0
+S1984,Krishna Reddy,M62,24,Male,3.2,3.0,0.1,No,97.5,6.8,Fair,6,High School,Average,7,No,82.4,M099,7,71.64551675503256,No Risk,,0
+S1045,Sara Mehta,M62,20,Male,3.6,3.1,1.1,No,93.9,8.4,Fair,1,Bachelor,Average,5,Yes,75.1,M005,7,74.32767779284764,No Risk,,0
+S1909,Krishna Iyer,M63,22,Female,4.9,3.3,3.0,No,79.5,7.0,Fair,5,Bachelor,Average,1,No,71.8,M091,6,74.26206194704037,No Risk,,0
+S1157,Aarav Patel,M63,18,Male,3.0,1.8,0.7,No,100.0,5.5,Poor,4,Bachelor,Poor,3,No,56.7,M016,9,59.74223040501782,Moderate Risk,,0
+S1851,Ananya Das,M63,18,Female,2.4,4.1,0.3,No,100.0,5.1,Poor,5,Bachelor,Good,8,No,67.4,M086,14,63.04520688807709,Moderate Risk,,0
+S1171,Arjun Kapoor,M63,21,Female,5.3,2.4,0.1,No,85.5,5.5,Good,0,Bachelor,Good,3,Yes,85.8,M018,19,80.0523341945809,No Risk,,0
+S1016,Krishna Mehta,M63,20,Male,1.0,0.6,0.2,No,92.9,5.6,Poor,3,High School,Poor,8,Yes,55.2,M002,6,49.57641225739985,High Risk,,0
+S1511,Saanvi Kumar,M63,18,Other,2.9,3.2,2.8,No,100.0,5.9,Fair,5,High School,Average,2,No,63.0,M052,15,57.80580185994042,Moderate Risk,,0
+S1048,Navya Kumar,M63,22,Female,1.4,2.1,2.8,No,90.6,8.4,Fair,3,Bachelor,Good,6,No,52.6,M005,0,54.68373047304621,Moderate Risk,,0
+S1971,Rohan Bhat,M63,23,Female,3.5,2.5,1.8,No,56.0,6.1,Good,5,High School,Average,6,No,64.5,M098,20,66.12091081382411,Moderate Risk,,0
+S1940,Arjun Iyer,M63,20,Other,4.1,1.7,0.1,Yes,68.8,7.2,Good,0,Master,Average,4,No,67.5,M095,0,71.15280127534996,No Risk,,1
+S1515,Aarav Gupta,M63,19,Female,3.0,0.1,1.9,No,86.1,7.7,Good,6,High School,Poor,6,Yes,82.5,M052,8,68.15630638754492,Moderate Risk,,0
+S1952,Arjun Nair,M64,21,Female,3.6,2.1,3.5,Yes,62.3,5.7,Poor,1,High School,Average,9,No,65.6,M096,2,72.28158964781218,No Risk,,1
+S1480,Saanvi Gupta,M64,20,Male,3.5,4.7,1.3,Yes,81.2,5.0,Good,5,,Good,1,No,55.9,M049,16,57.20728102540595,Moderate Risk,,1
+S1283,Sai Reddy,M64,23,Male,1.6,3.3,3.5,Yes,73.0,8.1,Good,6,High School,Good,1,No,47.1,M029,9,44.076664523643274,High Risk,,1
+S1718,Aarav Nair,M64,24,Female,1.0,2.9,0.1,No,76.2,5.8,Poor,4,Bachelor,Good,6,No,49.9,M072,16,44.19251899907929,High Risk,,0
+S1877,Aarav Joshi,M64,18,Female,2.7,2.7,1.6,No,76.6,4.0,Good,0,High School,Average,3,No,36.9,M088,16,51.01880051909682,Moderate Risk,,0
+S1225,Rohan Kapoor,M64,18,Female,3.9,1.6,1.2,No,64.3,7.5,Good,0,Master,Average,9,Yes,74.3,M023,4,79.23188217610146,No Risk,,0
+S1026,Ananya Sharma,M64,22,Male,2.0,0.8,0.5,No,83.8,6.5,Good,4,Bachelor,Poor,4,No,73.5,M003,15,52.21217610844933,Moderate Risk,,0
+S1954,Sai Gupta,M64,19,Male,4.6,3.0,3.6,No,82.7,7.7,Good,5,Master,Good,1,Yes,66.0,M096,8,73.27296843604002,No Risk,,0
+S1437,Vihaan Nair,M64,24,Female,6.6,2.8,2.9,No,84.3,8.0,Good,1,,Good,8,No,100.0,M044,7,100.0,No Risk,,0
+S1951,Pari Bose,M64,20,Female,3.3,2.2,0.9,No,76.7,8.7,Good,5,Bachelor,Poor,10,No,94.0,M096,17,79.79886724520543,No Risk,,0
+S1364,Vivaan Mehta,M65,23,Male,2.9,3.6,1.2,No,82.9,6.2,Fair,1,High School,Average,2,No,45.9,M037,3,55.88784326121304,Moderate Risk,,0
+S1229,Ira Pandey,M65,21,Male,2.4,3.7,2.0,No,94.7,5.8,Good,4,High School,Good,3,Yes,52.4,M023,11,53.98882019832781,Moderate Risk,,0
+S1037,Diya Bose,M65,17,Male,4.3,2.5,0.0,Yes,64.1,3.9,Good,0,High School,Average,2,No,59.4,M004,2,61.99410729863948,Moderate Risk,,1
+S1965,Navya Reddy,M65,17,Male,4.3,3.4,0.6,No,59.8,6.6,Fair,5,Master,Average,6,Yes,77.3,M097,11,75.01502241797887,No Risk,,0
+S1374,Sara Bose,M65,17,Male,2.8,2.0,4.1,Yes,82.3,6.3,Fair,4,High School,Good,6,No,57.3,M038,4,62.678837631196544,Moderate Risk,,1
+S1469,Rohan Iyer,M65,20,Male,4.8,1.9,1.1,No,85.1,8.1,Fair,1,Bachelor,Good,8,Yes,96.1,M047,11,89.95044839187415,No Risk,,0
+S1967,Vihaan Bose,M65,22,Male,5.2,4.1,3.8,No,95.6,5.9,Fair,0,,Good,6,No,76.1,M097,8,86.74793615750886,No Risk,,0
+S1850,Rudra Pandey,M65,23,Female,1.1,2.4,1.8,No,83.9,7.7,Good,5,High School,Average,4,Yes,49.2,M086,12,45.977042225184334,High Risk,,0
+S1704,Aarav Patel,M65,21,Female,5.5,3.0,1.4,No,92.9,5.2,Fair,6,High School,Good,2,Yes,76.3,M071,4,79.99084565285432,No Risk,,0
+S1841,Ira Pillai,M65,24,Male,3.3,1.5,1.8,Yes,81.4,6.9,Fair,5,High School,Average,6,No,62.6,M085,4,68.53518648528056,Moderate Risk,,1
+S1194,Pari Reddy,M66,23,Male,2.6,4.0,1.1,No,89.4,6.9,Good,0,High School,Good,10,No,66.6,M020,6,70.87094499686508,No Risk,,0
+S1854,Ira Pandey,M66,23,Female,4.7,1.8,1.7,No,68.7,6.4,Fair,2,High School,Average,5,No,70.0,M086,5,77.48594501490658,No Risk,,0
+S1864,Aditya Mehta,M66,20,Female,0.0,0.3,1.1,Yes,88.0,5.4,Fair,1,High School,Average,10,Yes,53.3,M087,18,43.02810905273325,High Risk,,1
+S1503,Ananya Iyer,M66,24,Female,2.6,1.4,2.1,Yes,84.4,7.1,Fair,0,High School,Average,7,No,63.0,M051,11,64.7696421784317,Moderate Risk,,1
+S1969,Arjun Mehta,M66,19,Female,4.6,2.0,3.6,Yes,81.1,6.8,Fair,5,Bachelor,Average,4,No,83.0,M097,5,76.83705529205974,No Risk,,1
+S1830,Arjun Gupta,M66,21,Female,4.7,4.3,0.0,No,91.3,9.1,Good,5,Bachelor,Good,5,No,83.5,M084,10,85.96277608039105,No Risk,,0
+S1579,Priya Kapoor,M66,18,Female,6.1,3.5,0.3,Yes,69.8,5.7,Good,3,High School,Average,9,Yes,100.0,M058,4,97.14174532773553,No Risk,,1
+S1968,Saanvi Bhat,M66,22,Female,4.6,2.6,1.0,No,76.1,6.1,Good,3,High School,Average,4,No,74.6,M097,5,74.94775432849515,No Risk,,0
+S1162,Aadhya Iyer,M66,24,Female,3.4,3.0,0.1,No,77.3,6.8,Fair,5,Master,Average,7,No,83.8,M017,7,70.9378318356546,No Risk,,0
+S1908,Mira Chopra,M66,23,Female,5.6,2.8,0.5,Yes,92.2,9.4,Fair,4,Bachelor,Good,8,No,100.0,M091,15,100.0,No Risk,,1
+S1152,Sara Bose,M67,17,Female,5.6,2.8,4.1,No,85.8,6.8,Good,4,High School,Good,7,No,90.3,M016,12,93.14362675021502,No Risk,,0
+S1801,Priya Ghosh,M67,22,Female,3.9,1.8,3.9,No,99.1,6.9,Fair,1,Master,Good,4,No,65.5,M081,5,72.85720231924586,No Risk,,0
+S1993,Vivaan Reddy,M67,20,Male,3.8,2.1,1.0,No,89.0,5.2,Good,1,High School,Good,7,No,70.9,M100,7,73.05250292186383,No Risk,,0
+S1755,Saanvi Kumar,M67,22,Male,2.7,4.7,1.7,Yes,67.5,5.7,Poor,2,Master,Good,9,No,59.3,M076,13,64.6544642231233,Moderate Risk,,1
+S1111,Pari Pandey,M67,23,Female,4.4,1.9,0.8,No,84.8,8.3,Good,1,High School,Average,3,No,76.9,M012,17,76.95314816765794,No Risk,,0
+S1226,Rohan Ghosh,M67,21,Male,5.5,2.2,0.9,Yes,84.1,5.0,Fair,3,Bachelor,Good,1,No,88.7,M023,5,76.37167790340415,No Risk,,1
+S1688,Ananya Pandey,M67,23,Male,5.0,1.8,1.6,No,100.0,5.7,Good,6,High School,Poor,7,No,92.9,M069,1,86.76947996070524,No Risk,,0
+S1103,Aadhya Ghosh,M67,20,Male,2.1,1.2,3.1,No,88.8,7.5,Good,4,Master,Average,3,No,50.4,M011,5,53.62576025261159,Moderate Risk,,0
+S1421,Vivaan Bhat,M67,18,Female,5.2,3.0,3.3,No,76.0,4.6,Good,3,,Poor,10,Yes,87.1,M043,3,89.23132542295733,No Risk,,0
+S1419,Pari Bhat,M67,22,Male,2.3,4.6,0.6,No,93.9,6.2,Good,6,Master,Good,5,No,58.7,M042,18,57.794220751787016,Moderate Risk,,0
+S1750,Ishaan Joshi,M68,24,Female,6.1,1.9,0.2,No,97.6,5.9,Poor,6,Bachelor,Poor,6,No,98.5,M076,9,95.61414818761646,No Risk,,0
+S1586,Arjun Yadav,M68,22,Female,5.0,2.8,0.0,Yes,92.5,6.1,Fair,3,High School,Poor,7,Yes,83.5,M059,19,86.89879391187871,No Risk,,1
+S1780,Aditya Mehta,M68,17,Female,4.0,3.7,2.2,No,89.5,7.8,Poor,0,High School,Average,10,Yes,89.4,M079,2,85.93871280440241,No Risk,,0
+S1672,Aditya Mehta,M68,22,Female,4.9,4.4,2.9,No,94.0,5.6,Fair,2,Bachelor,Good,3,No,69.4,M068,2,77.10429983408251,No Risk,,0
+S1119,Pari Reddy,M68,21,Female,3.0,3.1,2.4,Yes,73.8,8.3,Fair,4,High School,Average,7,No,66.3,M012,20,69.85241529896851,Moderate Risk,,1
+S1053,Diya Nair,M68,20,Female,4.8,2.0,3.5,No,100.0,6.0,Good,0,Bachelor,Good,7,Yes,70.6,M006,3,85.51621929363084,No Risk,,0
+S1151,Saanvi Patel,M68,19,Female,4.7,4.7,2.3,No,90.1,4.6,Good,1,High School,Good,6,No,69.7,M016,0,78.4523360195944,No Risk,,0
+S1403,Navya Verma,M68,17,Female,4.8,2.8,3.1,No,92.7,6.4,Fair,1,,Good,6,No,74.9,M041,15,83.74193764184302,No Risk,,0
+S1945,Saanvi Bhat,M68,23,Male,6.0,2.9,2.1,Yes,98.9,6.4,Poor,0,,Average,7,No,100.0,M095,20,97.89068695577782,No Risk,,1
+S1207,Vivaan Ghosh,M68,20,Female,2.1,0.5,2.0,No,80.9,7.3,Poor,3,Bachelor,Good,6,Yes,62.3,M021,7,58.07240104570097,Moderate Risk,,0
+S1658,Diya Ghosh,M69,20,Female,3.2,3.0,1.4,Yes,96.2,4.3,Good,3,Master,Good,8,No,74.8,M066,10,68.30821595757125,Moderate Risk,,1
+S1843,Vihaan Chopra,M69,23,Female,3.0,4.8,2.3,Yes,92.0,6.3,Fair,4,Master,Poor,3,No,60.6,M085,9,60.14964906366034,Moderate Risk,,1
+S1762,Priya Chopra,M69,21,Male,1.9,2.3,1.4,No,84.0,5.1,Fair,4,High School,Poor,4,No,51.8,M077,14,48.4467753905535,High Risk,,0
+S1008,Diya Reddy,M69,23,Female,4.4,2.2,1.7,No,100.0,7.1,Good,3,Bachelor,Good,1,No,78.9,M001,20,72.70715507626568,No Risk,,0
+S1807,Navya Bose,M69,17,Female,3.3,1.8,0.0,No,70.3,4.7,Poor,2,High School,Average,7,Yes,65.2,M081,16,65.0902774709599,Moderate Risk,,0
+S1036,Krishna Nair,M69,20,Female,3.5,3.0,2.6,No,74.9,7.3,Fair,3,High School,Good,4,No,70.7,M004,0,66.5861094559528,Moderate Risk,,0
+S1452,Ira Das,M69,22,Male,4.8,2.3,1.6,Yes,71.7,7.5,Good,4,Bachelor,Good,6,No,89.3,M046,19,83.17157977125058,No Risk,,1
+S1651,Vivaan Joshi,M69,24,Female,3.7,1.7,2.3,Yes,57.6,6.2,Good,0,Master,Average,7,No,75.7,M066,5,69.82799764198475,Moderate Risk,,1
+S1253,Saanvi Joshi,M69,21,Male,6.7,1.4,0.9,No,100.0,8.0,Fair,4,Bachelor,Good,2,No,93.8,M026,1,97.89976814989427,No Risk,,0
+S1303,Vivaan Gupta,M69,22,Female,2.2,1.0,2.9,No,93.4,6.9,Good,6,,Good,6,No,63.7,M031,17,60.09639770129502,Moderate Risk,,0
+S1746,Navya Das,M70,19,Male,1.1,2.0,3.3,No,74.9,7.4,Good,3,Bachelor,Good,7,No,42.6,M075,1,49.747734146528856,High Risk,,0
+S1571,Pari Verma,M70,19,Male,3.0,4.5,0.9,No,59.7,7.1,Fair,1,Master,Good,4,Yes,51.5,M058,20,59.961049972752406,Moderate Risk,,0
+S1623,Priya Iyer,M70,18,Female,4.6,1.2,0.5,No,92.8,8.2,Good,4,Master,Good,4,No,93.0,M063,13,81.53243400995568,No Risk,,0
+S1732,Saanvi Sharma,M70,17,Male,2.8,3.4,0.9,No,67.7,7.0,Poor,3,Master,Average,9,No,62.6,M074,20,68.58831993627793,Moderate Risk,,0
+S1891,Priya Gupta,M70,23,Male,2.2,1.6,2.0,Yes,85.3,6.5,Good,5,High School,Average,4,Yes,65.6,M090,11,54.04702818656269,Moderate Risk,,1
+S1262,Aarav Singh,M70,21,Male,3.0,2.2,2.3,No,76.5,6.1,Poor,2,Master,Average,3,No,49.1,M027,2,57.726407117154636,Moderate Risk,,0
+S1610,Ishaan Chopra,M70,21,Female,3.6,2.3,2.9,No,100.0,4.6,Fair,2,Master,Good,3,No,69.6,M062,10,63.68115468998196,Moderate Risk,,0
+S1297,Ananya Joshi,M70,23,Female,4.1,2.8,1.4,No,82.4,3.5,Good,2,Master,Average,3,No,60.1,M030,19,64.19136120736086,Moderate Risk,,0
+S1414,Aarav Singh,M70,19,Female,4.2,5.6,0.4,No,91.1,9.8,Poor,0,Bachelor,Poor,5,Yes,78.7,M042,1,82.34501666868886,No Risk,,0
+S1150,Arjun Kapoor,M70,19,Male,3.5,2.1,0.5,Yes,84.8,6.1,Good,4,Bachelor,Average,2,No,64.2,M016,7,61.59244159719866,Moderate Risk,,1
+S1788,Aadhya Mehta,M71,24,Male,5.2,2.3,1.5,No,80.5,5.9,Fair,6,Master,Poor,3,No,82.8,M079,9,78.99915581771302,No Risk,,0
+S1640,Arjun Sharma,M71,22,Female,6.4,2.7,0.3,Yes,78.3,5.8,Good,0,High School,Average,7,No,98.0,M065,6,97.47477653615742,No Risk,,1
+S1889,Aditya Bose,M71,17,Male,3.7,3.9,2.2,Yes,68.3,5.8,Fair,0,High School,Good,8,No,66.6,M089,2,72.2727093735096,No Risk,,1
+S1550,Krishna Pillai,M71,17,Female,5.2,1.5,0.2,Yes,86.3,6.2,Good,5,High School,Average,7,No,97.9,M056,16,88.12739722653252,No Risk,,1
+S1886,Pari Pandey,M71,17,Female,3.5,3.9,2.6,No,73.9,5.5,Fair,4,High School,Good,2,Yes,65.6,M089,17,59.39621718077407,Moderate Risk,,0
+S1488,Ananya Singh,M71,17,Male,5.3,2.5,2.7,Yes,83.2,5.8,Good,3,Bachelor,Average,6,Yes,93.4,M049,6,85.6803263348244,No Risk,,1
+S1147,Diya Chopra,M71,19,Female,3.5,2.3,2.2,No,74.3,6.7,Fair,3,Bachelor,Poor,5,Yes,78.1,M015,7,67.42230043932494,Moderate Risk,,0
+S1146,Ananya Kapoor,M71,19,Female,3.5,3.2,2.4,No,85.8,8.0,Poor,2,Bachelor,Good,9,No,75.5,M015,3,79.17954508866374,No Risk,,0
+S1720,Priya Mehta,M71,18,Female,4.9,0.0,2.1,Yes,95.1,5.0,Good,3,Bachelor,Average,5,No,94.2,M073,20,80.21798582512722,No Risk,,1
+S1931,Vihaan Nair,M71,20,Female,4.0,3.4,3.4,Yes,78.0,5.5,Poor,3,Bachelor,Average,7,Yes,68.8,M094,19,74.28140074716556,No Risk,,1
+S1739,Sai Iyer,M72,20,Male,3.1,2.8,2.2,No,85.2,7.4,Poor,6,Bachelor,Good,9,Yes,74.1,M074,16,74.4152515471585,No Risk,,0
+S1659,Vihaan Mehta,M72,18,Male,2.0,0.2,0.5,No,67.6,8.1,Good,4,Bachelor,Average,10,Yes,73.6,M066,19,65.07106828382857,Moderate Risk,,0
+S1348,Ishaan Pandey,M72,24,Female,3.6,0.9,2.4,No,100.0,5.8,Poor,2,Bachelor,Average,3,No,72.3,M035,2,65.88685318986045,Moderate Risk,,0
+S1463,Pari Yadav,M72,17,Male,2.5,4.2,1.9,Yes,88.1,4.8,Fair,1,Master,Good,1,No,44.5,M047,0,47.75396545168257,High Risk,,1
+S1325,Priya Pandey,M72,22,Female,4.9,3.5,1.2,No,77.2,7.4,Good,0,High School,Good,4,No,75.4,M033,14,80.79234718638584,No Risk,,0
+S1186,Pari Gupta,M72,18,Female,0.0,1.9,1.5,No,82.4,5.6,Fair,3,Bachelor,Average,8,No,55.2,M019,20,39.040289678042285,High Risk,,0
+S1123,Krishna Bose,M72,23,Female,4.9,1.3,2.8,No,80.8,7.2,Good,1,Bachelor,Average,4,No,77.0,M013,5,80.62627541038663,No Risk,,0
+S1853,Vivaan Joshi,M72,19,Female,2.1,0.8,2.0,No,85.9,7.3,Good,6,Master,Good,10,Yes,68.4,M086,10,66.55611022057516,Moderate Risk,,0
+S1608,Pari Reddy,M72,20,Female,3.7,1.9,2.5,No,81.3,6.6,Fair,2,Bachelor,Good,5,Yes,61.1,M061,6,70.0089886777705,No Risk,,0
+S1143,Rudra Kapoor,M72,24,Male,2.4,2.8,0.7,No,99.8,8.1,Fair,3,,Good,2,No,62.0,M015,16,57.45700066948895,Moderate Risk,,0
+S1958,Ira Bose,M73,18,Male,0.0,3.8,1.3,Yes,89.5,5.7,Good,5,High School,Average,5,No,31.1,M096,14,34.0228616680624,High Risk,,1
+S1197,Rudra Patel,M73,20,Female,4.1,2.7,0.0,No,89.5,6.5,Fair,0,Master,Average,9,Yes,87.1,M020,0,82.28982310263251,No Risk,,0
+S1609,Rohan Pillai,M73,24,Male,4.3,2.3,1.2,No,68.3,6.1,Poor,5,High School,Poor,5,No,77.4,M061,16,73.29896458580365,No Risk,,0
+S1279,Priya Patel,M73,18,Female,4.6,0.6,2.1,No,90.0,4.5,Poor,1,High School,Good,8,No,85.9,M028,7,81.34399938805157,No Risk,,0
+S1293,Aarav Kumar,M73,18,Female,7.4,1.6,1.2,No,94.6,5.7,Fair,5,Bachelor,Good,10,Yes,100.0,M030,11,100.0,No Risk,,0
+S1400,Rudra Kumar,M73,24,Male,3.5,1.3,2.1,No,79.9,7.3,Fair,0,Bachelor,Good,2,No,60.4,M041,13,63.686153592133785,Moderate Risk,,0
+S1122,Arjun Gupta,M73,18,Male,4.6,3.9,0.0,No,83.6,9.7,Poor,3,High School,Good,2,No,84.8,M013,0,79.14205058614108,No Risk,,0
+S1183,Rudra Bhat,M73,19,Female,5.3,1.9,3.2,No,93.2,6.1,Fair,1,High School,Average,4,Yes,85.7,M019,12,84.0150453773677,No Risk,,0
+S1202,Vivaan Sharma,M73,23,Male,3.7,0.7,0.0,No,78.1,6.6,Fair,1,,Average,9,No,85.1,M021,9,77.43126986790409,No Risk,,0
+S1438,Ira Ghosh,M73,23,Male,3.5,3.9,2.2,No,89.3,6.3,Fair,2,Master,Average,5,Yes,66.8,M044,0,68.3813172002232,Moderate Risk,,0
+S1246,Sai Nair,M74,17,Male,1.4,0.9,2.6,Yes,83.0,4.4,Poor,3,Bachelor,Good,8,No,51.0,M025,8,49.58579085365523,High Risk,,1
+S1415,Aadhya Verma,M74,17,Male,3.4,1.2,2.1,Yes,88.8,5.3,Fair,4,,Average,4,Yes,68.3,M042,1,63.27604049794138,Moderate Risk,,1
+S1932,Rohan Bose,M74,17,Female,4.4,2.4,1.7,No,78.5,5.9,Fair,0,Bachelor,Average,5,No,76.8,M094,5,74.8895555411055,No Risk,,0
+S1765,Saanvi Joshi,M74,19,Male,2.1,2.8,1.4,Yes,82.8,6.3,Poor,1,Master,Average,3,No,44.1,M077,15,50.53059376971653,Moderate Risk,,1
+S1906,Aditya Pillai,M74,18,Female,0.0,4.6,2.0,Yes,70.1,8.7,Fair,3,Bachelor,Average,10,No,43.4,M091,4,46.98149434073364,High Risk,,1
+S1835,Vihaan Ghosh,M74,20,Female,5.1,2.6,1.8,No,83.4,6.5,Fair,6,High School,Average,10,No,100.0,M084,17,93.41047605564931,No Risk,,0
+S1887,Aarav Pandey,M74,22,Male,3.5,2.1,4.9,No,97.0,7.2,Good,5,,Poor,9,No,75.9,M089,1,78.97116184962822,No Risk,,0
+S1129,Aditya Bhat,M74,20,Male,0.3,4.2,1.5,No,83.0,6.2,Good,1,High School,Average,3,Yes,26.8,M013,7,33.15140490813982,High Risk,,0
+S1637,Navya Ghosh,M74,23,Female,2.3,0.4,2.0,No,81.3,5.9,Fair,6,,Good,1,Yes,70.3,M064,20,47.85209969396106,High Risk,,0
+S1402,Navya Pillai,M74,19,Male,0.0,1.4,0.0,No,81.5,6.7,Good,5,High School,Good,8,Yes,50.1,M041,18,41.08217113519112,High Risk,,0
+S1784,Pari Chopra,M75,18,Male,4.4,2.9,1.3,No,80.7,7.2,Fair,5,High School,Good,10,No,91.3,M079,19,87.84356754273529,No Risk,,0
+S1770,Vivaan Pillai,M75,21,Female,1.7,3.5,2.5,No,94.7,6.0,Good,5,Bachelor,Good,10,No,53.0,M078,19,61.500122921703145,Moderate Risk,,0
+S1735,Aarav Bhat,M75,19,Male,2.9,7.2,2.9,Yes,85.5,5.7,Fair,1,High School,Good,6,No,50.1,M074,6,62.89254682620249,Moderate Risk,,1
+S1913,Sai Iyer,M75,18,Male,3.8,4.5,1.6,Yes,79.3,5.3,Good,3,High School,Good,4,No,53.5,M092,1,65.86044196753733,Moderate Risk,,1
+S1219,Sara Joshi,M75,23,Female,6.2,2.8,1.0,No,84.9,7.0,Fair,5,Master,Good,4,No,100.0,M022,13,93.35582470852101,No Risk,,0
+S1641,Aditya Ghosh,M75,22,Male,3.4,5.7,0.0,No,86.9,5.3,Good,6,Bachelor,Poor,6,No,74.7,M065,13,67.38105865714641,Moderate Risk,,0
+S1915,Vivaan Das,M75,22,Female,3.0,4.7,1.9,No,80.3,5.6,Fair,0,High School,Average,8,No,61.0,M092,12,67.1695111913062,Moderate Risk,,0
+S1752,Pari Kapoor,M75,18,Male,4.5,1.6,2.9,Yes,72.3,4.4,Good,3,High School,Good,4,Yes,71.3,M076,1,69.82120359319919,Moderate Risk,,1
+S1806,Aadhya Bose,M75,24,Female,3.2,2.9,2.1,No,85.2,4.6,Good,1,Bachelor,Good,2,Yes,40.3,M081,16,56.1649220950849,Moderate Risk,,0
+S1919,Aditya Pillai,M75,24,Female,2.8,2.2,1.5,No,67.0,8.5,Good,3,High School,Good,7,Yes,74.7,M092,19,67.6052982861946,Moderate Risk,,0
+S1624,Rudra Bhat,M76,21,Female,3.6,1.9,2.3,No,74.5,6.1,Good,5,Bachelor,Average,8,Yes,83.2,M063,6,72.99069835182729,No Risk,,0
+S1874,Rohan Bhat,M76,18,Male,5.1,2.6,0.9,No,96.0,7.0,Fair,0,Master,Average,10,No,96.6,M088,4,95.71310484226404,No Risk,,0
+S1760,Sai Mehta,M76,20,Male,0.5,1.6,3.8,Yes,81.0,7.7,Good,4,,Average,3,Yes,30.2,M077,19,37.955717206352475,High Risk,,1
+S1386,Mira Reddy,M76,19,Female,2.0,0.8,2.6,No,95.8,6.0,Good,0,High School,Poor,4,No,45.2,M039,20,52.889097237495406,Moderate Risk,,0
+S1972,Mira Bose,M76,17,Female,4.5,0.4,3.0,No,100.0,5.5,Fair,3,High School,Good,8,No,91.9,M098,3,83.59122436677663,No Risk,,0
+S1509,Krishna Joshi,M76,18,Female,4.3,3.3,2.2,No,82.8,5.4,Poor,6,High School,Average,3,No,64.6,M051,20,69.99230043423353,Moderate Risk,,0
+S1267,Diya Nair,M76,24,Female,1.8,2.4,3.3,Yes,92.7,8.7,Fair,3,Bachelor,Good,10,No,53.3,M027,8,67.17273124183002,Moderate Risk,,1
+S1819,Rohan Reddy,M76,17,Male,4.1,2.7,0.6,No,74.6,3.6,Fair,0,Bachelor,Good,3,No,67.3,M082,20,63.40817133050906,Moderate Risk,,0
+S1441,Arjun Gupta,M76,24,Female,5.6,3.2,1.0,No,62.5,6.6,Fair,4,Bachelor,Average,8,No,82.7,M045,16,91.76817665832874,No Risk,,0
+S1496,Krishna Singh,M76,19,Female,3.8,1.2,1.8,No,86.1,4.7,Good,6,High School,Average,7,No,73.9,M050,12,71.8007317371739,No Risk,,0
+S1112,Priya Nair,M77,24,Female,1.9,1.7,2.8,No,96.2,4.9,Fair,1,Bachelor,Poor,6,Yes,43.9,M012,9,53.376136455739015,Moderate Risk,,0
+S1691,Aditya Singh,M77,22,Female,6.2,3.5,2.3,No,94.5,8.2,Fair,5,Bachelor,Good,8,No,100.0,M070,0,100.0,No Risk,,0
+S1232,Ira Pandey,M77,20,Female,6.5,0.7,1.7,No,77.3,6.3,Good,4,Master,Average,3,No,100.0,M024,16,91.96339983895355,No Risk,,0
+S1869,Navya Kapoor,M77,22,Male,2.8,2.5,2.7,Yes,86.4,6.3,Fair,4,Master,Average,10,No,74.6,M087,12,71.17400738672427,No Risk,,1
+S1607,Sara Kapoor,M77,24,Female,3.2,3.0,3.2,No,83.0,6.3,Poor,3,Bachelor,Average,8,Yes,57.5,M061,10,70.78096022075496,No Risk,,0
+S1671,Priya Bhat,M77,22,Other,3.8,1.4,1.2,No,81.2,6.7,Good,2,High School,Average,3,Yes,70.4,M068,16,67.52649665382287,Moderate Risk,,0
+S1373,Ananya Nair,M77,24,Male,3.3,1.4,0.4,No,75.2,6.5,Poor,0,Bachelor,Good,7,Yes,72.9,M038,20,69.44256124000083,Moderate Risk,,0
+S1981,Sara Mehta,M77,24,Male,3.6,0.0,3.6,No,66.3,9.6,Fair,3,Bachelor,Average,2,No,66.2,M099,2,67.21774899802692,Moderate Risk,,0
+S1842,Ira Pandey,M77,17,Female,2.3,2.0,1.8,No,85.3,7.5,Fair,1,Bachelor,Average,10,No,71.4,M085,12,68.83841933564848,Moderate Risk,,0
+S1233,Rudra Gupta,M77,20,Female,3.7,1.7,1.7,No,73.7,7.0,Fair,3,Master,Poor,10,Yes,80.8,M024,17,79.80986512690805,No Risk,,0
+S1785,Navya Patel,M78,17,Female,2.9,1.1,2.8,No,100.0,7.8,Poor,3,,Average,8,No,68.4,M079,13,73.2107191230573,No Risk,,0
+S1676,Diya Bose,M78,20,Female,1.8,4.8,3.2,No,95.4,5.0,Good,4,Bachelor,Good,5,No,37.4,M068,17,50.78472933596121,Moderate Risk,,0
+S1317,Aditya Chopra,M78,17,Male,4.1,4.2,0.0,No,70.2,6.9,Good,1,High School,Average,8,Yes,80.4,M032,13,78.98782395970295,No Risk,,0
+S1648,Sara Pandey,M78,24,Female,1.1,3.6,2.5,No,96.7,8.4,Good,3,High School,Good,10,Yes,54.6,M065,12,60.6795736551946,Moderate Risk,,0
+S1410,Vihaan Patel,M78,19,Female,4.7,2.5,1.5,No,82.3,6.0,Fair,6,High School,Average,1,No,78.0,M042,11,70.8367134518413,No Risk,,0
+S1898,Diya Chopra,M78,23,Female,3.9,1.1,2.9,No,86.8,7.0,Fair,1,Master,Average,10,No,75.7,M090,17,83.41261336507434,No Risk,,0
+S1709,Aditya Mehta,M78,24,Other,2.9,4.0,2.9,No,67.6,8.7,Poor,4,High School,Good,5,Yes,56.4,M071,6,64.82567498560167,Moderate Risk,,0
+S1358,Priya Iyer,M78,17,Female,2.0,2.2,3.2,No,98.2,5.1,Good,5,High School,Average,5,No,56.3,M036,3,52.89680528206498,Moderate Risk,,0
+S1258,Mira Pillai,M78,24,Female,5.8,3.0,0.4,No,66.5,3.2,Fair,2,High School,Average,8,No,90.8,M026,3,87.03074704673352,No Risk,,0
+S1744,Sara Kapoor,M78,19,Female,3.3,0.7,3.6,No,75.5,6.1,Poor,3,High School,Good,3,Yes,52.6,M075,18,60.86701122410009,Moderate Risk,,0
+S1627,Saanvi Patel,M79,22,Male,2.4,0.9,0.8,No,92.5,8.3,Fair,2,Bachelor,Average,9,No,78.3,M063,2,70.13503808516384,No Risk,,0
+S1632,Sara Kapoor,M79,21,Male,3.3,2.0,2.1,No,87.7,6.8,Poor,1,Bachelor,Poor,9,Yes,75.4,M064,13,75.36391841771162,No Risk,,0
+S1282,Krishna Bhat,M79,22,Male,3.8,0.9,2.0,Yes,79.9,6.2,Fair,1,,Good,10,No,79.7,M029,1,79.3855144205596,No Risk,,1
+S1376,Priya Yadav,M79,20,Female,4.3,3.7,2.5,No,76.9,5.0,Poor,3,,Good,4,No,65.7,M038,19,70.33945121848473,No Risk,,0
+S1384,Mira Nair,M79,21,Female,2.6,5.4,3.3,No,87.2,8.0,Good,1,High School,Poor,9,No,59.8,M039,20,71.21408893167438,No Risk,,0
+S1224,Vihaan Pandey,M79,18,Female,4.6,2.5,3.0,No,87.7,6.7,Fair,5,Bachelor,Poor,6,No,72.7,M023,10,81.66232250521023,No Risk,,0
+S1953,Vivaan Bhat,M79,20,Female,2.0,1.0,0.1,No,81.5,6.4,Fair,5,High School,Average,7,No,61.7,M096,4,57.25187111519583,Moderate Risk,,0
+S1814,Aditya Bose,M79,20,Male,3.5,3.6,2.2,No,84.5,7.6,Fair,3,High School,Average,7,No,75.1,M082,12,74.55825733862103,No Risk,,0
+S1472,Sai Patel,M79,19,Female,2.5,2.7,1.5,No,82.9,6.0,Poor,3,Bachelor,Average,3,No,56.1,M048,14,53.89343961632788,Moderate Risk,,0
+S1347,Rohan Pandey,M79,20,Other,4.9,4.0,1.7,No,91.0,7.7,Fair,0,Master,Average,3,No,77.0,M035,8,81.08777999378201,No Risk,,0
+S1505,Sara Bose,M80,17,Female,3.5,0.9,0.4,No,78.7,6.3,Fair,3,,Average,5,Yes,72.9,M051,4,67.11159438557073,Moderate Risk,,0
+S1639,Mira Iyer,M80,24,Female,3.5,2.9,0.7,No,65.4,7.9,Poor,3,High School,Good,2,No,62.9,M064,18,63.1424132965836,Moderate Risk,,0
+S1987,Sai Joshi,M80,20,Female,2.3,1.6,1.7,Yes,85.8,5.6,Fair,1,High School,Average,9,No,56.2,M099,13,63.00828682236277,Moderate Risk,,1
+S1928,Diya Chopra,M80,22,Female,2.8,0.2,3.1,No,79.3,6.5,Good,5,High School,Average,2,No,65.6,M093,15,55.378033524213656,Moderate Risk,,0
+S1905,Aadhya Ghosh,M80,18,Male,2.6,2.9,1.1,Yes,73.0,5.8,Good,5,Bachelor,Poor,1,Yes,53.9,M091,4,48.86397160748962,High Risk,,1
+S1619,Ananya Iyer,M80,19,Male,2.5,3.1,1.7,No,70.5,4.8,Good,1,High School,Good,4,No,45.1,M062,18,51.920218307490686,Moderate Risk,,0
+S1855,Vihaan Bhat,M80,21,Female,3.2,3.7,1.2,No,59.9,6.0,Fair,6,High School,Good,2,No,56.1,M086,15,55.67660797487457,Moderate Risk,,0
+S1803,Aditya Bhat,M80,17,Female,4.5,1.2,2.6,No,86.0,5.3,Good,0,Bachelor,Good,6,Yes,76.3,M081,17,77.85571519526484,No Risk,,0
+S1645,Vivaan Verma,M80,21,Female,1.1,0.4,2.4,Yes,95.2,6.8,Good,2,,Average,1,Yes,46.3,M065,1,39.366619895157505,High Risk,,1
+S1846,Aadhya Chopra,M80,18,Male,3.5,3.1,0.0,No,89.6,6.6,Fair,3,Bachelor,Good,5,Yes,75.5,M085,14,69.38104263346398,Moderate Risk,,0
+S1556,Ishaan Iyer,M81,24,Female,4.0,3.3,5.4,No,81.2,7.6,Fair,6,Bachelor,Poor,6,No,79.0,M056,14,77.00998115278408,No Risk,,0
+S1957,Arjun Bhat,M81,17,Female,2.0,1.6,0.0,No,69.8,7.0,Good,5,High School,Average,4,No,49.1,M096,8,51.225186595436014,Moderate Risk,,0
+S1577,Aditya Kapoor,M81,22,Female,1.9,2.9,1.6,Yes,87.6,6.1,Fair,4,Bachelor,Good,1,Yes,44.4,M058,11,44.86089851879144,High Risk,,1
+S1795,Arjun Joshi,M81,23,Male,5.6,4.6,1.1,No,85.4,5.4,Good,5,,Poor,6,Yes,89.7,M080,19,88.51889033309534,No Risk,,0
+S1085,Rudra Pillai,M81,19,Male,1.7,2.6,2.6,No,77.6,7.0,Good,4,Bachelor,Good,6,No,53.5,M009,16,53.45885403918364,Moderate Risk,,0
+S1242,Arjun Iyer,M81,20,Female,5.3,1.8,2.0,No,83.8,8.4,Good,1,Bachelor,Good,5,No,91.5,M025,7,89.23025382375508,No Risk,,0
+S1698,Aditya Chopra,M81,18,Female,3.9,3.9,1.0,No,77.2,5.6,Fair,4,High School,Poor,9,No,71.5,M070,4,77.0851714296479,No Risk,,0
+S1159,Saanvi Pillai,M81,20,Female,3.2,1.2,4.4,No,81.5,7.4,Good,3,Bachelor,Average,9,No,77.9,M016,9,74.71069840157493,No Risk,,0
+S1524,Ananya Nair,M81,18,Female,1.7,2.9,2.5,No,84.6,6.0,Good,0,Bachelor,Average,7,Yes,39.9,M053,17,54.32177950326435,Moderate Risk,,0
+S1035,Mira Mehta,M81,21,Female,4.2,1.7,0.0,Yes,84.2,6.5,Good,1,Bachelor,Average,3,No,72.6,M004,0,70.75372488475783,No Risk,,1
+S1540,Pari Bose,M82,23,Female,4.0,3.0,3.0,No,83.2,7.7,Good,3,Bachelor,Average,6,Yes,74.7,M055,14,77.46973540531435,No Risk,,0
+S1170,Diya Sharma,M82,24,Male,5.8,2.1,2.8,No,74.7,9.3,Fair,1,Bachelor,Good,6,No,96.6,M018,6,96.54212150403733,No Risk,,0
+S1654,Diya Chopra,M82,22,Female,3.1,4.7,0.4,No,79.5,6.2,Good,4,Master,Good,9,No,71.5,M066,6,71.01107956868574,No Risk,,0
+S1890,Sai Kumar,M82,23,Male,4.7,0.9,1.0,Yes,83.9,4.7,Fair,5,High School,Average,3,No,84.5,M090,19,72.35311746584338,No Risk,,1
+S1857,Ananya Yadav,M82,19,Male,0.5,0.0,2.6,Yes,86.4,5.8,Poor,5,Master,Poor,8,Yes,45.0,M086,19,44.53784033691818,High Risk,,1
+S1847,Krishna Das,M82,18,Male,2.3,0.6,1.1,No,100.0,6.2,Fair,0,Bachelor,Good,9,No,73.5,M085,2,65.93407326595856,Moderate Risk,,0
+S1944,Arjun Nair,M82,21,Female,1.7,1.6,1.7,No,61.0,6.7,Fair,5,Bachelor,Good,8,Yes,67.9,M095,7,54.35703651657682,Moderate Risk,,0
+S1733,Aditya Chopra,M82,24,Male,3.3,2.8,0.0,No,98.3,7.3,Fair,2,Bachelor,Good,6,No,70.6,M074,6,71.74142156547289,No Risk,,0
+S1095,Vivaan Bose,M82,22,Male,1.7,2.9,2.0,No,97.5,6.0,Good,0,High School,Good,6,No,50.2,M010,14,53.974881247063905,Moderate Risk,,0
+S1563,Saanvi Bose,M82,23,Male,4.4,4.3,0.0,Yes,100.0,6.1,Fair,3,Master,Average,2,No,70.1,M057,15,72.34643608160526,No Risk,,1
+S1240,Vihaan Bhat,M83,18,Male,1.9,1.6,2.3,No,72.0,6.3,Fair,6,Master,Poor,3,No,51.2,M025,13,47.33837649706192,High Risk,,0
+S1742,Priya Nair,M83,18,Female,5.3,1.8,3.6,No,88.6,5.7,Fair,4,Bachelor,Average,1,Yes,71.0,M075,5,76.61719907641427,No Risk,,0
+S1574,Priya Pillai,M83,23,Other,4.7,4.9,2.7,No,86.4,8.4,Poor,6,Bachelor,Average,2,No,89.6,M058,10,78.10263119741964,No Risk,,0
+S1690,Arjun Singh,M83,18,Male,2.5,1.8,1.2,Yes,88.3,6.9,Fair,1,High School,Average,6,No,70.5,M070,13,62.03045584979161,Moderate Risk,,1
+S1460,Sai Iyer,M83,18,Male,3.7,3.3,0.3,Yes,87.4,6.6,Fair,6,High School,Good,5,No,72.3,M047,5,70.60899891997175,No Risk,,1
+S1553,Sai Pandey,M83,20,Female,4.8,0.8,0.0,No,81.2,8.1,Good,5,High School,Average,1,No,88.0,M056,2,75.63578407551174,No Risk,,0
+S1888,Vihaan Ghosh,M83,20,Other,3.0,3.0,1.7,Yes,79.0,7.4,Fair,4,Bachelor,Good,8,Yes,69.8,M089,2,70.19697041277573,No Risk,,1
+S1206,Diya Das,M83,24,Male,3.5,1.9,1.2,No,95.3,6.5,Poor,6,Bachelor,Average,10,Yes,92.6,M021,0,79.25936273535618,No Risk,,0
+S1392,Sara Iyer,M83,24,Female,2.2,4.7,2.2,No,89.8,8.2,Good,0,High School,Poor,3,No,45.2,M040,19,56.47309906034227,Moderate Risk,,0
+S1794,Rudra Pandey,M83,17,Female,2.6,1.4,1.2,No,83.6,8.5,Poor,5,Bachelor,Average,7,No,80.3,M080,15,67.74462341250344,Moderate Risk,,0
+S1397,Rohan Verma,M84,22,Female,2.3,2.5,1.9,Yes,96.9,6.2,Fair,4,Bachelor,Good,10,Yes,71.9,M040,19,67.74379510416716,Moderate Risk,,1
+S1766,Rohan Chopra,M84,21,Male,0.0,2.4,2.9,No,85.6,3.8,Poor,3,,Average,8,No,30.5,M077,19,35.81326491448602,High Risk,,0
+S1848,Ira Kumar,M84,23,Other,4.5,3.8,1.3,No,83.6,7.3,Fair,3,High School,Poor,6,No,74.6,M085,9,81.35770687157729,No Risk,,0
+S1217,Diya Kapoor,M84,21,Other,5.1,0.9,0.7,No,79.7,5.5,Fair,6,High School,Good,3,No,87.0,M022,16,77.3177404832477,No Risk,,0
+S1004,Sara Pandey,M84,19,Female,5.0,4.4,0.5,No,90.9,4.9,Fair,3,Master,Good,1,No,66.4,M001,1,72.34501616999658,No Risk,,0
+S1768,Rudra Pillai,M84,20,Female,5.2,4.4,0.5,No,81.6,6.2,Fair,1,High School,Poor,4,No,74.0,M077,7,81.63289755471156,No Risk,,0
+S1642,Mira Bose,M84,24,Female,2.4,2.9,0.5,No,71.5,6.8,Fair,5,High School,Good,2,Yes,50.4,M065,13,51.105702516658944,Moderate Risk,,0
+S1929,Pari Singh,M84,17,Female,5.7,2.7,1.4,No,79.0,7.7,Good,0,Master,Average,8,Yes,89.8,M093,11,96.93910741332418,No Risk,,0
+S1612,Krishna Iyer,M84,20,Male,2.6,2.3,0.9,No,80.1,7.0,Fair,0,Master,Good,9,No,69.3,M062,1,67.80011050419814,Moderate Risk,,0
+S1738,Arjun Gupta,M84,21,Other,4.3,2.2,2.3,No,71.8,7.6,Fair,2,High School,Good,5,Yes,76.0,M074,2,76.40676922144343,No Risk,,0
+S1546,Vihaan Yadav,M85,21,Male,4.5,2.7,1.2,Yes,85.8,5.4,Good,2,Master,Good,1,Yes,62.9,M055,0,67.73198722867183,Moderate Risk,,1
+S1725,Diya Verma,M85,21,Female,3.9,1.9,2.4,No,75.8,5.7,Good,2,Bachelor,Average,2,No,64.0,M073,16,63.83240943562027,Moderate Risk,,0
+S1683,Vivaan Bose,M85,20,Female,3.6,1.1,0.3,Yes,83.5,6.2,Fair,4,High School,Good,4,No,77.2,M069,16,66.68874861843106,Moderate Risk,,1
+S1098,Vivaan Chopra,M85,22,Male,2.4,0.0,3.1,No,92.2,4.8,Good,3,Bachelor,Good,7,Yes,63.9,M010,6,59.28828327388183,Moderate Risk,,0
+S1804,Aditya Singh,M85,22,Female,4.3,4.0,1.1,Yes,88.4,4.4,Good,2,High School,Average,2,Yes,59.0,M081,10,66.34863945128983,Moderate Risk,,1
+S1727,Ishaan Pandey,M85,19,Male,4.1,4.2,1.6,No,70.2,3.3,Good,2,High School,Good,7,No,57.4,M073,6,69.63745362949433,Moderate Risk,,0
+S1573,Mira Nair,M85,18,Male,3.0,1.4,2.0,No,83.6,8.2,Fair,5,Bachelor,Good,3,No,67.2,M058,13,63.14521466630605,Moderate Risk,,0
+S1406,Pari Mehta,M85,22,Female,3.6,1.3,2.1,No,68.0,6.3,Poor,2,Bachelor,Good,10,Yes,82.4,M041,0,76.27737160004858,No Risk,,0
+S1502,Rohan Pandey,M85,21,Female,0.3,3.2,2.2,No,88.4,7.1,Poor,3,,Average,4,Yes,34.0,M051,7,37.5981489038014,High Risk,,0
+S1047,Diya Sharma,M85,23,Female,2.5,2.9,2.7,No,83.5,7.0,Good,4,,Good,8,Yes,59.7,M005,14,65.67945101640437,Moderate Risk,,0
+S1032,Pari Patel,M86,20,Other,2.6,4.9,4.3,No,82.1,6.9,Good,3,Bachelor,Good,7,No,52.1,M004,4,64.05504040248405,Moderate Risk,,0
+S1779,Aadhya Bose,M86,19,Female,3.6,2.0,1.0,Yes,80.7,7.1,Good,6,Bachelor,Average,10,No,85.6,M078,4,79.4666157272559,No Risk,,1
+S1839,Diya Das,M86,21,Male,2.4,2.3,2.2,No,72.0,7.5,Good,6,Master,Average,3,No,63.9,M084,20,54.69558209755376,Moderate Risk,,0
+S1200,Aadhya Mehta,M86,23,Female,3.5,1.3,0.5,No,89.8,7.8,Fair,2,Bachelor,Good,7,No,81.9,M021,16,75.74840803127465,No Risk,,0
+S1134,Diya Das,M86,23,Male,3.6,1.5,0.5,No,73.2,7.2,Fair,2,Bachelor,Good,3,No,70.7,M014,13,65.51147647174648,Moderate Risk,,0
+S1027,Aarav Bhat,M86,18,Male,3.2,2.2,2.8,Yes,88.1,4.8,Fair,5,Bachelor,Average,3,No,71.1,M003,16,58.717977480738796,Moderate Risk,,1
+S1880,Vivaan Bhat,M86,21,Male,2.5,3.2,2.0,No,76.9,4.1,Fair,1,Bachelor,Good,6,No,41.6,M089,17,55.19683336539201,Moderate Risk,,0
+S1230,Arjun Nair,M86,22,Male,4.2,0.3,0.1,No,80.0,7.9,Poor,3,High School,Poor,9,Yes,100.0,M024,13,85.15851021274948,No Risk,,0
+S1489,Vihaan Chopra,M86,21,Female,7.4,3.6,1.3,No,91.6,7.1,Good,3,High School,Good,6,Yes,100.0,M049,0,100.0,No Risk,,0
+S1772,Ira Nair,M86,17,Female,2.8,1.4,2.8,No,77.3,8.3,Poor,5,Master,Poor,7,No,73.0,M078,7,68.22971557473036,Moderate Risk,,0
+S1378,Ira Pandey,M87,18,Male,1.7,1.0,1.7,No,78.4,7.8,Good,6,Bachelor,Good,6,No,63.6,M038,3,54.83667020187908,Moderate Risk,,0
+S1288,Priya Sharma,M87,17,Male,5.4,1.6,1.4,No,100.0,7.1,Fair,3,High School,Average,5,No,95.5,M029,8,89.69503729964322,No Risk,,0
+S1418,Aditya Sharma,M87,24,Female,2.4,2.8,0.9,No,79.6,4.0,Good,4,,Average,3,Yes,54.7,M042,8,48.341815325039406,High Risk,,0
+S1674,Ishaan Kumar,M87,20,Female,2.6,2.2,0.7,No,91.6,7.3,Poor,2,High School,Poor,6,No,63.6,M068,6,64.19947414684157,Moderate Risk,,0
+S1391,Arjun Verma,M87,19,Female,3.2,0.2,0.1,Yes,87.2,7.2,Good,4,,Average,3,No,72.6,M040,6,63.1664268159694,Moderate Risk,,1
+S1592,Priya Bose,M87,21,Female,2.5,1.9,3.2,Yes,83.2,6.5,Fair,5,Master,Average,3,No,60.1,M060,5,54.5422965754363,Moderate Risk,,1
+S1498,Pari Reddy,M87,17,Female,2.0,2.7,2.0,No,91.9,6.7,Good,6,High School,Average,8,No,71.7,M050,14,61.396528575656426,Moderate Risk,,0
+S1138,Rudra Das,M87,23,Male,3.9,3.3,0.5,No,87.0,8.5,Fair,3,Master,Average,2,No,64.1,M014,1,70.52263099924161,No Risk,,0
+S1062,Rudra Reddy,M87,21,Male,4.5,3.4,3.3,Yes,93.1,7.1,Good,6,High School,Good,10,No,94.7,M007,4,89.65343734904366,No Risk,,1
+S1471,Vihaan Das,M87,24,Female,2.2,3.1,1.1,No,96.5,6.9,Fair,0,Bachelor,Poor,4,No,33.8,M048,17,56.617808394203664,Moderate Risk,,0
+S1647,Pari Iyer,M88,17,Female,4.3,1.5,0.0,No,88.9,4.6,Poor,6,,Average,4,No,84.2,M065,4,70.70540662933145,No Risk,,0
+S1128,Sara Mehta,M88,20,Male,1.8,1.8,1.1,No,92.4,6.7,Good,0,High School,Good,2,No,48.7,M013,13,47.88902314119895,High Risk,,0
+S1976,Vivaan Yadav,M88,24,Female,3.7,3.6,1.7,No,97.6,5.7,Good,0,Bachelor,Good,10,Yes,77.4,M098,17,80.29223745847264,No Risk,,0
+S1520,Priya Verma,M88,24,Female,4.1,3.3,0.6,Yes,78.7,5.1,Good,2,Bachelor,Good,1,No,62.7,M053,0,62.39623316755206,Moderate Risk,,1
+S1838,Aarav Bose,M88,20,Male,3.3,2.9,3.6,No,88.1,5.2,Fair,4,Bachelor,Average,8,Yes,60.3,M084,19,70.415405439096,No Risk,,0
+S1962,Navya Das,M88,22,Male,3.5,3.1,2.9,Yes,85.4,6.5,Good,0,Master,Average,6,No,55.1,M097,10,70.31008156136667,No Risk,,1
+S1064,Arjun Chopra,M88,23,Male,3.2,1.7,2.1,No,80.8,5.2,Good,3,High School,Poor,4,Yes,68.6,M007,20,60.78281952236401,Moderate Risk,,0
+S1812,Pari Sharma,M88,17,Female,4.5,0.9,2.2,No,84.8,5.9,Good,0,Bachelor,Good,1,No,70.6,M082,8,68.97562259076179,Moderate Risk,,0
+S1014,Priya Joshi,M88,24,Male,2.4,1.5,0.7,No,87.4,6.7,Poor,6,Bachelor,Average,9,No,78.9,M002,3,66.28656335919746,Moderate Risk,,0
+S1156,Rohan Kapoor,M88,23,Male,1.9,3.5,1.7,Yes,71.1,6.3,Fair,0,High School,Good,8,No,57.7,M016,20,56.93667587342525,Moderate Risk,,1
+S1040,Pari Singh,M89,19,Female,3.7,4.7,2.0,No,98.8,8.5,Good,6,Bachelor,Good,2,No,69.7,M005,6,70.27095822054692,No Risk,,0
+S1492,Aditya Bose,M89,17,Male,3.8,3.1,2.3,No,77.3,8.1,Good,2,High School,Good,6,No,67.8,M050,14,75.60245022753838,No Risk,,0
+S1379,Diya Mehta,M89,17,Male,0.0,2.6,1.6,No,82.4,7.4,Good,5,High School,Average,3,No,32.9,M038,13,32.77714404621521,High Risk,,0
+S1187,Mira Verma,M89,23,Male,4.9,1.5,3.5,No,84.3,6.8,Fair,0,Bachelor,Average,4,No,73.8,M019,12,80.45498871138659,No Risk,,0
+S1763,Mira Bose,M89,18,Male,3.9,2.4,0.0,Yes,91.1,5.5,Good,3,High School,Poor,1,Yes,59.5,M077,15,63.28162091216995,Moderate Risk,,1
+S1216,Saanvi Sharma,M89,20,Female,2.5,2.1,1.5,No,90.2,5.6,Fair,6,High School,Average,1,Yes,60.3,M022,0,49.796746465028164,High Risk,,0
+S1791,Aadhya Yadav,M89,24,Male,5.4,3.4,0.9,No,82.7,6.2,Fair,1,Bachelor,Good,9,No,92.3,M080,5,93.33080519302115,No Risk,,0
+S1052,Vihaan Pillai,M89,19,Female,2.4,3.6,3.6,No,86.9,7.0,Fair,6,High School,Average,1,No,48.4,M006,12,51.53533261941406,Moderate Risk,,0
+S1878,Diya Gupta,M89,21,Male,3.5,1.3,1.8,Yes,60.6,4.8,Fair,4,Bachelor,Good,2,No,60.0,M088,11,55.95099972047989,Moderate Risk,,1
+S1337,Aarav Joshi,M89,19,Male,5.3,2.2,1.7,No,92.0,5.2,Fair,2,High School,Good,5,No,93.1,M034,12,83.99182048009094,No Risk,,0
+S1748,Aditya Joshi,M90,17,Female,1.7,2.0,2.4,No,79.4,6.5,Good,5,High School,Average,8,No,45.7,M075,6,56.311446849158315,Moderate Risk,,0
+S1719,Rohan Reddy,M90,20,Male,2.3,2.3,1.6,Yes,76.9,8.7,Fair,0,High School,Good,9,No,68.9,M072,13,68.08319985590983,Moderate Risk,,1
+S1724,Navya Bhat,M90,17,Male,3.5,0.0,1.7,No,84.5,7.5,Poor,4,High School,Average,4,Yes,70.5,M073,12,68.53759666697047,Moderate Risk,,0
+S1295,Arjun Patel,M90,20,Female,0.9,4.3,4.1,No,90.1,6.1,Good,6,High School,Average,4,No,27.6,M030,2,41.40270542481939,High Risk,,0
+S1701,Diya Verma,M90,24,Male,4.7,3.1,0.9,No,74.9,4.9,Good,4,High School,Average,9,Yes,96.4,M071,0,82.90721040276651,No Risk,,0
+S1251,Ananya Singh,M90,17,Female,4.3,4.3,1.4,No,87.1,7.9,Fair,1,Master,Average,2,No,65.2,M026,6,73.27242237048797,No Risk,,0
+S1726,Sara Yadav,M90,19,Male,2.3,1.9,0.0,Yes,85.1,7.5,Fair,6,Bachelor,Poor,7,Yes,77.4,M073,0,62.52164162725103,Moderate Risk,,1
+S1461,Sai Nair,M90,21,Female,1.3,3.4,2.2,No,92.3,5.0,Fair,6,Master,Poor,5,No,49.7,M047,2,45.231950680141026,High Risk,,0
+S1455,Aditya Pandey,M90,19,Male,8.3,3.3,2.6,Yes,86.6,6.5,Fair,5,High School,Average,9,No,100.0,M046,0,100.0,No Risk,,1
+S1996,Vihaan Chopra,M90,17,Female,2.9,1.0,2.4,Yes,86.0,6.8,Poor,1,High School,Average,6,Yes,65.9,M100,19,65.49952401768219,Moderate Risk,,1
+S1815,Krishna Patel,M91,21,Female,2.9,2.6,2.0,No,72.7,5.6,Poor,1,Master,Good,1,No,43.5,M082,2,51.39679194695645,Moderate Risk,,0
+S1862,Krishna Patel,M91,18,Female,5.5,2.0,0.0,No,90.1,6.2,Good,5,High School,Poor,1,No,93.7,M087,0,79.59480316039988,No Risk,,0
+S1269,Ananya Chopra,M91,19,Female,3.1,2.1,3.0,No,93.3,8.4,Good,4,Bachelor,Average,8,No,85.6,M027,1,75.14862231676463,No Risk,,0
+S1201,Mira Pillai,M91,24,Male,4.4,0.9,0.0,No,92.3,5.8,Fair,3,High School,Good,8,No,96.5,M021,2,82.21800782474523,No Risk,,0
+S1161,Saanvi Yadav,M91,17,Other,4.3,3.4,0.8,No,73.8,6.6,Good,6,High School,Average,7,No,76.8,M017,14,78.84392223387722,No Risk,,0
+S1555,Ishaan Patel,M91,24,Male,3.4,0.0,1.6,No,95.2,5.4,Good,3,,Average,10,Yes,83.4,M056,5,76.21128794984199,No Risk,,0
+S1729,Krishna Chopra,M91,20,Male,3.5,3.0,2.7,No,70.6,5.4,Fair,5,High School,Good,7,No,66.7,M073,6,68.18633061265525,Moderate Risk,,0
+S1401,Diya Patel,M91,20,Male,2.4,2.6,1.0,No,77.0,6.0,Good,2,,Good,3,Yes,48.3,M041,12,52.125019571760745,Moderate Risk,,0
+S1702,Ananya Gupta,M91,17,Male,4.7,1.2,1.8,No,81.6,6.0,Fair,1,Master,Good,3,No,83.1,M071,9,74.57478109848476,No Risk,,0
+S1476,Vivaan Joshi,M91,17,Female,2.1,2.7,1.4,No,77.4,4.3,Good,5,Master,Good,4,Yes,39.9,M048,3,47.61104328795122,High Risk,,0
+S1821,Pari Pillai,M92,20,Male,1.4,4.0,3.6,No,81.7,7.1,Good,3,Master,Poor,4,No,35.4,M083,13,47.37322281601185,High Risk,,0
+S1771,Sara Pillai,M92,21,Female,4.2,2.0,3.5,No,88.0,6.5,Good,5,High School,Average,9,No,84.6,M078,17,83.4842454344918,No Risk,,0
+S1105,Ananya Singh,M92,18,Male,1.4,3.9,3.9,Yes,68.1,8.0,Good,4,High School,Average,4,Yes,32.8,M011,7,47.10308267582133,High Risk,,1
+S1565,Ira Yadav,M92,18,Female,5.1,2.5,2.4,No,90.3,5.0,Poor,0,Master,Good,6,No,79.3,M057,10,83.35172419069069,No Risk,,0
+S1389,Diya Bose,M92,17,Male,5.3,5.0,1.8,No,84.9,4.8,Poor,2,High School,Average,8,No,79.6,M039,0,87.78199189902267,No Risk,,0
+S1001,Ishaan Mehta,M92,20,Female,6.9,2.8,2.3,No,97.3,4.6,Good,6,High School,Average,8,No,100.0,M001,1,100.0,No Risk,,0
+S1937,Pari Mehta,M92,21,Female,1.9,3.2,1.2,No,75.9,6.0,Good,6,Bachelor,Good,5,No,41.7,M094,11,51.069271220047575,Moderate Risk,,0
+S1982,Pari Iyer,M92,20,Female,3.8,2.4,2.2,Yes,91.5,8.6,Fair,2,High School,Good,10,No,88.0,M099,16,86.09178809083713,No Risk,,1
+S1561,Sai Verma,M92,19,Other,3.1,1.9,3.7,No,78.5,7.9,Good,0,Bachelor,Good,10,Yes,66.6,M057,12,76.38989752104814,No Risk,,0
+S1080,Rudra Bhat,M92,23,Male,2.9,2.6,1.8,No,64.0,9.1,Good,6,High School,Good,8,No,70.7,M009,3,70.90617575361314,No Risk,,0
+S1205,Vivaan Mehta,M93,21,Other,3.3,4.3,3.9,No,90.4,6.4,Fair,0,High School,Good,4,No,56.4,M021,4,64.97995753611323,Moderate Risk,,0
+S1034,Ananya Chopra,M93,22,Female,1.1,2.7,0.1,No,100.0,7.7,Fair,1,High School,Good,4,No,51.2,M004,6,47.90751493459574,High Risk,,0
+S1775,Rudra Pandey,M93,21,Male,1.2,4.3,2.2,No,74.6,8.2,Fair,2,Bachelor,Average,4,No,36.2,M078,13,46.75669236106275,High Risk,,0
+S1508,Priya Ghosh,M93,24,Male,4.8,3.2,1.6,No,92.6,7.4,Fair,4,Bachelor,Poor,1,Yes,76.6,M051,14,76.01244326959403,No Risk,,0
+S1427,Sai Pandey,M93,20,Female,2.9,2.3,0.8,Yes,75.7,7.3,Fair,5,Bachelor,Good,8,No,75.1,M043,4,68.66659834591091,Moderate Risk,,1
+S1454,Diya Pandey,M93,21,Male,3.2,3.2,2.6,Yes,78.0,4.2,Fair,5,Bachelor,Poor,1,No,46.7,M046,2,51.96724716638775,Moderate Risk,,1
+S1366,Vihaan Joshi,M93,22,Male,6.3,3.0,1.6,No,93.6,7.7,Poor,2,High School,Average,6,Yes,94.8,M037,12,100.0,No Risk,,0
+S1091,Priya Ghosh,M93,20,Female,4.8,4.3,2.1,No,80.6,4.7,Fair,5,High School,Average,2,No,63.4,M010,15,71.00118299811243,No Risk,,0
+S1339,Ishaan Patel,M93,20,Female,4.4,2.9,1.4,No,92.8,6.6,Fair,6,Master,Good,4,Yes,77.9,M034,7,76.25792111845763,No Risk,,0
+S1897,Aditya Pillai,M93,20,Male,4.8,2.7,2.3,No,93.2,6.6,Good,1,High School,Good,1,Yes,70.8,M090,17,74.55992897072616,No Risk,,0
+S1564,Diya Bose,M94,20,Male,2.1,4.9,1.1,No,92.0,8.0,Good,3,High School,Average,4,No,61.5,M057,1,56.881886354419805,Moderate Risk,,0
+S1345,Sai Sharma,M94,23,Male,2.8,1.5,0.3,No,91.6,6.7,Fair,3,Bachelor,Poor,4,No,71.6,M035,19,61.35414213930989,Moderate Risk,,0
+S1776,Arjun Iyer,M94,17,Male,3.9,1.8,3.2,No,93.6,8.2,Poor,0,High School,Average,4,No,65.6,M078,8,74.83334609594988,No Risk,,0
+S1241,Sara Patel,M94,23,Male,4.3,2.7,2.4,Yes,66.5,5.0,Fair,5,Bachelor,Poor,3,No,60.6,M025,5,66.53103800367758,Moderate Risk,,1
+S1013,Arjun Mehta,M94,19,Female,3.4,2.7,2.7,No,89.3,4.7,Fair,4,Bachelor,Good,10,No,75.8,M002,1,73.93912490387379,No Risk,,0
+S1315,Rohan Joshi,M94,24,Female,4.5,3.4,0.4,No,79.6,6.1,Fair,5,High School,Poor,10,No,98.8,M032,6,86.11245104461976,No Risk,,0
+S1600,Diya Pillai,M94,21,Male,6.0,3.3,2.2,No,74.4,5.4,Fair,0,High School,Average,8,Yes,90.2,M061,18,94.7633972544241,No Risk,,0
+S1387,Navya Patel,M94,23,Male,4.0,1.8,3.4,No,87.1,8.1,Good,1,Bachelor,Poor,9,Yes,82.9,M039,4,84.34191216831108,No Risk,,0
+S1273,Priya Nair,M94,24,Male,2.6,2.3,1.7,No,85.6,5.7,Fair,1,Bachelor,Good,1,Yes,45.5,M028,16,50.765174865063784,Moderate Risk,,0
+S1166,Sara Joshi,M94,24,Male,2.1,1.2,1.8,No,87.5,5.1,Fair,1,High School,Average,7,No,66.7,M017,11,56.54989226093715,Moderate Risk,,0
+S1840,Diya Pandey,M95,23,Male,2.5,0.2,0.9,Yes,89.5,7.5,Good,3,High School,Good,6,Yes,80.0,M085,10,63.31422777914717,Moderate Risk,,1
+S1992,Aditya Kapoor,M95,18,Male,3.5,0.0,1.9,No,96.8,6.4,Fair,3,Bachelor,Poor,3,No,71.8,M100,7,65.85228627859541,Moderate Risk,,0
+S1646,Arjun Bose,M95,21,Female,3.9,2.4,1.8,No,100.0,6.2,Poor,2,High School,Average,3,No,68.4,M065,6,69.65327618894098,Moderate Risk,,0
+S1818,Diya Pillai,M95,20,Male,2.3,3.2,2.4,No,83.0,4.2,Fair,6,Bachelor,Poor,1,Yes,48.5,M082,18,44.606188898042724,High Risk,,0
+S1484,Ananya Gupta,M95,21,Female,1.9,1.2,0.9,No,85.3,5.1,Fair,2,Bachelor,Good,7,Yes,56.9,M049,14,54.43484185231331,Moderate Risk,,0
+S1980,Rohan Reddy,M95,20,Female,3.7,3.5,2.5,No,93.0,5.2,Poor,6,High School,Good,10,Yes,81.0,M099,15,78.64127184686386,No Risk,,0
+S1504,Aarav Singh,M95,23,Female,5.4,3.1,3.1,No,79.0,4.2,Fair,1,Bachelor,Good,4,No,77.9,M051,19,79.49311302318675,No Risk,,0
+S1831,Ira Bose,M95,21,Female,4.6,3.2,1.3,No,84.2,6.8,Poor,5,High School,Average,1,Yes,77.6,M084,7,71.63371593313546,No Risk,,0
+S1243,Aadhya Verma,M95,17,Female,4.6,2.2,1.7,No,85.2,7.6,Fair,2,Bachelor,Average,8,No,87.3,M025,14,87.12876869770987,No Risk,,0
+S1566,Vivaan Gupta,M95,18,Male,2.7,3.7,2.3,No,86.7,7.0,Poor,5,High School,Good,4,Yes,63.9,M057,2,59.933896344214155,Moderate Risk,,0
+S1875,Ishaan Pandey,M96,19,Female,7.6,3.0,2.9,No,99.4,4.8,Poor,0,High School,Good,3,No,100.0,M088,6,100.0,No Risk,,0
+S1562,Krishna Iyer,M96,23,Female,4.6,1.2,0.0,No,63.1,6.4,Good,3,,Average,6,No,91.7,M057,10,77.87543041637848,No Risk,,0
+S1686,Rudra Yadav,M96,22,Female,5.4,1.8,3.0,Yes,75.6,6.9,Fair,0,High School,Average,1,No,69.9,M069,1,78.03204219843428,No Risk,,1
+S1189,Krishna Reddy,M96,22,Male,3.2,2.0,1.6,No,78.2,5.6,Fair,2,High School,Average,7,Yes,60.5,M019,13,66.89039570825847,Moderate Risk,,0
+S1782,Arjun Mehta,M96,24,Female,3.9,3.3,1.1,Yes,90.6,8.6,Fair,0,,Good,3,No,56.0,M079,12,73.24693601572812,No Risk,,1
+S1699,Sara Singh,M96,19,Male,3.9,2.7,1.6,No,92.1,6.0,Fair,3,Bachelor,Average,9,No,77.8,M070,7,79.89411652065748,No Risk,,0
+S1475,Sara Mehta,M96,24,Male,2.9,3.8,2.1,No,79.8,6.4,Good,6,Bachelor,Good,5,Yes,52.1,M048,13,61.964019304061395,Moderate Risk,,0
+S1681,Ananya Joshi,M96,21,Male,0.7,0.7,1.0,No,81.7,9.3,Poor,6,,Average,3,No,51.5,M069,10,43.1009603512389,High Risk,,0
+S1510,Aditya Verma,M96,17,Male,3.1,1.7,2.9,Yes,71.5,5.6,Good,0,Bachelor,Average,3,Yes,51.1,M052,9,57.043519610048,Moderate Risk,,1
+S1058,Saanvi Chopra,M96,19,Female,2.2,5.0,1.0,No,78.4,7.5,Poor,5,Master,Average,2,Yes,46.4,M006,16,51.57466393364594,Moderate Risk,,0
+S1474,Rudra Singh,M97,19,Male,3.0,4.5,2.3,Yes,79.7,7.0,Fair,6,Bachelor,Good,5,No,52.6,M048,13,63.945820615551185,Moderate Risk,,1
+S1560,Sai Joshi,M97,20,Female,4.3,4.8,2.9,Yes,83.7,7.7,Fair,3,High School,Good,9,No,79.8,M057,1,85.71813670199258,No Risk,,1
+S1856,Mira Das,M97,19,Female,3.1,0.7,1.3,Yes,88.0,7.6,Fair,2,High School,Poor,6,Yes,81.5,M086,20,69.2980079837802,Moderate Risk,,1
+S1747,Vivaan Kumar,M97,23,Male,1.8,1.1,0.3,No,85.5,6.4,Good,2,High School,Average,6,No,49.8,M075,13,54.152983914757336,Moderate Risk,,0
+S1252,Arjun Das,M97,20,Female,4.2,1.2,4.0,No,75.8,6.5,Fair,1,High School,Good,10,No,85.3,M026,16,83.81938637742617,No Risk,,0
+S1021,Ira Sharma,M97,21,Male,5.6,2.1,2.4,No,95.6,7.2,Fair,1,High School,Good,3,No,82.5,M003,9,87.37914315817365,No Risk,,0
+S1313,Diya Verma,M97,23,Female,3.5,0.8,0.6,No,89.2,7.7,Good,0,High School,Good,4,No,84.2,M032,18,69.70126540696626,Moderate Risk,,0
+S1459,Navya Joshi,M97,19,Female,5.2,4.2,2.8,Yes,93.0,7.5,Poor,2,High School,Good,7,No,77.9,M046,8,91.40122943360967,No Risk,,1
+S1160,Sara Verma,M97,23,Male,3.6,3.0,2.0,No,93.9,5.1,Fair,0,Master,Average,5,No,65.2,M017,18,67.98049761516037,Moderate Risk,,0
+S1276,Arjun Iyer,M97,17,Male,3.1,2.3,2.4,Yes,83.2,5.9,Fair,4,High School,Good,4,Yes,61.5,M028,16,61.27967697436074,Moderate Risk,,1
+S1955,Aditya Mehta,M98,19,Female,2.7,2.8,1.4,Yes,92.2,10.0,Poor,3,High School,Average,8,No,86.9,M096,3,74.29322770445276,No Risk,,1
+S1191,Rudra Pillai,M98,19,Male,0.8,3.2,1.4,No,84.9,8.3,Good,1,Master,Average,6,No,45.1,M020,14,48.382166836519204,High Risk,,0
+S1385,Ira Bose,M98,24,Male,4.2,3.0,2.1,No,73.0,6.5,Poor,4,Bachelor,Poor,2,No,64.2,M039,9,67.75836182043476,Moderate Risk,,0
+S1805,Pari Ghosh,M98,20,Female,3.6,2.2,2.2,No,75.1,6.0,Fair,3,Bachelor,Average,10,Yes,76.1,M081,8,76.79853880786054,No Risk,,0
+S1413,Navya Mehta,M98,17,Male,1.5,2.4,2.0,Yes,85.3,5.6,Poor,3,High School,Average,9,No,60.3,M042,14,55.34094811330295,Moderate Risk,,1
+S1491,Arjun Bhat,M98,21,Female,4.0,4.3,2.4,No,84.8,8.3,Good,0,High School,Good,2,No,53.0,M050,14,71.12233784939934,No Risk,,0
+S1343,Aditya Pandey,M98,18,Other,3.5,1.8,1.9,No,85.8,6.6,Fair,0,High School,Good,9,No,85.0,M035,4,76.39296554863775,No Risk,,0
+S1769,Sara Bose,M98,17,Male,6.4,3.7,2.0,No,64.1,5.1,Fair,6,High School,Good,4,No,98.8,M077,7,88.60040561206155,No Risk,,0
+S1308,Diya Nair,M98,24,Male,1.7,3.3,1.3,No,94.7,5.8,Fair,6,Master,Good,6,Yes,61.5,M031,9,53.08274489249888,Moderate Risk,,0
+S1661,Saanvi Kapoor,M98,19,Male,3.6,3.5,2.1,No,82.2,5.8,Good,3,Bachelor,Poor,10,No,62.5,M067,8,77.31584135531473,No Risk,,0
+S1130,Sai Nair,M99,20,Female,4.1,4.6,3.4,No,85.3,5.5,Poor,5,Bachelor,Good,10,No,81.6,M014,6,81.83095204458279,No Risk,,0
+S1663,Pari Bose,M99,22,Female,2.5,0.8,2.0,No,89.6,8.6,Fair,4,High School,Good,6,No,75.6,M067,8,65.6495485431354,Moderate Risk,,0
+S1871,Vihaan Reddy,M99,24,Male,2.0,1.7,0.2,Yes,81.4,7.3,Poor,3,Master,Good,8,Yes,66.5,M088,13,61.0530106301635,Moderate Risk,,1
+S1099,Mira Nair,M99,21,Male,3.4,2.7,3.4,No,100.0,6.6,Good,1,High School,Good,6,No,65.6,M010,20,71.86719878437188,No Risk,,0
+S1372,Rudra Singh,M99,18,Female,4.0,3.2,1.7,No,77.4,6.4,Fair,6,High School,Good,3,No,68.4,M038,2,67.98077500183443,Moderate Risk,,0
+S1087,Sai Bhat,M99,17,Male,2.3,0.9,1.0,No,69.0,6.2,Fair,1,Master,Average,2,Yes,47.2,M009,4,48.39302820548699,High Risk,,0
+S1458,Rohan Joshi,M99,19,Male,2.9,3.0,3.1,No,70.9,5.4,Good,5,Master,Good,3,No,59.0,M046,4,54.69310117559403,Moderate Risk,,0
+S1330,Mira Chopra,M99,17,Male,2.7,2.5,1.4,No,95.9,6.6,Good,6,Master,Average,2,No,52.2,M034,6,56.54379541028743,Moderate Risk,,0
+S1214,Aditya Gupta,M99,19,Male,5.7,3.8,0.0,No,100.0,8.8,Fair,3,,Average,7,No,100.0,M022,14,100.0,No Risk,,0
+S1466,Krishna Verma,M99,24,Female,2.8,4.2,0.9,No,90.3,6.1,Good,2,Bachelor,Average,10,No,59.7,M047,2,71.18517345672988,No Risk,,0
+S1121,Ishaan Nair,M100,21,Male,3.3,1.7,1.8,No,85.2,7.7,Poor,0,High School,Good,2,No,60.5,M013,16,63.3453989750493,Moderate Risk,,0
+S1614,Rudra Iyer,M100,22,Female,2.4,1.9,0.0,No,75.3,6.5,Good,6,High School,Good,1,No,53.9,M062,17,49.157412231401764,High Risk,,0
+S1020,Saanvi Mehta,M100,22,Female,3.8,2.3,2.9,No,83.0,6.4,Good,3,Master,Good,1,No,58.5,M003,0,62.86755596668698,Moderate Risk,,0
+S1700,Mira Singh,M100,18,Female,3.3,1.9,1.3,No,100.0,7.0,Poor,0,Bachelor,Poor,6,Yes,67.7,M071,14,71.56359961260199,No Risk,,0
+S1071,Navya Kapoor,M100,18,Female,1.4,3.4,0.0,No,89.9,4.6,Fair,0,High School,Poor,10,Yes,55.1,M008,1,54.745397874723075,Moderate Risk,,0
+S1106,Arjun Singh,M100,22,Male,3.3,0.4,0.8,No,83.3,9.1,Good,6,High School,Good,4,Yes,82.3,M011,11,69.66353172748231,Moderate Risk,,0
+S1270,Priya Iyer,M100,22,Male,4.0,3.2,2.3,Yes,96.6,6.0,Good,4,High School,Good,3,Yes,63.0,M028,15,69.83128822554607,Moderate Risk,,1
+S1860,Ananya Kapoor,M100,20,Female,3.6,3.9,4.2,No,100.0,8.3,Poor,1,High School,Poor,8,Yes,65.6,M087,5,80.68501506514865,No Risk,,0
+S1435,Vihaan Sharma,M100,24,Male,2.0,0.0,3.1,No,73.7,6.3,Good,6,High School,Average,3,Yes,58.3,M044,17,48.61432181518266,High Risk,,0
+S1102,Aditya Patel,M100,18,Male,4.3,4.0,0.8,No,100.0,7.5,Fair,0,,Average,1,No,60.8,M011,20,72.55710643341658,No Risk,,0
